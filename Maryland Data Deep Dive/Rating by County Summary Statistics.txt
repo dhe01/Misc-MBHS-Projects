@@ -1,0 +1,215 @@
+Kent:
+Mean: 48.34
+Standard Deviation: 10.80
+Minimum: 37.95
+First Quartile: 39.75
+Median: 46.81
+Third Quartile: 48.86
+Maximum: 68.32
+
+Frederick:
+Mean: 59.29
+Standard Deviation: 10.88
+Minimum: 38.45
+First Quartile: 50.29
+Median: 60.38
+Third Quartile: 66.89
+Maximum: 88.62
+
+Wicomico:
+Mean: 49.01
+Standard Deviation: 10.71
+Minimum: 33.05
+First Quartile: 40.68
+Median: 47.43
+Third Quartile: 58.54
+Maximum: 68.29
+
+Calvert:
+Mean: 57.88
+Standard Deviation: 9.43
+Minimum: 40.75
+First Quartile: 50.15
+Median: 60.56
+Third Quartile: 63.53
+Maximum: 71.52
+
+Baltimore County:
+Mean: 49.00
+Standard Deviation: 13.39
+Minimum: 26.71
+First Quartile: 38.04
+Median: 45.92
+Third Quartile: 58.70
+Maximum: 84.34
+
+Washington:
+Mean: 59.91
+Standard Deviation: 11.14
+Minimum: 36.70
+First Quartile: 52.04
+Median: 61.34
+Third Quartile: 69.47
+Maximum: 75.23
+
+Dorchester:
+Mean: 47.72
+Standard Deviation: 17.68
+Minimum: 29.03
+First Quartile: 33.65
+Median: 44.69
+Third Quartile: 58.74
+Maximum: 80.57
+
+Saint Mary's:
+Mean: 58.28
+Standard Deviation: 10.66
+Minimum: 34.64
+First Quartile: 50.83
+Median: 59.70
+Third Quartile: 64.46
+Maximum: 80.36
+
+Howard:
+Mean: 55.18
+Standard Deviation: 10.24
+Minimum: 35.35
+First Quartile: 48.23
+Median: 53.95
+Third Quartile: 63.13
+Maximum: 81.86
+
+Baltimore City:
+Mean: 40.27
+Standard Deviation: 8.31
+Minimum: 24.45
+First Quartile: 34.43
+Median: 38.72
+Third Quartile: 45.24
+Maximum: 65.30
+
+Charles:
+Mean: 49.93
+Standard Deviation: 9.72
+Minimum: 35.15
+First Quartile: 42.50
+Median: 48.73
+Third Quartile: 57.71
+Maximum: 67.58
+
+Worcester:
+Mean: 58.30
+Standard Deviation: 15.66
+Minimum: 37.85
+First Quartile: 45.20
+Median: 55.76
+Third Quartile: 68.42
+Maximum: 90.69
+
+Allegany:
+Mean: 61.83
+Standard Deviation: 13.48
+Minimum: 38.65
+First Quartile: 52.59
+Median: 62.60
+Third Quartile: 75.52
+Maximum: 79.71
+
+Talbot:
+Mean: 55.15
+Standard Deviation: 16.40
+Minimum: 35.00
+First Quartile: 40.64
+Median: 53.16
+Third Quartile: 69.79
+Maximum: 79.91
+
+Anne Arundel:
+Mean: 56.79
+Standard Deviation: 13.62
+Minimum: 31.33
+First Quartile: 44.45
+Median: 57.02
+Third Quartile: 68.27
+Maximum: 88.28
+
+Harford:
+Mean: 57.10
+Standard Deviation: 14.85
+Minimum: 33.14
+First Quartile: 43.10
+Median: 58.31
+Third Quartile: 69.52
+Maximum: 83.39
+
+Somerset:
+Mean: 46.82
+Standard Deviation: 14.61
+Minimum: 30.85
+First Quartile: 35.53
+Median: 44.92
+Third Quartile: 51.03
+Maximum: 74.77
+
+Cecil:
+Mean: 53.64
+Standard Deviation: 10.86
+Minimum: 35.15
+First Quartile: 43.38
+Median: 55.02
+Third Quartile: 62.27
+Maximum: 73.35
+
+Caroline:
+Mean: 52.16
+Standard Deviation: 8.78
+Minimum: 35.20
+First Quartile: 46.54
+Median: 54.19
+Third Quartile: 57.70
+Maximum: 63.26
+
+Queen Anne's:
+Mean: 62.14
+Standard Deviation: 12.89
+Minimum: 34.20
+First Quartile: 55.34
+Median: 67.71
+Third Quartile: 71.28
+Maximum: 77.05
+
+Garrett:
+Mean: 61.73
+Standard Deviation: 11.22
+Minimum: 40.75
+First Quartile: 55.69
+Median: 62.12
+Third Quartile: 68.62
+Maximum: 80.22
+
+Prince George's:
+Mean: 47.85
+Standard Deviation: 10.33
+Minimum: 30.23
+First Quartile: 40.28
+Median: 45.83
+Third Quartile: 52.77
+Maximum: 86.09
+
+Montgomery:
+Mean: 55.09
+Standard Deviation: 11.36
+Minimum: 31.13
+First Quartile: 46.86
+Median: 54.50
+Third Quartile: 64.48
+Maximum: 82.80
+
+Carroll:
+Mean: 60.48
+Standard Deviation: 10.80
+Minimum: 40.20
+First Quartile: 53.86
+Median: 61.16
+Third Quartile: 70.07
+Maximum: 79.39

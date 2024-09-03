@@ -1,0 +1,1531 @@
+Academic Year,LEA Number,LEA Name,School Number,School Name,AP Subject Group,Students Tested,Number of Exams,Exams per Student,Mean Grade per Exam,Exams with Grades 3-5,% Exams with Grades 3-5,Create Date 
+2022,01,Allegany,0405,Fort Hill High,All Subjects,28,54,1.9,2.65,24,44.4,20221114
+2022,01,Allegany,0405,Fort Hill High,All English,13,14,1.1,2.36,4,28.6,20221114
+2022,01,Allegany,0405,Fort Hill High,All History & Social Science,22,39,1.8,2.77,20,51.3,20221114
+2022,01,Allegany,0405,Fort Hill High,All Math & Computer Science,*,*,*,*,*,*,20221114
+2022,01,Allegany,0601,Center for Career & Technical Education,All Subjects,11,14,1.3,1.57,3,21.4,20221114
+2022,01,Allegany,0601,Center for Career & Technical Education,All English,*,*,*,*,*,*,20221114
+2022,01,Allegany,0601,Center for Career & Technical Education,All History & Social Science,*,*,*,*,*,*,20221114
+2022,01,Allegany,0601,Center for Career & Technical Education,All Math & Computer Science,*,*,*,*,*,*,20221114
+2022,01,Allegany,0601,Center for Career & Technical Education,All Sciences,*,*,*,*,*,*,20221114
+2022,01,Allegany,0606,Allegany High,All Subjects,51,116,2.3,2.62,56,48.3,20221114
+2022,01,Allegany,0606,Allegany High,All Arts,*,*,*,*,*,*,20221114
+2022,01,Allegany,0606,Allegany High,All English,19,22,1.2,2.77,12,54.5,20221114
+2022,01,Allegany,0606,Allegany High,All History & Social Science,41,61,1.5,2.52,28,45.9,20221114
+2022,01,Allegany,0606,Allegany High,All Math & Computer Science,*,*,*,*,*,*,20221114
+2022,01,Allegany,0606,Allegany High,All Sciences,23,25,1.1,2.56,10,40,20221114
+2022,01,Allegany,0606,Allegany High,All World Languages & Cultures,*,*,*,*,*,*,20221114
+2022,01,Allegany,2404,Mountain Ridge High School,All Subjects,46,147,3.2,2.72,82,55.8,20221114
+2022,01,Allegany,2404,Mountain Ridge High School,All English,24,26,1.1,2.69,13,50,20221114
+2022,01,Allegany,2404,Mountain Ridge High School,All History & Social Science,43,83,1.9,2.53,41,49.4,20221114
+2022,01,Allegany,2404,Mountain Ridge High School,All Math & Computer Science,11,14,1.3,3.36,12,85.7,20221114
+2022,01,Allegany,2404,Mountain Ridge High School,All Sciences,16,17,1.1,3.06,11,64.7,20221114
+2022,01,Allegany,2404,Mountain Ridge High School,All World Languages & Cultures,*,*,*,*,*,*,20221114
+2022,01,Allegany,A,All Allegany Schools,All Subjects,136,331,2.4,2.63,165,49.8,20221114
+2022,01,Allegany,A,All Allegany Schools,All Arts,*,*,*,*,*,*,20221114
+2022,01,Allegany,A,All Allegany Schools,All English,63,69,1.1,2.55,31,44.9,20221114
+2022,01,Allegany,A,All Allegany Schools,All History & Social Science,107,184,1.7,2.57,89,48.4,20221114
+2022,01,Allegany,A,All Allegany Schools,All Math & Computer Science,18,22,1.2,3.18,17,77.3,20221114
+2022,01,Allegany,A,All Allegany Schools,All Sciences,43,46,1.1,2.61,21,45.7,20221114
+2022,01,Allegany,A,All Allegany Schools,All World Languages & Cultures,*,*,*,*,*,*,20221114
+2022,02,Anne Arundel,1033,Glen Burnie High,All Subjects,139,422,3,2.4,185,43.8,20221114
+2022,02,Anne Arundel,1033,Glen Burnie High,All Arts,*,*,*,*,*,*,20221114
+2022,02,Anne Arundel,1033,Glen Burnie High,All English,79,119,1.5,2.57,56,47.1,20221114
+2022,02,Anne Arundel,1033,Glen Burnie High,All History & Social Science,110,183,1.7,2.54,96,52.5,20221114
+2022,02,Anne Arundel,1033,Glen Burnie High,All Math & Computer Science,57,69,1.2,1.71,11,15.9,20221114
+2022,02,Anne Arundel,1033,Glen Burnie High,All Sciences,30,36,1.2,2.08,11,30.6,20221114
+2022,02,Anne Arundel,1033,Glen Burnie High,All World Languages & Cultures,*,*,*,*,*,*,20221114
+2022,02,Anne Arundel,1323,North County High,All Subjects,202,832,4.1,2.54,408,49,20221114
+2022,02,Anne Arundel,1323,North County High,All Arts,*,*,*,*,*,*,20221114
+2022,02,Anne Arundel,1323,North County High,All English,106,133,1.3,2.76,77,57.9,20221114
+2022,02,Anne Arundel,1323,North County High,All History & Social Science,178,332,1.9,2.64,181,54.5,20221114
+2022,02,Anne Arundel,1323,North County High,All Math & Computer Science,106,196,1.8,2.36,83,42.3,20221114
+2022,02,Anne Arundel,1323,North County High,All Sciences,91,122,1.3,2.34,44,36.1,20221114
+2022,02,Anne Arundel,1323,North County High,All World Languages & Cultures,42,42,1,2.38,17,40.5,20221114
+2022,02,Anne Arundel,2013,Severna Park High,All Subjects,311,1308,4.2,3.08,892,68.2,20221114
+2022,02,Anne Arundel,2013,Severna Park High,All Arts,18,18,1,3.89,*,>= 95.0,20221114
+2022,02,Anne Arundel,2013,Severna Park High,All English,154,216,1.4,3.41,175,81,20221114
+2022,02,Anne Arundel,2013,Severna Park High,All History & Social Science,287,575,2,3,379,65.9,20221114
+2022,02,Anne Arundel,2013,Severna Park High,All Math & Computer Science,166,238,1.4,3.21,172,72.3,20221114
+2022,02,Anne Arundel,2013,Severna Park High,All Sciences,142,211,1.5,2.8,118,55.9,20221114
+2022,02,Anne Arundel,2013,Severna Park High,All World Languages & Cultures,49,50,1,2.72,30,60,20221114
+2022,02,Anne Arundel,2023,Northeast High,All Subjects,90,292,3.2,2.77,162,55.5,20221114
+2022,02,Anne Arundel,2023,Northeast High,All Arts,*,*,*,*,*,*,20221114
+2022,02,Anne Arundel,2023,Northeast High,All English,55,78,1.4,2.87,49,62.8,20221114
+2022,02,Anne Arundel,2023,Northeast High,All History & Social Science,75,134,1.8,2.69,69,51.5,20221114
+2022,02,Anne Arundel,2023,Northeast High,All Math & Computer Science,30,47,1.6,2.68,23,48.9,20221114
+2022,02,Anne Arundel,2023,Northeast High,All Sciences,19,22,1.2,2.91,12,54.5,20221114
+2022,02,Anne Arundel,2023,Northeast High,All World Languages & Cultures,*,*,*,*,*,*,20221114
+2022,02,Anne Arundel,2233,Anne Arundel Evening High,All Subjects,*,*,*,*,*,*,20221114
+2022,02,Anne Arundel,2233,Anne Arundel Evening High,All English,*,*,*,*,*,*,20221114
+2022,02,Anne Arundel,2233,Anne Arundel Evening High,All History & Social Science,*,*,*,*,*,*,20221114
+2022,02,Anne Arundel,2233,Anne Arundel Evening High,All Sciences,*,*,*,*,*,*,20221114
+2022,02,Anne Arundel,2233,Anne Arundel Evening High,All World Languages & Cultures,*,*,*,*,*,*,20221114
+2022,02,Anne Arundel,2273,Chesapeake High,All Subjects,134,499,3.7,2.8,293,58.7,20221114
+2022,02,Anne Arundel,2273,Chesapeake High,All Arts,*,*,*,*,*,*,20221114
+2022,02,Anne Arundel,2273,Chesapeake High,All English,78,120,1.5,3.11,85,70.8,20221114
+2022,02,Anne Arundel,2273,Chesapeake High,All History & Social Science,102,209,2,2.84,124,59.3,20221114
+2022,02,Anne Arundel,2273,Chesapeake High,All Math & Computer Science,71,102,1.4,2.52,51,50,20221114
+2022,02,Anne Arundel,2273,Chesapeake High,All Sciences,46,54,1.2,2.37,22,40.7,20221114
+2022,02,Anne Arundel,2273,Chesapeake High,All World Languages & Cultures,*,*,*,*,*,*,20221114
+2022,02,Anne Arundel,2363,Broadneck High,All Subjects,285,1020,3.6,3.07,673,66,20221114
+2022,02,Anne Arundel,2363,Broadneck High,All Arts,42,43,1,2.98,26,60.5,20221114
+2022,02,Anne Arundel,2363,Broadneck High,All English,91,112,1.2,3.58,93,83,20221114
+2022,02,Anne Arundel,2363,Broadneck High,All History & Social Science,220,470,2.1,3.04,309,65.7,20221114
+2022,02,Anne Arundel,2363,Broadneck High,All Math & Computer Science,155,240,1.5,2.98,145,60.4,20221114
+2022,02,Anne Arundel,2363,Broadneck High,All Sciences,104,133,1.3,2.92,82,61.7,20221114
+2022,02,Anne Arundel,2363,Broadneck High,All World Languages & Cultures,22,22,1,3.18,18,81.8,20221114
+2022,02,Anne Arundel,3013,Arundel High,All Subjects,270,1096,4.1,3,720,65.7,20221114
+2022,02,Anne Arundel,3013,Arundel High,All Arts,16,17,1.1,3.06,13,76.5,20221114
+2022,02,Anne Arundel,3013,Arundel High,All English,162,236,1.5,3.04,157,66.5,20221114
+2022,02,Anne Arundel,3013,Arundel High,All History & Social Science,181,398,2.2,3.05,261,65.6,20221114
+2022,02,Anne Arundel,3013,Arundel High,All Math & Computer Science,157,265,1.7,2.94,175,66,20221114
+2022,02,Anne Arundel,3013,Arundel High,All Sciences,123,148,1.2,2.87,91,61.5,20221114
+2022,02,Anne Arundel,3013,Arundel High,All World Languages & Cultures,28,32,1.1,3.25,23,71.9,20221114
+2022,02,Anne Arundel,3063,Crofton High School,All Subjects,*,*,*,*,*,*,20221114
+2022,02,Anne Arundel,3063,Crofton High School,All History & Social Science,*,*,*,*,*,*,20221114
+2022,02,Anne Arundel,3323,Meade High,All Subjects,130,250,1.9,2.16,88,35.2,20221114
+2022,02,Anne Arundel,3323,Meade High,All Arts,*,*,*,*,*,*,20221114
+2022,02,Anne Arundel,3323,Meade High,All English,31,40,1.3,2.03,11,27.5,20221114
+2022,02,Anne Arundel,3323,Meade High,All History & Social Science,94,129,1.4,2.16,44,34.1,20221114
+2022,02,Anne Arundel,3323,Meade High,All Math & Computer Science,29,34,1.2,1.74,9,26.5,20221114
+2022,02,Anne Arundel,3323,Meade High,All Sciences,22,27,1.2,1.89,5,18.5,20221114
+2022,02,Anne Arundel,3323,Meade High,All World Languages & Cultures,16,16,1,3.63,*,>= 95.0,20221114
+2022,02,Anne Arundel,3353,Old Mill High,All Subjects,199,512,2.6,2.31,200,39.1,20221114
+2022,02,Anne Arundel,3353,Old Mill High,All Arts,*,*,*,*,*,*,20221114
+2022,02,Anne Arundel,3353,Old Mill High,All English,97,128,1.3,2.51,64,50,20221114
+2022,02,Anne Arundel,3353,Old Mill High,All History & Social Science,153,234,1.5,2.22,85,36.3,20221114
+2022,02,Anne Arundel,3353,Old Mill High,All Math & Computer Science,61,80,1.3,2.35,31,38.8,20221114
+2022,02,Anne Arundel,3353,Old Mill High,All Sciences,53,59,1.1,2.05,14,23.7,20221114
+2022,02,Anne Arundel,3353,Old Mill High,All World Languages & Cultures,*,*,*,*,*,*,20221114
+2022,02,Anne Arundel,4013,Annapolis High,All Subjects,217,642,3,2.73,351,54.7,20221114
+2022,02,Anne Arundel,4013,Annapolis High,All Arts,22,25,1.1,3.24,19,76,20221114
+2022,02,Anne Arundel,4013,Annapolis High,All English,59,85,1.4,2.51,41,48.2,20221114
+2022,02,Anne Arundel,4013,Annapolis High,All History & Social Science,166,360,2.2,2.8,204,56.7,20221114
+2022,02,Anne Arundel,4013,Annapolis High,All Math & Computer Science,68,79,1.2,2.34,36,45.6,20221114
+2022,02,Anne Arundel,4013,Annapolis High,All Sciences,52,54,1,2.5,22,40.7,20221114
+2022,02,Anne Arundel,4013,Annapolis High,All World Languages & Cultures,38,39,1,3.31,29,74.4,20221114
+2022,02,Anne Arundel,4023,Southern High,All Subjects,122,533,4.4,2.55,264,49.5,20221114
+2022,02,Anne Arundel,4023,Southern High,All Arts,15,18,1.2,2.78,12,66.7,20221114
+2022,02,Anne Arundel,4023,Southern High,All English,60,77,1.3,3.04,49,63.6,20221114
+2022,02,Anne Arundel,4023,Southern High,All History & Social Science,105,255,2.4,2.59,126,49.4,20221114
+2022,02,Anne Arundel,4023,Southern High,All Math & Computer Science,73,124,1.7,2.36,60,48.4,20221114
+2022,02,Anne Arundel,4023,Southern High,All Sciences,42,59,1.4,2.07,17,28.8,20221114
+2022,02,Anne Arundel,4054,AACPS Virtual Academy,All Subjects,*,*,*,*,*,*,20221114
+2022,02,Anne Arundel,4054,AACPS Virtual Academy,All Arts,*,*,*,*,*,*,20221114
+2022,02,Anne Arundel,4054,AACPS Virtual Academy,All English,*,*,*,*,*,*,20221114
+2022,02,Anne Arundel,4054,AACPS Virtual Academy,All History & Social Science,*,*,*,*,*,*,20221114
+2022,02,Anne Arundel,4054,AACPS Virtual Academy,All Sciences,*,*,*,*,*,*,20221114
+2022,02,Anne Arundel,4293,South River High,All Subjects,345,1885,5.5,3.09,1272,67.5,20221114
+2022,02,Anne Arundel,4293,South River High,All AP Capstone,20,39,2,3.62,*,>= 95.0,20221114
+2022,02,Anne Arundel,4293,South River High,All Arts,17,18,1.1,3.61,*,>= 95.0,20221114
+2022,02,Anne Arundel,4293,South River High,All English,235,326,1.4,3.33,249,76.4,20221114
+2022,02,Anne Arundel,4293,South River High,All History & Social Science,302,635,2.1,3.16,444,69.9,20221114
+2022,02,Anne Arundel,4293,South River High,All Math & Computer Science,221,483,2.2,3.04,320,66.3,20221114
+2022,02,Anne Arundel,4293,South River High,All Sciences,252,366,1.5,2.73,190,51.9,20221114
+2022,02,Anne Arundel,4293,South River High,All World Languages & Cultures,18,18,1,3.17,12,66.7,20221114
+2022,02,Anne Arundel,6223,Chesapeake Science Point,All Subjects,44,221,5,2.82,136,61.5,20221114
+2022,02,Anne Arundel,6223,Chesapeake Science Point,All English,27,41,1.5,3.41,37,90.2,20221114
+2022,02,Anne Arundel,6223,Chesapeake Science Point,All History & Social Science,30,68,2.3,3.22,49,72.1,20221114
+2022,02,Anne Arundel,6223,Chesapeake Science Point,All Math & Computer Science,41,81,2,2.37,37,45.7,20221114
+2022,02,Anne Arundel,6223,Chesapeake Science Point,All Sciences,24,31,1.3,2.32,13,41.9,20221114
+2022,02,Anne Arundel,A,All Anne Arundel Schools,All Subjects,2500,9535,3.8,2.84,5651,59.3,20221114
+2022,02,Anne Arundel,A,All Anne Arundel Schools,All AP Capstone,20,39,2,3.62,*,>= 95.0,20221114
+2022,02,Anne Arundel,A,All Anne Arundel Schools,All Arts,171,182,1.1,3.18,140,76.9,20221114
+2022,02,Anne Arundel,A,All Anne Arundel Schools,All English,1240,1717,1.4,3.04,1144,66.6,20221114
+2022,02,Anne Arundel,A,All Anne Arundel Schools,All History & Social Science,2010,3993,2,2.85,2373,59.4,20221114
+2022,02,Anne Arundel,A,All Anne Arundel Schools,All Math & Computer Science,1235,2038,1.7,2.75,1153,56.6,20221114
+2022,02,Anne Arundel,A,All Anne Arundel Schools,All Sciences,1003,1325,1.3,2.61,642,48.5,20221114
+2022,02,Anne Arundel,A,All Anne Arundel Schools,All World Languages & Cultures,235,241,1,3.02,160,66.4,20221114
+2022,03,Baltimore County,0172,Woodlawn High,All Subjects,101,195,1.9,1.52,25,12.8,20221114
+2022,03,Baltimore County,0172,Woodlawn High,All English,24,26,1.1,2,9,34.6,20221114
+2022,03,Baltimore County,0172,Woodlawn High,All History & Social Science,84,129,1.5,1.47,12,9.3,20221114
+2022,03,Baltimore County,0172,Woodlawn High,All Math & Computer Science,27,31,1.1,1.06,*,<= 5.0,20221114
+2022,03,Baltimore County,0172,Woodlawn High,All Sciences,*,*,*,*,*,*,20221114
+2022,03,Baltimore County,0172,Woodlawn High,All World Languages & Cultures,*,*,*,*,*,*,20221114
+2022,03,Baltimore County,0174,Catonsville High,All Subjects,172,578,3.4,3.2,412,71.3,20221114
+2022,03,Baltimore County,0174,Catonsville High,All Arts,24,24,1,3.58,21,87.5,20221114
+2022,03,Baltimore County,0174,Catonsville High,All English,68,94,1.4,3.55,77,81.9,20221114
+2022,03,Baltimore County,0174,Catonsville High,All History & Social Science,153,321,2.1,3.19,229,71.3,20221114
+2022,03,Baltimore County,0174,Catonsville High,All Math & Computer Science,64,94,1.5,2.97,60,63.8,20221114
+2022,03,Baltimore County,0174,Catonsville High,All Sciences,13,14,1.1,3,9,64.3,20221114
+2022,03,Baltimore County,0174,Catonsville High,All World Languages & Cultures,31,31,1,2.77,16,51.6,20221114
+2022,03,Baltimore County,0175,Western School of Technology,All Subjects,150,576,3.8,3.57,472,81.9,20221114
+2022,03,Baltimore County,0175,Western School of Technology,All Arts,*,*,*,*,*,*,20221114
+2022,03,Baltimore County,0175,Western School of Technology,All English,65,77,1.2,3.39,63,81.8,20221114
+2022,03,Baltimore County,0175,Western School of Technology,All History & Social Science,126,275,2.2,3.56,227,82.5,20221114
+2022,03,Baltimore County,0175,Western School of Technology,All Math & Computer Science,71,121,1.7,3.6,94,77.7,20221114
+2022,03,Baltimore County,0175,Western School of Technology,All Sciences,63,84,1.3,3.77,71,84.5,20221114
+2022,03,Baltimore County,0175,Western School of Technology,All World Languages & Cultures,12,12,1,4,*,>= 95.0,20221114
+2022,03,Baltimore County,0271,Milford Mill Academy,All Subjects,62,130,2.1,1.76,28,21.5,20221114
+2022,03,Baltimore County,0271,Milford Mill Academy,All AP Capstone,*,*,*,*,*,*,20221114
+2022,03,Baltimore County,0271,Milford Mill Academy,All Arts,10,10,1,3,7,70,20221114
+2022,03,Baltimore County,0271,Milford Mill Academy,All English,25,39,1.6,1.67,5,12.8,20221114
+2022,03,Baltimore County,0271,Milford Mill Academy,All History & Social Science,33,47,1.4,1.43,5,10.6,20221114
+2022,03,Baltimore County,0271,Milford Mill Academy,All Math & Computer Science,12,15,1.3,2.6,8,53.3,20221114
+2022,03,Baltimore County,0271,Milford Mill Academy,All Sciences,11,11,1,1.09,*,<= 5.0,20221114
+2022,03,Baltimore County,0271,Milford Mill Academy,All World Languages & Cultures,*,*,*,*,*,*,20221114
+2022,03,Baltimore County,0272,Randallstown High,All Subjects,56,123,2.2,1.84,23,18.7,20221114
+2022,03,Baltimore County,0272,Randallstown High,All Arts,*,*,*,*,*,*,20221114
+2022,03,Baltimore County,0272,Randallstown High,All English,17,22,1.3,2.05,4,18.2,20221114
+2022,03,Baltimore County,0272,Randallstown High,All History & Social Science,42,58,1.4,1.72,9,15.5,20221114
+2022,03,Baltimore County,0272,Randallstown High,All Math & Computer Science,10,10,1,1.1,*,<= 5.0,20221114
+2022,03,Baltimore County,0272,Randallstown High,All Sciences,22,22,1,1.73,4,18.2,20221114
+2022,03,Baltimore County,0272,Randallstown High,All World Languages & Cultures,*,*,*,*,*,*,20221114
+2022,03,Baltimore County,0371,Pikesville High,All Subjects,79,339,4.3,2.82,206,60.8,20221114
+2022,03,Baltimore County,0371,Pikesville High,All AP Capstone,*,*,*,*,*,*,20221114
+2022,03,Baltimore County,0371,Pikesville High,All Arts,*,*,*,*,*,*,20221114
+2022,03,Baltimore County,0371,Pikesville High,All English,49,73,1.5,3.15,55,75.3,20221114
+2022,03,Baltimore County,0371,Pikesville High,All History & Social Science,72,152,2.1,2.84,90,59.2,20221114
+2022,03,Baltimore County,0371,Pikesville High,All Math & Computer Science,38,64,1.7,2.33,30,46.9,20221114
+2022,03,Baltimore County,0371,Pikesville High,All Sciences,22,28,1.3,2.54,13,46.4,20221114
+2022,03,Baltimore County,0371,Pikesville High,All World Languages & Cultures,*,*,*,*,*,*,20221114
+2022,03,Baltimore County,0452,Owings Mills High,All Subjects,59,183,3.1,1.95,52,28.4,20221114
+2022,03,Baltimore County,0452,Owings Mills High,All Arts,*,*,*,*,*,*,20221114
+2022,03,Baltimore County,0452,Owings Mills High,All English,22,31,1.4,2.06,10,32.3,20221114
+2022,03,Baltimore County,0452,Owings Mills High,All History & Social Science,37,80,2.2,1.83,20,25,20221114
+2022,03,Baltimore County,0452,Owings Mills High,All Math & Computer Science,22,32,1.5,1.56,3,9.4,20221114
+2022,03,Baltimore County,0452,Owings Mills High,All Sciences,11,12,1.1,1.92,3,25,20221114
+2022,03,Baltimore County,0452,Owings Mills High,All World Languages & Cultures,21,23,1.1,2.65,13,56.5,20221114
+2022,03,Baltimore County,0472,Franklin High,All Subjects,143,573,4,2.52,276,48.2,20221114
+2022,03,Baltimore County,0472,Franklin High,All AP Capstone,*,*,*,*,*,*,20221114
+2022,03,Baltimore County,0472,Franklin High,All Arts,*,*,*,*,*,*,20221114
+2022,03,Baltimore County,0472,Franklin High,All English,106,164,1.5,2.63,84,51.2,20221114
+2022,03,Baltimore County,0472,Franklin High,All History & Social Science,100,255,2.6,2.44,118,46.3,20221114
+2022,03,Baltimore County,0472,Franklin High,All Math & Computer Science,49,63,1.3,2.49,27,42.9,20221114
+2022,03,Baltimore County,0472,Franklin High,All Sciences,52,66,1.3,2.53,31,47,20221114
+2022,03,Baltimore County,0472,Franklin High,All World Languages & Cultures,19,19,1,2.74,12,63.2,20221114
+2022,03,Baltimore County,0473,New Town High,All Subjects,43,50,1.2,1.82,11,22,20221114
+2022,03,Baltimore County,0473,New Town High,All History & Social Science,38,38,1,1.92,10,26.3,20221114
+2022,03,Baltimore County,0473,New Town High,All Math & Computer Science,*,*,*,*,*,*,20221114
+2022,03,Baltimore County,0772,Hereford High,All Subjects,183,813,4.4,3.48,632,77.7,20221114
+2022,03,Baltimore County,0772,Hereford High,All AP Capstone,15,23,1.5,3.78,21,91.3,20221114
+2022,03,Baltimore County,0772,Hereford High,All Arts,17,18,1.1,3.83,*,>= 95.0,20221114
+2022,03,Baltimore County,0772,Hereford High,All English,97,148,1.5,3.54,120,81.1,20221114
+2022,03,Baltimore County,0772,Hereford High,All History & Social Science,127,266,2.1,3.26,189,71.1,20221114
+2022,03,Baltimore County,0772,Hereford High,All Math & Computer Science,73,157,2.2,4.17,147,93.6,20221114
+2022,03,Baltimore County,0772,Hereford High,All Sciences,118,180,1.5,3.12,120,66.7,20221114
+2022,03,Baltimore County,0772,Hereford High,All World Languages & Cultures,21,21,1,3.24,17,81,20221114
+2022,03,Baltimore County,0872,Dulaney High,All Subjects,219,1321,6,3.58,1067,80.8,20221114
+2022,03,Baltimore County,0872,Dulaney High,All AP Capstone,35,45,1.3,3.33,39,86.7,20221114
+2022,03,Baltimore County,0872,Dulaney High,All Arts,16,16,1,3.25,12,75,20221114
+2022,03,Baltimore County,0872,Dulaney High,All English,119,200,1.7,3.81,178,89,20221114
+2022,03,Baltimore County,0872,Dulaney High,All History & Social Science,183,573,3.1,3.51,452,78.9,20221114
+2022,03,Baltimore County,0872,Dulaney High,All Math & Computer Science,131,290,2.2,3.54,228,78.6,20221114
+2022,03,Baltimore County,0872,Dulaney High,All Sciences,81,178,2.2,3.71,143,80.3,20221114
+2022,03,Baltimore County,0872,Dulaney High,All World Languages & Cultures,19,19,1,3.68,15,78.9,20221114
+2022,03,Baltimore County,0971,Towson High,All Subjects,246,1193,4.8,3.23,856,71.8,20221114
+2022,03,Baltimore County,0971,Towson High,All AP Capstone,17,23,1.4,3,17,73.9,20221114
+2022,03,Baltimore County,0971,Towson High,All Arts,29,30,1,3.37,27,90,20221114
+2022,03,Baltimore County,0971,Towson High,All English,169,270,1.6,3.36,211,78.1,20221114
+2022,03,Baltimore County,0971,Towson High,All History & Social Science,196,466,2.4,3.08,310,66.5,20221114
+2022,03,Baltimore County,0971,Towson High,All Math & Computer Science,102,190,1.9,3.35,133,70,20221114
+2022,03,Baltimore County,0971,Towson High,All Sciences,93,144,1.5,3.31,108,75,20221114
+2022,03,Baltimore County,0971,Towson High,All World Languages & Cultures,66,70,1.1,3.14,50,71.4,20221114
+2022,03,Baltimore County,0972,Parkville High,All Subjects,62,161,2.6,2.66,87,54,20221114
+2022,03,Baltimore County,0972,Parkville High,All Arts,*,*,*,*,*,*,20221114
+2022,03,Baltimore County,0972,Parkville High,All English,21,29,1.4,2.79,18,62.1,20221114
+2022,03,Baltimore County,0972,Parkville High,All History & Social Science,41,79,1.9,2.65,42,53.2,20221114
+2022,03,Baltimore County,0972,Parkville High,All Math & Computer Science,22,35,1.6,2.49,17,48.6,20221114
+2022,03,Baltimore County,0972,Parkville High,All Sciences,10,10,1,2.4,3,30,20221114
+2022,03,Baltimore County,0972,Parkville High,All World Languages & Cultures,*,*,*,*,*,*,20221114
+2022,03,Baltimore County,0973,Loch Raven High,All Subjects,63,266,4.2,2.65,136,51.1,20221114
+2022,03,Baltimore County,0973,Loch Raven High,All Arts,*,*,*,*,*,*,20221114
+2022,03,Baltimore County,0973,Loch Raven High,All English,23,32,1.4,2.78,18,56.3,20221114
+2022,03,Baltimore County,0973,Loch Raven High,All History & Social Science,52,140,2.7,2.63,70,50,20221114
+2022,03,Baltimore County,0973,Loch Raven High,All Math & Computer Science,23,44,1.9,2.43,19,43.2,20221114
+2022,03,Baltimore County,0973,Loch Raven High,All Sciences,17,30,1.8,2.73,16,53.3,20221114
+2022,03,Baltimore County,0973,Loch Raven High,All World Languages & Cultures,13,13,1,2.85,7,53.8,20221114
+2022,03,Baltimore County,0975,George W. Carver Center for Arts & Technology,All Subjects,137,564,4.1,3.45,438,77.7,20221114
+2022,03,Baltimore County,0975,George W. Carver Center for Arts & Technology,All Arts,49,68,1.4,4.13,61,89.7,20221114
+2022,03,Baltimore County,0975,George W. Carver Center for Arts & Technology,All English,88,127,1.4,3.61,109,85.8,20221114
+2022,03,Baltimore County,0975,George W. Carver Center for Arts & Technology,All History & Social Science,98,202,2.1,3.13,139,68.8,20221114
+2022,03,Baltimore County,0975,George W. Carver Center for Arts & Technology,All Math & Computer Science,48,99,2.1,3.51,78,78.8,20221114
+2022,03,Baltimore County,0975,George W. Carver Center for Arts & Technology,All Sciences,35,46,1.3,3.22,32,69.6,20221114
+2022,03,Baltimore County,0975,George W. Carver Center for Arts & Technology,All World Languages & Cultures,22,22,1,3.59,19,86.4,20221114
+2022,03,Baltimore County,1171,Perry Hall High,All Subjects,123,422,3.4,2.98,275,65.2,20221114
+2022,03,Baltimore County,1171,Perry Hall High,All AP Capstone,*,*,*,*,*,*,20221114
+2022,03,Baltimore County,1171,Perry Hall High,All Arts,*,*,*,*,*,*,20221114
+2022,03,Baltimore County,1171,Perry Hall High,All English,40,54,1.4,3.33,43,79.6,20221114
+2022,03,Baltimore County,1171,Perry Hall High,All History & Social Science,100,209,2.1,2.88,129,61.7,20221114
+2022,03,Baltimore County,1171,Perry Hall High,All Math & Computer Science,43,75,1.7,3.13,50,66.7,20221114
+2022,03,Baltimore County,1171,Perry Hall High,All Sciences,36,65,1.8,2.88,41,63.1,20221114
+2022,03,Baltimore County,1171,Perry Hall High,All World Languages & Cultures,*,*,*,*,*,*,20221114
+2022,03,Baltimore County,1272,Patapsco High and Center for Arts,All Subjects,84,213,2.5,2.31,91,42.7,20221114
+2022,03,Baltimore County,1272,Patapsco High and Center for Arts,All AP Capstone,*,*,*,*,*,*,20221114
+2022,03,Baltimore County,1272,Patapsco High and Center for Arts,All Arts,45,49,1.1,2.57,27,55.1,20221114
+2022,03,Baltimore County,1272,Patapsco High and Center for Arts,All English,24,30,1.3,2.7,17,56.7,20221114
+2022,03,Baltimore County,1272,Patapsco High and Center for Arts,All History & Social Science,48,80,1.7,2.38,33,41.3,20221114
+2022,03,Baltimore County,1272,Patapsco High and Center for Arts,All Math & Computer Science,29,38,1.3,1.42,4,10.5,20221114
+2022,03,Baltimore County,1272,Patapsco High and Center for Arts,All Sciences,*,*,*,*,*,*,20221114
+2022,03,Baltimore County,1273,Dundalk High,All Subjects,54,129,2.4,1.75,32,24.8,20221114
+2022,03,Baltimore County,1273,Dundalk High,All Arts,*,*,*,*,*,*,20221114
+2022,03,Baltimore County,1273,Dundalk High,All English,17,25,1.5,2.36,12,48,20221114
+2022,03,Baltimore County,1273,Dundalk High,All History & Social Science,39,60,1.5,1.43,8,13.3,20221114
+2022,03,Baltimore County,1273,Dundalk High,All Math & Computer Science,25,36,1.4,1.61,6,16.7,20221114
+2022,03,Baltimore County,1273,Dundalk High,All Sciences,*,*,*,*,*,*,20221114
+2022,03,Baltimore County,1273,Dundalk High,All World Languages & Cultures,*,*,*,*,*,*,20221114
+2022,03,Baltimore County,1371,Lansdowne High,All Subjects,64,167,2.6,2,46,27.5,20221114
+2022,03,Baltimore County,1371,Lansdowne High,All Arts,*,*,*,*,*,*,20221114
+2022,03,Baltimore County,1371,Lansdowne High,All English,28,47,1.7,2.09,16,34,20221114
+2022,03,Baltimore County,1371,Lansdowne High,All History & Social Science,47,75,1.6,1.75,15,20,20221114
+2022,03,Baltimore County,1371,Lansdowne High,All Math & Computer Science,21,30,1.4,2.03,6,20,20221114
+2022,03,Baltimore County,1371,Lansdowne High,All World Languages & Cultures,10,10,1,3,6,60,20221114
+2022,03,Baltimore County,1473,Overlea High,All Subjects,52,88,1.7,1.57,9,10.2,20221114
+2022,03,Baltimore County,1473,Overlea High,All Arts,*,*,*,*,*,*,20221114
+2022,03,Baltimore County,1473,Overlea High,All English,21,30,1.4,1.7,4,13.3,20221114
+2022,03,Baltimore County,1473,Overlea High,All History & Social Science,28,32,1.1,1.47,3,9.4,20221114
+2022,03,Baltimore County,1473,Overlea High,All Math & Computer Science,11,11,1,1.36,*,<= 5.0,20221114
+2022,03,Baltimore County,1473,Overlea High,All Sciences,12,12,1,1.5,1,8.3,20221114
+2022,03,Baltimore County,1473,Overlea High,All World Languages & Cultures,*,*,*,*,*,*,20221114
+2022,03,Baltimore County,1572,Kenwood High,All Subjects,62,131,2.1,1.79,27,20.6,20221114
+2022,03,Baltimore County,1572,Kenwood High,All English,25,36,1.4,2.03,10,27.8,20221114
+2022,03,Baltimore County,1572,Kenwood High,All History & Social Science,41,62,1.5,1.69,12,19.4,20221114
+2022,03,Baltimore County,1572,Kenwood High,All Math & Computer Science,18,19,1.1,1.53,1,5.3,20221114
+2022,03,Baltimore County,1572,Kenwood High,All Sciences,*,*,*,*,*,*,20221114
+2022,03,Baltimore County,1572,Kenwood High,All World Languages & Cultures,*,*,*,*,*,*,20221114
+2022,03,Baltimore County,1573,Sparrows Point High,All Subjects,64,227,3.5,2.64,112,49.3,20221114
+2022,03,Baltimore County,1573,Sparrows Point High,All Arts,*,*,*,*,*,*,20221114
+2022,03,Baltimore County,1573,Sparrows Point High,All English,32,49,1.5,2.78,27,55.1,20221114
+2022,03,Baltimore County,1573,Sparrows Point High,All History & Social Science,48,101,2.1,2.52,46,45.5,20221114
+2022,03,Baltimore County,1573,Sparrows Point High,All Math & Computer Science,18,34,1.9,2.5,15,44.1,20221114
+2022,03,Baltimore County,1573,Sparrows Point High,All Sciences,27,35,1.3,2.86,19,54.3,20221114
+2022,03,Baltimore County,1573,Sparrows Point High,All World Languages & Cultures,*,*,*,*,*,*,20221114
+2022,03,Baltimore County,1574,Chesapeake High,All Subjects,47,148,3.1,1.85,39,26.4,20221114
+2022,03,Baltimore County,1574,Chesapeake High,All Arts,*,*,*,*,*,*,20221114
+2022,03,Baltimore County,1574,Chesapeake High,All English,26,31,1.2,1.97,10,32.3,20221114
+2022,03,Baltimore County,1574,Chesapeake High,All History & Social Science,27,63,2.3,1.78,12,19,20221114
+2022,03,Baltimore County,1574,Chesapeake High,All Math & Computer Science,14,20,1.4,1.25,*,<= 5.0,20221114
+2022,03,Baltimore County,1574,Chesapeake High,All Sciences,15,20,1.3,1.9,7,35,20221114
+2022,03,Baltimore County,1574,Chesapeake High,All World Languages & Cultures,*,*,*,*,*,*,20221114
+2022,03,Baltimore County,1575,Eastern Technical High School,All Subjects,231,1142,4.9,3.39,908,79.5,20221114
+2022,03,Baltimore County,1575,Eastern Technical High School,All AP Capstone,73,110,1.5,3.6,*,>= 95.0,20221114
+2022,03,Baltimore County,1575,Eastern Technical High School,All Arts,*,*,*,*,*,*,20221114
+2022,03,Baltimore County,1575,Eastern Technical High School,All English,165,297,1.8,3.37,253,85.2,20221114
+2022,03,Baltimore County,1575,Eastern Technical High School,All History & Social Science,149,329,2.2,3.46,251,76.3,20221114
+2022,03,Baltimore County,1575,Eastern Technical High School,All Math & Computer Science,102,210,2.1,3.5,174,82.9,20221114
+2022,03,Baltimore County,1575,Eastern Technical High School,All Sciences,150,176,1.2,3.03,109,61.9,20221114
+2022,03,Baltimore County,1575,Eastern Technical High School,All World Languages & Cultures,17,18,1.1,3.72,14,77.8,20221114
+2022,03,Baltimore County,A,All Baltimore County Schools,All Subjects,2556,9732,3.8,3.02,6260,64.3,20221114
+2022,03,Baltimore County,A,All Baltimore County Schools,All AP Capstone,161,233,1.4,3.43,208,89.3,20221114
+2022,03,Baltimore County,A,All Baltimore County Schools,All Arts,257,282,1.1,3.35,221,78.4,20221114
+2022,03,Baltimore County,A,All Baltimore County Schools,All English,1271,1931,1.5,3.13,1353,70.1,20221114
+2022,03,Baltimore County,A,All Baltimore County Schools,All History & Social Science,1909,4092,2.1,2.89,2431,59.4,20221114
+2022,03,Baltimore County,A,All Baltimore County Schools,All Math & Computer Science,981,1730,1.8,3.08,1101,63.6,20221114
+2022,03,Baltimore County,A,All Baltimore County Schools,All Sciences,810,1155,1.4,3.07,736,63.7,20221114
+2022,03,Baltimore County,A,All Baltimore County Schools,All World Languages & Cultures,302,309,1,3.09,210,68,20221114
+2022,04,Calvert,0113,Patuxent High,All Subjects,77,218,2.8,2.64,109,50,20221114
+2022,04,Calvert,0113,Patuxent High,All Arts,*,*,*,*,*,*,20221114
+2022,04,Calvert,0113,Patuxent High,All English,37,46,1.2,2.93,26,56.5,20221114
+2022,04,Calvert,0113,Patuxent High,All History & Social Science,66,114,1.7,2.4,50,43.9,20221114
+2022,04,Calvert,0113,Patuxent High,All Math & Computer Science,25,41,1.6,2.78,23,56.1,20221114
+2022,04,Calvert,0113,Patuxent High,All Sciences,*,*,*,*,*,*,20221114
+2022,04,Calvert,0113,Patuxent High,All World Languages & Cultures,*,*,*,*,*,*,20221114
+2022,04,Calvert,0213,Calvert High,All Subjects,123,488,4,2.65,253,51.8,20221114
+2022,04,Calvert,0213,Calvert High,All Arts,*,*,*,*,*,*,20221114
+2022,04,Calvert,0213,Calvert High,All English,68,90,1.3,2.82,55,61.1,20221114
+2022,04,Calvert,0213,Calvert High,All History & Social Science,110,232,2.1,2.62,114,49.1,20221114
+2022,04,Calvert,0213,Calvert High,All Math & Computer Science,62,110,1.8,2.74,61,55.5,20221114
+2022,04,Calvert,0213,Calvert High,All Sciences,38,49,1.3,2.31,20,40.8,20221114
+2022,04,Calvert,0213,Calvert High,All World Languages & Cultures,*,*,*,*,*,*,20221114
+2022,04,Calvert,0217,Huntingtown High School,All Subjects,183,715,3.9,3.09,476,66.6,20221114
+2022,04,Calvert,0217,Huntingtown High School,All Arts,*,*,*,*,*,*,20221114
+2022,04,Calvert,0217,Huntingtown High School,All English,114,159,1.4,3.05,109,68.6,20221114
+2022,04,Calvert,0217,Huntingtown High School,All History & Social Science,165,354,2.1,2.86,204,57.6,20221114
+2022,04,Calvert,0217,Huntingtown High School,All Math & Computer Science,83,129,1.6,3.72,112,86.8,20221114
+2022,04,Calvert,0217,Huntingtown High School,All Sciences,47,62,1.3,3.11,40,64.5,20221114
+2022,04,Calvert,0217,Huntingtown High School,All World Languages & Cultures,*,*,*,*,*,*,20221114
+2022,04,Calvert,0314,Northern High,All Subjects,181,683,3.8,2.92,407,59.6,20221114
+2022,04,Calvert,0314,Northern High,All Arts,*,*,*,*,*,*,20221114
+2022,04,Calvert,0314,Northern High,All English,92,128,1.4,3.18,85,66.4,20221114
+2022,04,Calvert,0314,Northern High,All History & Social Science,169,356,2.1,2.69,188,52.8,20221114
+2022,04,Calvert,0314,Northern High,All Math & Computer Science,62,109,1.8,3.67,88,80.7,20221114
+2022,04,Calvert,0314,Northern High,All Sciences,64,79,1.2,2.43,37,46.8,20221114
+2022,04,Calvert,0314,Northern High,All World Languages & Cultures,*,*,*,*,*,*,20221114
+2022,04,Calvert,A,All Calvert Schools,All Subjects,564,2104,3.7,2.89,1245,59.2,20221114
+2022,04,Calvert,A,All Calvert Schools,All Arts,16,17,1.1,3.41,14,82.4,20221114
+2022,04,Calvert,A,All Calvert Schools,All English,311,423,1.4,3.03,275,65,20221114
+2022,04,Calvert,A,All Calvert Schools,All History & Social Science,510,1056,2.1,2.7,556,52.7,20221114
+2022,04,Calvert,A,All Calvert Schools,All Math & Computer Science,232,389,1.7,3.33,284,73,20221114
+2022,04,Calvert,A,All Calvert Schools,All Sciences,158,203,1.3,2.66,105,51.7,20221114
+2022,04,Calvert,A,All Calvert Schools,All World Languages & Cultures,16,16,1,2.94,11,68.8,20221114
+2022,05,Caroline,0703,North Caroline High School,All Subjects,77,204,2.6,2.62,104,51,20221114
+2022,05,Caroline,0703,North Caroline High School,All Arts,*,*,*,*,*,*,20221114
+2022,05,Caroline,0703,North Caroline High School,All English,30,41,1.4,2.9,29,70.7,20221114
+2022,05,Caroline,0703,North Caroline High School,All History & Social Science,48,85,1.8,2.72,46,54.1,20221114
+2022,05,Caroline,0703,North Caroline High School,All Math & Computer Science,41,53,1.3,2.3,16,30.2,20221114
+2022,05,Caroline,0703,North Caroline High School,All Sciences,13,16,1.2,2.06,7,43.8,20221114
+2022,05,Caroline,0703,North Caroline High School,All World Languages & Cultures,*,*,*,*,*,*,20221114
+2022,05,Caroline,0801,Colonel Richardson High School,All Subjects,23,57,2.5,2.6,28,49.1,20221114
+2022,05,Caroline,0801,Colonel Richardson High School,All Arts,*,*,*,*,*,*,20221114
+2022,05,Caroline,0801,Colonel Richardson High School,All English,*,*,*,*,*,*,20221114
+2022,05,Caroline,0801,Colonel Richardson High School,All History & Social Science,14,26,1.9,2.65,13,50,20221114
+2022,05,Caroline,0801,Colonel Richardson High School,All Math & Computer Science,14,18,1.3,2.11,6,33.3,20221114
+2022,05,Caroline,0801,Colonel Richardson High School,All Sciences,*,*,*,*,*,*,20221114
+2022,05,Caroline,A,All Caroline Schools,All Subjects,100,261,2.6,2.61,132,50.6,20221114
+2022,05,Caroline,A,All Caroline Schools,All Arts,*,*,*,*,*,*,20221114
+2022,05,Caroline,A,All Caroline Schools,All English,36,48,1.3,3.02,35,72.9,20221114
+2022,05,Caroline,A,All Caroline Schools,All History & Social Science,62,111,1.8,2.7,59,53.2,20221114
+2022,05,Caroline,A,All Caroline Schools,All Math & Computer Science,55,71,1.3,2.25,22,31,20221114
+2022,05,Caroline,A,All Caroline Schools,All Sciences,18,21,1.2,2.19,10,47.6,20221114
+2022,05,Caroline,A,All Caroline Schools,All World Languages & Cultures,*,*,*,*,*,*,20221114
+2022,06,Carroll,0202,Francis Scott Key High,All Subjects,42,138,3.3,2.43,64,46.4,20221114
+2022,06,Carroll,0202,Francis Scott Key High,All AP Capstone,*,*,*,*,*,*,20221114
+2022,06,Carroll,0202,Francis Scott Key High,All English,19,22,1.2,2.73,12,54.5,20221114
+2022,06,Carroll,0202,Francis Scott Key High,All History & Social Science,38,96,2.5,2.36,43,44.8,20221114
+2022,06,Carroll,0202,Francis Scott Key High,All Math & Computer Science,*,*,*,*,*,*,20221114
+2022,06,Carroll,0202,Francis Scott Key High,All Sciences,*,*,*,*,*,*,20221114
+2022,06,Carroll,0202,Francis Scott Key High,All World Languages & Cultures,*,*,*,*,*,*,20221114
+2022,06,Carroll,0507,Liberty High,All Subjects,149,544,3.7,3.26,395,72.6,20221114
+2022,06,Carroll,0507,Liberty High,All AP Capstone,24,32,1.3,2.78,23,71.9,20221114
+2022,06,Carroll,0507,Liberty High,All Arts,19,21,1.1,3.81,*,>= 95.0,20221114
+2022,06,Carroll,0507,Liberty High,All English,96,109,1.1,3.29,80,73.4,20221114
+2022,06,Carroll,0507,Liberty High,All History & Social Science,81,140,1.7,3.55,113,80.7,20221114
+2022,06,Carroll,0507,Liberty High,All Math & Computer Science,105,169,1.6,3.09,111,65.7,20221114
+2022,06,Carroll,0507,Liberty High,All Sciences,52,72,1.4,3.1,47,65.3,20221114
+2022,06,Carroll,0507,Liberty High,All World Languages & Cultures,*,*,*,*,*,*,20221114
+2022,06,Carroll,0510,Century High,All Subjects,171,568,3.3,3.02,374,65.8,20221114
+2022,06,Carroll,0510,Century High,All AP Capstone,16,26,1.6,3.27,*,>= 95.0,20221114
+2022,06,Carroll,0510,Century High,All Arts,*,*,*,*,*,*,20221114
+2022,06,Carroll,0510,Century High,All English,141,160,1.1,2.93,100,62.5,20221114
+2022,06,Carroll,0510,Century High,All History & Social Science,121,226,1.9,2.97,142,62.8,20221114
+2022,06,Carroll,0510,Century High,All Math & Computer Science,66,101,1.5,3.19,70,69.3,20221114
+2022,06,Carroll,0510,Century High,All Sciences,42,45,1.1,3.04,30,66.7,20221114
+2022,06,Carroll,0510,Century High,All World Languages & Cultures,*,*,*,*,*,*,20221114
+2022,06,Carroll,0602,Manchester Valley High,All Subjects,102,284,2.8,2.88,176,62,20221114
+2022,06,Carroll,0602,Manchester Valley High,All AP Capstone,16,22,1.4,3.27,20,90.9,20221114
+2022,06,Carroll,0602,Manchester Valley High,All Arts,*,*,*,*,*,*,20221114
+2022,06,Carroll,0602,Manchester Valley High,All English,72,77,1.1,2.92,48,62.3,20221114
+2022,06,Carroll,0602,Manchester Valley High,All History & Social Science,73,123,1.7,2.75,69,56.1,20221114
+2022,06,Carroll,0602,Manchester Valley High,All Math & Computer Science,23,30,1.3,2.93,18,60,20221114
+2022,06,Carroll,0602,Manchester Valley High,All Sciences,23,31,1.3,2.9,20,64.5,20221114
+2022,06,Carroll,0704,Winters Mill High,All Subjects,105,318,3,3.16,229,72,20221114
+2022,06,Carroll,0704,Winters Mill High,All AP Capstone,17,29,1.7,3.45,*,>= 95.0,20221114
+2022,06,Carroll,0704,Winters Mill High,All Arts,19,19,1,3.84,17,89.5,20221114
+2022,06,Carroll,0704,Winters Mill High,All English,69,84,1.2,2.95,57,67.9,20221114
+2022,06,Carroll,0704,Winters Mill High,All History & Social Science,72,116,1.6,3.13,81,69.8,20221114
+2022,06,Carroll,0704,Winters Mill High,All Math & Computer Science,25,35,1.4,3.74,31,88.6,20221114
+2022,06,Carroll,0704,Winters Mill High,All Sciences,26,30,1.2,2.47,10,33.3,20221114
+2022,06,Carroll,0704,Winters Mill High,All World Languages & Cultures,*,*,*,*,*,*,20221114
+2022,06,Carroll,0707,Westminster High,All Subjects,152,574,3.8,3.08,389,67.8,20221114
+2022,06,Carroll,0707,Westminster High,All AP Capstone,27,40,1.5,3.28,33,82.5,20221114
+2022,06,Carroll,0707,Westminster High,All Arts,*,*,*,*,*,*,20221114
+2022,06,Carroll,0707,Westminster High,All English,81,108,1.3,3.25,82,75.9,20221114
+2022,06,Carroll,0707,Westminster High,All History & Social Science,135,319,2.4,2.93,197,61.8,20221114
+2022,06,Carroll,0707,Westminster High,All Math & Computer Science,38,48,1.3,3.04,31,64.6,20221114
+2022,06,Carroll,0707,Westminster High,All Sciences,29,43,1.5,3.37,32,74.4,20221114
+2022,06,Carroll,0707,Westminster High,All World Languages & Cultures,*,*,*,*,*,*,20221114
+2022,06,Carroll,0716,Gateway School,All Subjects,*,*,*,*,*,*,20221114
+2022,06,Carroll,0716,Gateway School,All English,*,*,*,*,*,*,20221114
+2022,06,Carroll,0716,Gateway School,All History & Social Science,*,*,*,*,*,*,20221114
+2022,06,Carroll,0716,Gateway School,All Math & Computer Science,*,*,*,*,*,*,20221114
+2022,06,Carroll,0903,Flexible Student Support,All Subjects,*,*,*,*,*,*,20221114
+2022,06,Carroll,0903,Flexible Student Support,All English,*,*,*,*,*,*,20221114
+2022,06,Carroll,0903,Flexible Student Support,All History & Social Science,*,*,*,*,*,*,20221114
+2022,06,Carroll,1401,South Carroll High,All Subjects,90,277,3.1,2.99,177,63.9,20221114
+2022,06,Carroll,1401,South Carroll High,All AP Capstone,*,*,*,*,*,*,20221114
+2022,06,Carroll,1401,South Carroll High,All Arts,*,*,*,*,*,*,20221114
+2022,06,Carroll,1401,South Carroll High,All English,42,48,1.1,3.27,34,70.8,20221114
+2022,06,Carroll,1401,South Carroll High,All History & Social Science,73,143,2,2.9,87,60.8,20221114
+2022,06,Carroll,1401,South Carroll High,All Math & Computer Science,25,34,1.4,3.32,27,79.4,20221114
+2022,06,Carroll,1401,South Carroll High,All Sciences,28,36,1.3,2.39,14,38.9,20221114
+2022,06,Carroll,1401,South Carroll High,All World Languages & Cultures,*,*,*,*,*,*,20221114
+2022,06,Carroll,A,All Carroll Schools,All Subjects,817,2713,3.3,3.04,1806,66.6,20221114
+2022,06,Carroll,A,All Carroll Schools,All AP Capstone,109,159,1.5,3.21,139,87.4,20221114
+2022,06,Carroll,A,All Carroll Schools,All Arts,55,57,1,3.77,53,93,20221114
+2022,06,Carroll,A,All Carroll Schools,All English,522,610,1.2,3.07,414,67.9,20221114
+2022,06,Carroll,A,All Carroll Schools,All History & Social Science,598,1170,2,2.96,733,62.6,20221114
+2022,06,Carroll,A,All Carroll Schools,All Math & Computer Science,289,427,1.5,3.16,294,68.9,20221114
+2022,06,Carroll,A,All Carroll Schools,All Sciences,205,262,1.3,2.91,153,58.4,20221114
+2022,06,Carroll,A,All Carroll Schools,All World Languages & Cultures,28,28,1,3.18,20,71.4,20221114
+2022,07,Cecil,0204,Bohemia Manor High,All Subjects,65,187,2.9,2.27,64,34.2,20221114
+2022,07,Cecil,0204,Bohemia Manor High,All English,19,23,1.2,2.87,14,60.9,20221114
+2022,07,Cecil,0204,Bohemia Manor High,All History & Social Science,26,30,1.2,2.43,10,33.3,20221114
+2022,07,Cecil,0204,Bohemia Manor High,All Math & Computer Science,41,74,1.8,2.04,23,31.1,20221114
+2022,07,Cecil,0204,Bohemia Manor High,All Sciences,45,59,1.3,2.19,16,27.1,20221114
+2022,07,Cecil,0204,Bohemia Manor High,All World Languages & Cultures,*,*,*,*,*,*,20221114
+2022,07,Cecil,0302,Elkton High,All Subjects,56,125,2.2,2,38,30.4,20221114
+2022,07,Cecil,0302,Elkton High,All Arts,*,*,*,*,*,*,20221114
+2022,07,Cecil,0302,Elkton High,All English,27,41,1.5,2.27,16,39,20221114
+2022,07,Cecil,0302,Elkton High,All History & Social Science,35,41,1.2,1.78,11,26.8,20221114
+2022,07,Cecil,0302,Elkton High,All Math & Computer Science,10,11,1.1,2.18,4,36.4,20221114
+2022,07,Cecil,0302,Elkton High,All Sciences,24,28,1.2,1.75,5,17.9,20221114
+2022,07,Cecil,0302,Elkton High,All World Languages & Cultures,*,*,*,*,*,*,20221114
+2022,07,Cecil,0514,North East High,All Subjects,67,155,2.3,2.61,77,49.7,20221114
+2022,07,Cecil,0514,North East High,All English,53,55,1,2.55,24,43.6,20221114
+2022,07,Cecil,0514,North East High,All History & Social Science,30,35,1.2,2.86,21,60,20221114
+2022,07,Cecil,0514,North East High,All Math & Computer Science,38,50,1.3,2.42,24,48,20221114
+2022,07,Cecil,0514,North East High,All Sciences,12,14,1.2,2.79,7,50,20221114
+2022,07,Cecil,0514,North East High,All World Languages & Cultures,*,*,*,*,*,*,20221114
+2022,07,Cecil,0705,Perryville High,All Subjects,55,165,3,2.2,57,34.5,20221114
+2022,07,Cecil,0705,Perryville High,All Arts,*,*,*,*,*,*,20221114
+2022,07,Cecil,0705,Perryville High,All English,29,39,1.3,2.28,14,35.9,20221114
+2022,07,Cecil,0705,Perryville High,All History & Social Science,35,49,1.4,2.31,20,40.8,20221114
+2022,07,Cecil,0705,Perryville High,All Math & Computer Science,12,19,1.6,2.58,10,52.6,20221114
+2022,07,Cecil,0705,Perryville High,All Sciences,44,48,1.1,1.83,9,18.8,20221114
+2022,07,Cecil,0705,Perryville High,All World Languages & Cultures,*,*,*,*,*,*,20221114
+2022,07,Cecil,0905,Rising Sun High,All Subjects,89,259,2.9,2.81,151,58.3,20221114
+2022,07,Cecil,0905,Rising Sun High,All Arts,11,11,1,3,7,63.6,20221114
+2022,07,Cecil,0905,Rising Sun High,All English,60,96,1.6,3.01,61,63.5,20221114
+2022,07,Cecil,0905,Rising Sun High,All History & Social Science,31,35,1.1,2.89,21,60,20221114
+2022,07,Cecil,0905,Rising Sun High,All Math & Computer Science,39,53,1.4,2.68,30,56.6,20221114
+2022,07,Cecil,0905,Rising Sun High,All Sciences,48,56,1.2,2.45,27,48.2,20221114
+2022,07,Cecil,0905,Rising Sun High,All World Languages & Cultures,*,*,*,*,*,*,20221114
+2022,07,Cecil,A,All Cecil Schools,All Subjects,332,891,2.7,2.43,387,43.4,20221114
+2022,07,Cecil,A,All Cecil Schools,All Arts,16,17,1.1,3,11,64.7,20221114
+2022,07,Cecil,A,All Cecil Schools,All English,188,254,1.4,2.67,129,50.8,20221114
+2022,07,Cecil,A,All Cecil Schools,All History & Social Science,157,190,1.2,2.42,83,43.7,20221114
+2022,07,Cecil,A,All Cecil Schools,All Math & Computer Science,140,207,1.5,2.35,91,44,20221114
+2022,07,Cecil,A,All Cecil Schools,All Sciences,173,205,1.2,2.16,64,31.2,20221114
+2022,07,Cecil,A,All Cecil Schools,All World Languages & Cultures,18,18,1,2.83,9,50,20221114
+2022,08,Charles,0106,La Plata High School,All Subjects,104,377,3.6,2.98,249,66,20221114
+2022,08,Charles,0106,La Plata High School,All Arts,13,14,1.1,3.14,9,64.3,20221114
+2022,08,Charles,0106,La Plata High School,All English,60,91,1.5,3.23,68,74.7,20221114
+2022,08,Charles,0106,La Plata High School,All History & Social Science,83,147,1.8,3.1,102,69.4,20221114
+2022,08,Charles,0106,La Plata High School,All Math & Computer Science,51,81,1.6,2.54,43,53.1,20221114
+2022,08,Charles,0106,La Plata High School,All Sciences,34,42,1.2,2.76,25,59.5,20221114
+2022,08,Charles,0106,La Plata High School,All World Languages & Cultures,*,*,*,*,*,*,20221114
+2022,08,Charles,0108,Maurice J. McDonough High School,All Subjects,65,177,2.7,2.92,98,55.4,20221114
+2022,08,Charles,0108,Maurice J. McDonough High School,All Arts,*,*,*,*,*,*,20221114
+2022,08,Charles,0108,Maurice J. McDonough High School,All English,31,41,1.3,2.71,19,46.3,20221114
+2022,08,Charles,0108,Maurice J. McDonough High School,All History & Social Science,45,80,1.8,3.15,50,62.5,20221114
+2022,08,Charles,0108,Maurice J. McDonough High School,All Math & Computer Science,20,27,1.4,2.85,14,51.9,20221114
+2022,08,Charles,0108,Maurice J. McDonough High School,All Sciences,17,22,1.3,2.32,9,40.9,20221114
+2022,08,Charles,0108,Maurice J. McDonough High School,All World Languages & Cultures,*,*,*,*,*,*,20221114
+2022,08,Charles,0605,Thomas Stone High School,All Subjects,46,77,1.7,2.19,24,31.2,20221114
+2022,08,Charles,0605,Thomas Stone High School,All Arts,*,*,*,*,*,*,20221114
+2022,08,Charles,0605,Thomas Stone High School,All English,15,17,1.1,2.59,8,47.1,20221114
+2022,08,Charles,0605,Thomas Stone High School,All History & Social Science,40,50,1.3,1.96,12,24,20221114
+2022,08,Charles,0605,Thomas Stone High School,All Math & Computer Science,*,*,*,*,*,*,20221114
+2022,08,Charles,0605,Thomas Stone High School,All Sciences,*,*,*,*,*,*,20221114
+2022,08,Charles,0619,Westlake High School,All Subjects,58,139,2.4,2.29,55,39.6,20221114
+2022,08,Charles,0619,Westlake High School,All Arts,*,*,*,*,*,*,20221114
+2022,08,Charles,0619,Westlake High School,All English,13,19,1.5,3.26,13,68.4,20221114
+2022,08,Charles,0619,Westlake High School,All History & Social Science,46,74,1.6,2.15,26,35.1,20221114
+2022,08,Charles,0619,Westlake High School,All Math & Computer Science,21,28,1.3,2.11,9,32.1,20221114
+2022,08,Charles,0619,Westlake High School,All Sciences,12,12,1,1.83,3,25,20221114
+2022,08,Charles,0623,North Point High School,All Subjects,159,496,3.1,2.74,272,54.8,20221114
+2022,08,Charles,0623,North Point High School,All Arts,*,*,*,*,*,*,20221114
+2022,08,Charles,0623,North Point High School,All English,87,121,1.4,2.87,77,63.6,20221114
+2022,08,Charles,0623,North Point High School,All History & Social Science,122,226,1.9,2.86,131,58,20221114
+2022,08,Charles,0623,North Point High School,All Math & Computer Science,62,89,1.4,2.4,38,42.7,20221114
+2022,08,Charles,0623,North Point High School,All Sciences,36,50,1.4,2.32,19,38,20221114
+2022,08,Charles,0623,North Point High School,All World Languages & Cultures,*,*,*,*,*,*,20221114
+2022,08,Charles,0802,St. Charles High School,All Subjects,57,126,2.2,2.11,45,35.7,20221114
+2022,08,Charles,0802,St. Charles High School,All English,19,22,1.2,2.5,12,54.5,20221114
+2022,08,Charles,0802,St. Charles High School,All History & Social Science,47,83,1.8,2.12,31,37.3,20221114
+2022,08,Charles,0802,St. Charles High School,All Math & Computer Science,*,*,*,*,*,*,20221114
+2022,08,Charles,0802,St. Charles High School,All Sciences,*,*,*,*,*,*,20221114
+2022,08,Charles,0802,St. Charles High School,All World Languages & Cultures,*,*,*,*,*,*,20221114
+2022,08,Charles,1002,Henry E. Lackey High School,All Subjects,33,85,2.6,2.71,44,51.8,20221114
+2022,08,Charles,1002,Henry E. Lackey High School,All Arts,*,*,*,*,*,*,20221114
+2022,08,Charles,1002,Henry E. Lackey High School,All English,*,*,*,*,*,*,20221114
+2022,08,Charles,1002,Henry E. Lackey High School,All History & Social Science,24,35,1.5,2.57,16,45.7,20221114
+2022,08,Charles,1002,Henry E. Lackey High School,All Math & Computer Science,13,18,1.4,2.78,9,50,20221114
+2022,08,Charles,1002,Henry E. Lackey High School,All Sciences,11,15,1.4,2.73,8,53.3,20221114
+2022,08,Charles,A,All Charles Schools,All Subjects,522,1477,2.8,2.69,787,53.3,20221114
+2022,08,Charles,A,All Charles Schools,All Arts,35,37,1.1,3.32,27,73,20221114
+2022,08,Charles,A,All Charles Schools,All English,234,325,1.4,2.94,207,63.7,20221114
+2022,08,Charles,A,All Charles Schools,All History & Social Science,407,695,1.7,2.7,368,52.9,20221114
+2022,08,Charles,A,All Charles Schools,All Math & Computer Science,178,257,1.4,2.45,115,44.7,20221114
+2022,08,Charles,A,All Charles Schools,All Sciences,122,154,1.3,2.4,65,42.2,20221114
+2022,08,Charles,A,All Charles Schools,All World Languages & Cultures,*,*,*,*,*,*,20221114
+2022,09,Dorchester,0207,North Dorchester High School,All Subjects,30,55,1.8,2.53,28,50.9,20221114
+2022,09,Dorchester,0207,North Dorchester High School,All English,*,*,*,*,*,*,20221114
+2022,09,Dorchester,0207,North Dorchester High School,All History & Social Science,28,38,1.4,2.53,20,52.6,20221114
+2022,09,Dorchester,0207,North Dorchester High School,All Sciences,*,*,*,*,*,*,20221114
+2022,09,Dorchester,0713,Cambridge-South Dorchester High School,All Subjects,36,76,2.1,2.66,43,56.6,20221114
+2022,09,Dorchester,0713,Cambridge-South Dorchester High School,All English,14,17,1.2,3.29,13,76.5,20221114
+2022,09,Dorchester,0713,Cambridge-South Dorchester High School,All History & Social Science,33,55,1.7,2.53,29,52.7,20221114
+2022,09,Dorchester,0713,Cambridge-South Dorchester High School,All Math & Computer Science,*,*,*,*,*,*,20221114
+2022,09,Dorchester,0713,Cambridge-South Dorchester High School,All Sciences,*,*,*,*,*,*,20221114
+2022,09,Dorchester,A,All Dorchester Schools,All Subjects,66,131,2,2.6,71,54.2,20221114
+2022,09,Dorchester,A,All Dorchester Schools,All English,22,25,1.1,3.2,18,72,20221114
+2022,09,Dorchester,A,All Dorchester Schools,All History & Social Science,61,93,1.5,2.53,49,52.7,20221114
+2022,09,Dorchester,A,All Dorchester Schools,All Math & Computer Science,*,*,*,*,*,*,20221114
+2022,09,Dorchester,A,All Dorchester Schools,All Sciences,*,*,*,*,*,*,20221114
+2022,10,Frederick,0209,Frederick High,All Subjects,101,255,2.5,2.8,141,55.3,20221114
+2022,10,Frederick,0209,Frederick High,All Arts,*,*,*,*,*,*,20221114
+2022,10,Frederick,0209,Frederick High,All English,24,25,1,2.64,13,52,20221114
+2022,10,Frederick,0209,Frederick High,All History & Social Science,83,162,2,2.9,98,60.5,20221114
+2022,10,Frederick,0209,Frederick High,All Math & Computer Science,21,26,1.2,2.54,12,46.2,20221114
+2022,10,Frederick,0209,Frederick High,All Sciences,26,37,1.4,2.51,13,35.1,20221114
+2022,10,Frederick,0209,Frederick High,All World Languages & Cultures,*,*,*,*,*,*,20221114
+2022,10,Frederick,0213,Gov. Thomas Johnson High,All Subjects,145,398,2.7,2.81,236,59.3,20221114
+2022,10,Frederick,0213,Gov. Thomas Johnson High,All Arts,12,12,1,3.75,11,91.7,20221114
+2022,10,Frederick,0213,Gov. Thomas Johnson High,All English,35,38,1.1,3.16,30,78.9,20221114
+2022,10,Frederick,0213,Gov. Thomas Johnson High,All History & Social Science,104,175,1.7,2.68,95,54.3,20221114
+2022,10,Frederick,0213,Gov. Thomas Johnson High,All Math & Computer Science,46,72,1.6,2.86,43,59.7,20221114
+2022,10,Frederick,0213,Gov. Thomas Johnson High,All Sciences,65,95,1.5,2.76,53,55.8,20221114
+2022,10,Frederick,0213,Gov. Thomas Johnson High,All World Languages & Cultures,*,*,*,*,*,*,20221114
+2022,10,Frederick,0313,Middletown High,All Subjects,128,319,2.5,2.76,183,57.4,20221114
+2022,10,Frederick,0313,Middletown High,All Arts,*,*,*,*,*,*,20221114
+2022,10,Frederick,0313,Middletown High,All English,*,*,*,*,*,*,20221114
+2022,10,Frederick,0313,Middletown High,All History & Social Science,106,167,1.6,2.51,87,52.1,20221114
+2022,10,Frederick,0313,Middletown High,All Math & Computer Science,49,68,1.4,3.18,45,66.2,20221114
+2022,10,Frederick,0313,Middletown High,All Sciences,48,71,1.5,2.8,41,57.7,20221114
+2022,10,Frederick,0313,Middletown High,All World Languages & Cultures,*,*,*,*,*,*,20221114
+2022,10,Frederick,0713,Urbana High,All Subjects,260,1017,3.9,3.46,774,76.1,20221114
+2022,10,Frederick,0713,Urbana High,All Arts,*,*,*,*,*,*,20221114
+2022,10,Frederick,0713,Urbana High,All English,95,123,1.3,3.79,106,86.2,20221114
+2022,10,Frederick,0713,Urbana High,All History & Social Science,214,452,2.1,3.39,331,73.2,20221114
+2022,10,Frederick,0713,Urbana High,All Math & Computer Science,147,232,1.6,3.71,189,81.5,20221114
+2022,10,Frederick,0713,Urbana High,All Sciences,119,179,1.5,3.11,120,67,20221114
+2022,10,Frederick,0713,Urbana High,All World Languages & Cultures,29,29,1,3.48,26,89.7,20221114
+2022,10,Frederick,0912,Linganore High,All Subjects,131,308,2.4,3.22,229,74.4,20221114
+2022,10,Frederick,0912,Linganore High,All Arts,*,*,*,*,*,*,20221114
+2022,10,Frederick,0912,Linganore High,All English,22,27,1.2,3.48,22,81.5,20221114
+2022,10,Frederick,0912,Linganore High,All History & Social Science,105,183,1.7,3.19,131,71.6,20221114
+2022,10,Frederick,0912,Linganore High,All Math & Computer Science,32,45,1.4,3.6,40,88.9,20221114
+2022,10,Frederick,0912,Linganore High,All Sciences,29,33,1.1,2.7,19,57.6,20221114
+2022,10,Frederick,0912,Linganore High,All World Languages & Cultures,19,19,1,3.16,16,84.2,20221114
+2022,10,Frederick,0920,Oakdale High,All Subjects,165,453,2.7,3.29,336,74.2,20221114
+2022,10,Frederick,0920,Oakdale High,All AP Capstone,*,*,*,*,*,*,20221114
+2022,10,Frederick,0920,Oakdale High,All Arts,*,*,*,*,*,*,20221114
+2022,10,Frederick,0920,Oakdale High,All English,119,131,1.1,3.21,95,72.5,20221114
+2022,10,Frederick,0920,Oakdale High,All History & Social Science,102,165,1.6,3.28,124,75.2,20221114
+2022,10,Frederick,0920,Oakdale High,All Math & Computer Science,66,82,1.2,3.49,61,74.4,20221114
+2022,10,Frederick,0920,Oakdale High,All Sciences,42,62,1.5,3.15,43,69.4,20221114
+2022,10,Frederick,0920,Oakdale High,All World Languages & Cultures,*,*,*,*,*,*,20221114
+2022,10,Frederick,1509,Catoctin High,All Subjects,47,80,1.7,2.68,40,50,20221114
+2022,10,Frederick,1509,Catoctin High,All Arts,*,*,*,*,*,*,20221114
+2022,10,Frederick,1509,Catoctin High,All English,*,*,*,*,*,*,20221114
+2022,10,Frederick,1509,Catoctin High,All History & Social Science,44,64,1.5,2.55,30,46.9,20221114
+2022,10,Frederick,1509,Catoctin High,All Math & Computer Science,*,*,*,*,*,*,20221114
+2022,10,Frederick,1509,Catoctin High,All Sciences,*,*,*,*,*,*,20221114
+2022,10,Frederick,1509,Catoctin High,All World Languages & Cultures,*,*,*,*,*,*,20221114
+2022,10,Frederick,2307,Tuscarora High,All Subjects,114,284,2.5,2.83,166,58.5,20221114
+2022,10,Frederick,2307,Tuscarora High,All Arts,*,*,*,*,*,*,20221114
+2022,10,Frederick,2307,Tuscarora High,All English,37,44,1.2,2.64,19,43.2,20221114
+2022,10,Frederick,2307,Tuscarora High,All History & Social Science,70,137,2,2.77,83,60.6,20221114
+2022,10,Frederick,2307,Tuscarora High,All Math & Computer Science,42,51,1.2,3.16,33,64.7,20221114
+2022,10,Frederick,2307,Tuscarora High,All Sciences,35,43,1.2,2.63,22,51.2,20221114
+2022,10,Frederick,2307,Tuscarora High,All World Languages & Cultures,*,*,*,*,*,*,20221114
+2022,10,Frederick,2503,Brunswick High,All Subjects,64,187,2.9,3.13,114,61,20221114
+2022,10,Frederick,2503,Brunswick High,All English,20,20,1,2.25,4,20,20221114
+2022,10,Frederick,2503,Brunswick High,All History & Social Science,46,77,1.7,2.88,45,58.4,20221114
+2022,10,Frederick,2503,Brunswick High,All Math & Computer Science,30,39,1.3,4.54,*,>= 95.0,20221114
+2022,10,Frederick,2503,Brunswick High,All Sciences,37,50,1.4,2.76,26,52,20221114
+2022,10,Frederick,2503,Brunswick High,All World Languages & Cultures,*,*,*,*,*,*,20221114
+2022,10,Frederick,2610,Walkersville High,All Subjects,98,272,2.8,2.99,171,62.9,20221114
+2022,10,Frederick,2610,Walkersville High,All Arts,*,*,*,*,*,*,20221114
+2022,10,Frederick,2610,Walkersville High,All English,42,50,1.2,3,31,62,20221114
+2022,10,Frederick,2610,Walkersville High,All History & Social Science,72,126,1.8,2.8,71,56.3,20221114
+2022,10,Frederick,2610,Walkersville High,All Math & Computer Science,43,56,1.3,3.18,39,69.6,20221114
+2022,10,Frederick,2610,Walkersville High,All Sciences,27,34,1.3,3.18,24,70.6,20221114
+2022,10,Frederick,2610,Walkersville High,All World Languages & Cultures,*,*,*,*,*,*,20221114
+2022,10,Frederick,A,All Frederick Schools,All Subjects,1253,3573,2.9,3.12,2390,66.9,20221114
+2022,10,Frederick,A,All Frederick Schools,All AP Capstone,*,*,*,*,*,*,20221114
+2022,10,Frederick,A,All Frederick Schools,All Arts,32,32,1,3.88,*,>= 95.0,20221114
+2022,10,Frederick,A,All Frederick Schools,All English,403,467,1.2,3.22,325,69.6,20221114
+2022,10,Frederick,A,All Frederick Schools,All History & Social Science,946,1708,1.8,3,1095,64.1,20221114
+2022,10,Frederick,A,All Frederick Schools,All Math & Computer Science,482,679,1.4,3.44,505,74.4,20221114
+2022,10,Frederick,A,All Frederick Schools,All Sciences,432,608,1.4,2.91,364,59.9,20221114
+2022,10,Frederick,A,All Frederick Schools,All World Languages & Cultures,78,78,1,3.41,69,88.5,20221114
+2022,11,Garrett,3512,Northern Garrett High School,All Subjects,35,99,2.8,2.62,47,47.5,20221114
+2022,11,Garrett,3512,Northern Garrett High School,All Arts,*,*,*,*,*,*,20221114
+2022,11,Garrett,3512,Northern Garrett High School,All English,*,*,*,*,*,*,20221114
+2022,11,Garrett,3512,Northern Garrett High School,All History & Social Science,20,28,1.4,2.39,10,35.7,20221114
+2022,11,Garrett,3512,Northern Garrett High School,All Math & Computer Science,19,28,1.5,3,18,64.3,20221114
+2022,11,Garrett,3512,Northern Garrett High School,All Sciences,27,30,1.1,2.6,14,46.7,20221114
+2022,11,Garrett,3709,Southern Garrett High School,All Subjects,44,140,3.2,3.19,93,66.4,20221114
+2022,11,Garrett,3709,Southern Garrett High School,All English,25,34,1.4,3.24,22,64.7,20221114
+2022,11,Garrett,3709,Southern Garrett High School,All History & Social Science,27,34,1.3,3.24,25,73.5,20221114
+2022,11,Garrett,3709,Southern Garrett High School,All Math & Computer Science,31,57,1.8,3.21,37,64.9,20221114
+2022,11,Garrett,3709,Southern Garrett High School,All Sciences,11,15,1.4,2.93,9,60,20221114
+2022,11,Garrett,A,All Garrett Schools,All Subjects,79,239,3,2.95,140,58.6,20221114
+2022,11,Garrett,A,All Garrett Schools,All Arts,*,*,*,*,*,*,20221114
+2022,11,Garrett,A,All Garrett Schools,All English,31,44,1.4,3,26,59.1,20221114
+2022,11,Garrett,A,All Garrett Schools,All History & Social Science,47,62,1.3,2.85,35,56.5,20221114
+2022,11,Garrett,A,All Garrett Schools,All Math & Computer Science,50,85,1.7,3.14,55,64.7,20221114
+2022,11,Garrett,A,All Garrett Schools,All Sciences,38,45,1.2,2.71,23,51.1,20221114
+2022,12,Harford,0176,Edgewood High,All Subjects,71,153,2.2,2.36,63,41.2,20221114
+2022,12,Harford,0176,Edgewood High,All Arts,*,*,*,*,*,*,20221114
+2022,12,Harford,0176,Edgewood High,All English,19,20,1.1,2.1,5,25,20221114
+2022,12,Harford,0176,Edgewood High,All History & Social Science,68,110,1.6,2.45,50,45.5,20221114
+2022,12,Harford,0176,Edgewood High,All Math & Computer Science,11,12,1.1,1.83,3,25,20221114
+2022,12,Harford,0176,Edgewood High,All Sciences,*,*,*,*,*,*,20221114
+2022,12,Harford,0181,Joppatowne High,All Subjects,67,231,3.4,1.63,40,17.3,20221114
+2022,12,Harford,0181,Joppatowne High,All Arts,*,*,*,*,*,*,20221114
+2022,12,Harford,0181,Joppatowne High,All English,47,79,1.7,1.68,13,16.5,20221114
+2022,12,Harford,0181,Joppatowne High,All History & Social Science,58,114,2,1.47,15,13.2,20221114
+2022,12,Harford,0181,Joppatowne High,All Math & Computer Science,18,35,1.9,1.97,11,31.4,20221114
+2022,12,Harford,0181,Joppatowne High,All Sciences,*,*,*,*,*,*,20221114
+2022,12,Harford,0187,Patterson Mill High School,All Subjects,96,295,3.1,2.84,185,62.7,20221114
+2022,12,Harford,0187,Patterson Mill High School,All Arts,*,*,*,*,*,*,20221114
+2022,12,Harford,0187,Patterson Mill High School,All English,42,52,1.2,2.9,31,59.6,20221114
+2022,12,Harford,0187,Patterson Mill High School,All History & Social Science,74,128,1.7,2.82,83,64.8,20221114
+2022,12,Harford,0187,Patterson Mill High School,All Math & Computer Science,46,71,1.5,2.51,37,52.1,20221114
+2022,12,Harford,0187,Patterson Mill High School,All Sciences,28,33,1.2,3,24,72.7,20221114
+2022,12,Harford,0187,Patterson Mill High School,All World Languages & Cultures,*,*,*,*,*,*,20221114
+2022,12,Harford,0270,Aberdeen High,All Subjects,84,494,5.9,3.28,358,72.5,20221114
+2022,12,Harford,0270,Aberdeen High,All Arts,*,*,*,*,*,*,20221114
+2022,12,Harford,0270,Aberdeen High,All English,46,71,1.5,3.52,62,87.3,20221114
+2022,12,Harford,0270,Aberdeen High,All History & Social Science,66,113,1.7,2.92,73,64.6,20221114
+2022,12,Harford,0270,Aberdeen High,All Math & Computer Science,64,164,2.6,3.39,122,74.4,20221114
+2022,12,Harford,0270,Aberdeen High,All Sciences,53,141,2.7,3.28,96,68.1,20221114
+2022,12,Harford,0270,Aberdeen High,All World Languages & Cultures,*,*,*,*,*,*,20221114
+2022,12,Harford,0292,Center for Educational Opportunity,All Subjects,*,*,*,*,*,*,20221114
+2022,12,Harford,0292,Center for Educational Opportunity,All English,*,*,*,*,*,*,20221114
+2022,12,Harford,0292,Center for Educational Opportunity,All History & Social Science,*,*,*,*,*,*,20221114
+2022,12,Harford,0296,Swan Creek School,All Subjects,*,*,*,*,*,*,20221114
+2022,12,Harford,0296,Swan Creek School,All English,*,*,*,*,*,*,20221114
+2022,12,Harford,0296,Swan Creek School,All History & Social Science,*,*,*,*,*,*,20221114
+2022,12,Harford,0304,Harford Technical High,All Subjects,106,316,3,2.58,158,50,20221114
+2022,12,Harford,0304,Harford Technical High,All English,84,91,1.1,2.33,33,36.3,20221114
+2022,12,Harford,0304,Harford Technical High,All History & Social Science,78,142,1.8,2.88,89,62.7,20221114
+2022,12,Harford,0304,Harford Technical High,All Math & Computer Science,45,51,1.1,2.24,19,37.3,20221114
+2022,12,Harford,0304,Harford Technical High,All Sciences,27,32,1.2,2.47,17,53.1,20221114
+2022,12,Harford,0373,Bel Air High,All Subjects,182,550,3,2.72,307,55.8,20221114
+2022,12,Harford,0373,Bel Air High,All Arts,*,*,*,*,*,*,20221114
+2022,12,Harford,0373,Bel Air High,All English,107,135,1.3,2.99,87,64.4,20221114
+2022,12,Harford,0373,Bel Air High,All History & Social Science,141,236,1.7,2.53,111,47,20221114
+2022,12,Harford,0373,Bel Air High,All Math & Computer Science,92,127,1.4,2.77,78,61.4,20221114
+2022,12,Harford,0373,Bel Air High,All Sciences,18,25,1.4,2.8,15,60,20221114
+2022,12,Harford,0373,Bel Air High,All World Languages & Cultures,20,20,1,2.5,9,45,20221114
+2022,12,Harford,0382,Fallston High,All Subjects,86,298,3.5,2.81,174,58.4,20221114
+2022,12,Harford,0382,Fallston High,All English,46,58,1.3,3.26,46,79.3,20221114
+2022,12,Harford,0382,Fallston High,All History & Social Science,78,133,1.7,2.81,80,60.2,20221114
+2022,12,Harford,0382,Fallston High,All Math & Computer Science,31,55,1.8,2.67,27,49.1,20221114
+2022,12,Harford,0382,Fallston High,All Sciences,31,37,1.2,2.49,16,43.2,20221114
+2022,12,Harford,0382,Fallston High,All World Languages & Cultures,15,15,1,2.33,5,33.3,20221114
+2022,12,Harford,0385,C. Milton Wright High,All Subjects,159,570,3.6,2.76,318,55.8,20221114
+2022,12,Harford,0385,C. Milton Wright High,All Arts,*,*,*,*,*,*,20221114
+2022,12,Harford,0385,C. Milton Wright High,All English,75,91,1.2,2.78,54,59.3,20221114
+2022,12,Harford,0385,C. Milton Wright High,All History & Social Science,138,307,2.2,2.8,182,59.3,20221114
+2022,12,Harford,0385,C. Milton Wright High,All Math & Computer Science,62,108,1.7,2.57,46,42.6,20221114
+2022,12,Harford,0385,C. Milton Wright High,All Sciences,42,56,1.3,2.66,28,50,20221114
+2022,12,Harford,0385,C. Milton Wright High,All World Languages & Cultures,*,*,*,*,*,*,20221114
+2022,12,Harford,0580,North Harford High,All Subjects,92,230,2.5,3,155,67.4,20221114
+2022,12,Harford,0580,North Harford High,All English,29,33,1.1,3.18,26,78.8,20221114
+2022,12,Harford,0580,North Harford High,All History & Social Science,90,152,1.7,3.02,104,68.4,20221114
+2022,12,Harford,0580,North Harford High,All Math & Computer Science,20,28,1.4,2.64,15,53.6,20221114
+2022,12,Harford,0580,North Harford High,All Sciences,12,14,1.2,3.07,9,64.3,20221114
+2022,12,Harford,0580,North Harford High,All World Languages & Cultures,*,*,*,*,*,*,20221114
+2022,12,Harford,0678,Havre de Grace High,All Subjects,48,130,2.7,2.91,81,62.3,20221114
+2022,12,Harford,0678,Havre de Grace High,All Arts,*,*,*,*,*,*,20221114
+2022,12,Harford,0678,Havre de Grace High,All English,21,25,1.2,3.16,17,68,20221114
+2022,12,Harford,0678,Havre de Grace High,All History & Social Science,42,57,1.4,2.74,35,61.4,20221114
+2022,12,Harford,0678,Havre de Grace High,All Math & Computer Science,20,30,1.5,2.67,16,53.3,20221114
+2022,12,Harford,0678,Havre de Grace High,All Sciences,*,*,*,*,*,*,20221114
+2022,12,Harford,0678,Havre de Grace High,All World Languages & Cultures,*,*,*,*,*,*,20221114
+2022,12,Harford,A,All Harford Schools,All Subjects,994,3274,3.3,2.75,1840,56.2,20221114
+2022,12,Harford,A,All Harford Schools,All Arts,27,28,1,4.04,*,>= 95.0,20221114
+2022,12,Harford,A,All Harford Schools,All English,518,658,1.3,2.77,375,57,20221114
+2022,12,Harford,A,All Harford Schools,All History & Social Science,836,1496,1.8,2.67,822,54.9,20221114
+2022,12,Harford,A,All Harford Schools,All Math & Computer Science,409,681,1.7,2.75,374,54.9,20221114
+2022,12,Harford,A,All Harford Schools,All Sciences,231,365,1.6,2.94,219,60,20221114
+2022,12,Harford,A,All Harford Schools,All World Languages & Cultures,46,46,1,2.74,22,47.8,20221114
+2022,13,Howard,0203,Howard High,All Subjects,223,876,3.9,3.46,687,78.4,20221114
+2022,13,Howard,0203,Howard High,All Arts,10,12,1.2,3.25,*,>= 95.0,20221114
+2022,13,Howard,0203,Howard High,All English,117,150,1.3,3.64,129,86,20221114
+2022,13,Howard,0203,Howard High,All History & Social Science,152,290,1.9,3.53,228,78.6,20221114
+2022,13,Howard,0203,Howard High,All Math & Computer Science,145,274,1.9,3.48,212,77.4,20221114
+2022,13,Howard,0203,Howard High,All Sciences,84,117,1.4,2.97,75,64.1,20221114
+2022,13,Howard,0203,Howard High,All World Languages & Cultures,32,33,1,3.61,31,93.9,20221114
+2022,13,Howard,0207,Mount Hebron High,All Subjects,256,1265,4.9,3.59,1025,81,20221114
+2022,13,Howard,0207,Mount Hebron High,All Arts,10,11,1.1,4.27,*,>= 95.0,20221114
+2022,13,Howard,0207,Mount Hebron High,All English,111,144,1.3,3.82,133,92.4,20221114
+2022,13,Howard,0207,Mount Hebron High,All History & Social Science,186,395,2.1,3.62,315,79.7,20221114
+2022,13,Howard,0207,Mount Hebron High,All Math & Computer Science,191,403,2.1,3.68,337,83.6,20221114
+2022,13,Howard,0207,Mount Hebron High,All Sciences,155,259,1.7,3.29,182,70.3,20221114
+2022,13,Howard,0207,Mount Hebron High,All World Languages & Cultures,53,53,1,3.43,47,88.7,20221114
+2022,13,Howard,0214,Centennial High,All Subjects,232,1167,5,3.93,1038,88.9,20221114
+2022,13,Howard,0214,Centennial High,All Arts,15,15,1,4.33,*,>= 95.0,20221114
+2022,13,Howard,0214,Centennial High,All English,130,157,1.2,4.09,145,92.4,20221114
+2022,13,Howard,0214,Centennial High,All History & Social Science,180,387,2.2,3.94,340,87.9,20221114
+2022,13,Howard,0214,Centennial High,All Math & Computer Science,186,412,2.2,4.05,381,92.5,20221114
+2022,13,Howard,0214,Centennial High,All Sciences,110,160,1.5,3.41,124,77.5,20221114
+2022,13,Howard,0214,Centennial High,All World Languages & Cultures,34,36,1.1,3.94,33,91.7,20221114
+2022,13,Howard,0308,Marriotts Ridge High,All Subjects,249,1404,5.6,3.69,1180,84,20221114
+2022,13,Howard,0308,Marriotts Ridge High,All AP Capstone,*,*,*,*,*,*,20221114
+2022,13,Howard,0308,Marriotts Ridge High,All Arts,*,*,*,*,*,*,20221114
+2022,13,Howard,0308,Marriotts Ridge High,All English,140,162,1.2,3.9,147,90.7,20221114
+2022,13,Howard,0308,Marriotts Ridge High,All History & Social Science,210,495,2.4,3.72,415,83.8,20221114
+2022,13,Howard,0308,Marriotts Ridge High,All Math & Computer Science,191,432,2.3,3.81,375,86.8,20221114
+2022,13,Howard,0308,Marriotts Ridge High,All Sciences,149,250,1.7,3.25,183,73.2,20221114
+2022,13,Howard,0308,Marriotts Ridge High,All World Languages & Cultures,50,52,1,3.62,47,90.4,20221114
+2022,13,Howard,0404,Glenelg High,All Subjects,198,805,4.1,3.66,671,83.4,20221114
+2022,13,Howard,0404,Glenelg High,All Arts,23,26,1.1,3.85,20,76.9,20221114
+2022,13,Howard,0404,Glenelg High,All English,96,136,1.4,3.89,129,94.9,20221114
+2022,13,Howard,0404,Glenelg High,All History & Social Science,141,260,1.8,3.69,214,82.3,20221114
+2022,13,Howard,0404,Glenelg High,All Math & Computer Science,125,243,1.9,3.83,215,88.5,20221114
+2022,13,Howard,0404,Glenelg High,All Sciences,81,113,1.4,2.96,69,61.1,20221114
+2022,13,Howard,0404,Glenelg High,All World Languages & Cultures,26,27,1,3.59,24,88.9,20221114
+2022,13,Howard,0509,Atholton High,All Subjects,195,768,3.9,3.37,576,75,20221114
+2022,13,Howard,0509,Atholton High,All Arts,*,*,*,*,*,*,20221114
+2022,13,Howard,0509,Atholton High,All English,68,90,1.3,3.58,80,88.9,20221114
+2022,13,Howard,0509,Atholton High,All History & Social Science,175,353,2,3.32,258,73.1,20221114
+2022,13,Howard,0509,Atholton High,All Math & Computer Science,97,196,2,3.58,160,81.6,20221114
+2022,13,Howard,0509,Atholton High,All Sciences,78,100,1.3,2.78,50,50,20221114
+2022,13,Howard,0509,Atholton High,All World Languages & Cultures,26,27,1,3.85,*,>= 95.0,20221114
+2022,13,Howard,0516,Wilde Lake High,All Subjects,120,407,3.4,2.99,251,61.7,20221114
+2022,13,Howard,0516,Wilde Lake High,All Arts,*,*,*,*,*,*,20221114
+2022,13,Howard,0516,Wilde Lake High,All English,63,86,1.4,3.22,64,74.4,20221114
+2022,13,Howard,0516,Wilde Lake High,All History & Social Science,75,132,1.8,3.27,91,68.9,20221114
+2022,13,Howard,0516,Wilde Lake High,All Math & Computer Science,52,77,1.5,2.97,42,54.5,20221114
+2022,13,Howard,0516,Wilde Lake High,All Sciences,51,67,1.3,2.24,25,37.3,20221114
+2022,13,Howard,0516,Wilde Lake High,All World Languages & Cultures,38,38,1,2.79,23,60.5,20221114
+2022,13,Howard,0524,River Hill High,All Subjects,310,1615,5.2,3.66,1346,83.3,20221114
+2022,13,Howard,0524,River Hill High,All Arts,44,52,1.2,3.27,41,78.8,20221114
+2022,13,Howard,0524,River Hill High,All English,160,198,1.2,3.94,185,93.4,20221114
+2022,13,Howard,0524,River Hill High,All History & Social Science,277,574,2.1,3.54,450,78.4,20221114
+2022,13,Howard,0524,River Hill High,All Math & Computer Science,218,480,2.2,3.78,410,85.4,20221114
+2022,13,Howard,0524,River Hill High,All Sciences,160,264,1.7,3.56,215,81.4,20221114
+2022,13,Howard,0524,River Hill High,All World Languages & Cultures,46,47,1,3.83,*,>= 95.0,20221114
+2022,13,Howard,0527,Reservoir High,All Subjects,163,694,4.3,3.26,488,70.3,20221114
+2022,13,Howard,0527,Reservoir High,All Arts,14,15,1.1,3.67,*,>= 95.0,20221114
+2022,13,Howard,0527,Reservoir High,All English,93,129,1.4,3.47,103,79.8,20221114
+2022,13,Howard,0527,Reservoir High,All History & Social Science,124,237,1.9,3.22,159,67.1,20221114
+2022,13,Howard,0527,Reservoir High,All Math & Computer Science,85,157,1.8,3.46,120,76.4,20221114
+2022,13,Howard,0527,Reservoir High,All Sciences,82,132,1.6,2.84,72,54.5,20221114
+2022,13,Howard,0527,Reservoir High,All World Languages & Cultures,23,24,1,3.38,19,79.2,20221114
+2022,13,Howard,0611,Oakland Mills High,All Subjects,84,235,2.8,2.83,141,60,20221114
+2022,13,Howard,0611,Oakland Mills High,All Arts,13,13,1,3,11,84.6,20221114
+2022,13,Howard,0611,Oakland Mills High,All English,25,31,1.2,3.06,22,71,20221114
+2022,13,Howard,0611,Oakland Mills High,All History & Social Science,57,86,1.5,2.84,48,55.8,20221114
+2022,13,Howard,0611,Oakland Mills High,All Math & Computer Science,40,68,1.7,2.72,40,58.8,20221114
+2022,13,Howard,0611,Oakland Mills High,All Sciences,22,30,1.4,2.83,17,56.7,20221114
+2022,13,Howard,0611,Oakland Mills High,All World Languages & Cultures,*,*,*,*,*,*,20221114
+2022,13,Howard,0619,Hammond High,All Subjects,114,411,3.6,3.12,281,68.4,20221114
+2022,13,Howard,0619,Hammond High,All Arts,*,*,*,*,*,*,20221114
+2022,13,Howard,0619,Hammond High,All English,57,82,1.4,3.32,63,76.8,20221114
+2022,13,Howard,0619,Hammond High,All History & Social Science,87,175,2,3.14,120,68.6,20221114
+2022,13,Howard,0619,Hammond High,All Math & Computer Science,53,93,1.8,3.42,72,77.4,20221114
+2022,13,Howard,0619,Hammond High,All Sciences,37,53,1.4,2.23,19,35.8,20221114
+2022,13,Howard,0619,Hammond High,All World Languages & Cultures,*,*,*,*,*,*,20221114
+2022,13,Howard,0623,Long Reach High,All Subjects,101,272,2.7,2.83,159,58.5,20221114
+2022,13,Howard,0623,Long Reach High,All AP Capstone,*,*,*,*,*,*,20221114
+2022,13,Howard,0623,Long Reach High,All Arts,*,*,*,*,*,*,20221114
+2022,13,Howard,0623,Long Reach High,All English,37,45,1.2,3.09,33,73.3,20221114
+2022,13,Howard,0623,Long Reach High,All History & Social Science,80,114,1.4,2.54,56,49.1,20221114
+2022,13,Howard,0623,Long Reach High,All Math & Computer Science,46,68,1.5,3.31,51,75,20221114
+2022,13,Howard,0623,Long Reach High,All Sciences,24,28,1.2,1.86,5,17.9,20221114
+2022,13,Howard,0623,Long Reach High,All World Languages & Cultures,10,12,1.2,3.75,9,75,20221114
+2022,13,Howard,A,All Howard Schools,All Subjects,2245,9919,4.4,3.53,7843,79.1,20221114
+2022,13,Howard,A,All Howard Schools,All AP Capstone,*,*,*,*,*,*,20221114
+2022,13,Howard,A,All Howard Schools,All Arts,151,171,1.1,3.62,151,88.3,20221114
+2022,13,Howard,A,All Howard Schools,All English,1097,1410,1.3,3.71,1233,87.4,20221114
+2022,13,Howard,A,All Howard Schools,All History & Social Science,1744,3498,2,3.5,2694,77,20221114
+2022,13,Howard,A,All Howard Schools,All Math & Computer Science,1429,2903,2,3.69,2415,83.2,20221114
+2022,13,Howard,A,All Howard Schools,All Sciences,1033,1573,1.5,3.11,1036,65.9,20221114
+2022,13,Howard,A,All Howard Schools,All World Languages & Cultures,351,362,1,3.54,312,86.2,20221114
+2022,14,Kent,0301,Kent County High,All Subjects,47,155,3.3,2.33,66,42.6,20221114
+2022,14,Kent,0301,Kent County High,All Arts,*,*,*,*,*,*,20221114
+2022,14,Kent,0301,Kent County High,All English,36,52,1.4,2.58,27,51.9,20221114
+2022,14,Kent,0301,Kent County High,All History & Social Science,29,38,1.3,2.13,12,31.6,20221114
+2022,14,Kent,0301,Kent County High,All Math & Computer Science,28,35,1.3,2,12,34.3,20221114
+2022,14,Kent,0301,Kent County High,All Sciences,25,25,1,2.48,11,44,20221114
+2022,14,Kent,0301,Kent County High,All World Languages & Cultures,*,*,*,*,*,*,20221114
+2022,14,Kent,A,All Kent Schools,All Subjects,47,155,3.3,2.33,66,42.6,20221114
+2022,14,Kent,A,All Kent Schools,All Arts,*,*,*,*,*,*,20221114
+2022,14,Kent,A,All Kent Schools,All English,36,52,1.4,2.58,27,51.9,20221114
+2022,14,Kent,A,All Kent Schools,All History & Social Science,29,38,1.3,2.13,12,31.6,20221114
+2022,14,Kent,A,All Kent Schools,All Math & Computer Science,28,35,1.3,2,12,34.3,20221114
+2022,14,Kent,A,All Kent Schools,All Sciences,25,25,1,2.48,11,44,20221114
+2022,14,Kent,A,All Kent Schools,All World Languages & Cultures,*,*,*,*,*,*,20221114
+2022,15,Montgomery,0104,Seneca Valley High,All Subjects,122,199,1.6,2.43,90,45.2,20221114
+2022,15,Montgomery,0104,Seneca Valley High,All English,*,*,*,*,*,*,20221114
+2022,15,Montgomery,0104,Seneca Valley High,All History & Social Science,117,165,1.4,2.36,70,42.4,20221114
+2022,15,Montgomery,0104,Seneca Valley High,All Math & Computer Science,25,28,1.1,2.61,14,50,20221114
+2022,15,Montgomery,0104,Seneca Valley High,All Sciences,*,*,*,*,*,*,20221114
+2022,15,Montgomery,0104,Seneca Valley High,All World Languages & Cultures,*,*,*,*,*,*,20221114
+2022,15,Montgomery,0125,Quince Orchard High,All Subjects,345,1747,5.1,3.14,1183,67.7,20221114
+2022,15,Montgomery,0125,Quince Orchard High,All Arts,47,59,1.3,3.22,43,72.9,20221114
+2022,15,Montgomery,0125,Quince Orchard High,All English,267,402,1.5,2.93,248,61.7,20221114
+2022,15,Montgomery,0125,Quince Orchard High,All History & Social Science,317,874,2.8,3.04,557,63.7,20221114
+2022,15,Montgomery,0125,Quince Orchard High,All Math & Computer Science,152,245,1.6,3.76,213,86.9,20221114
+2022,15,Montgomery,0125,Quince Orchard High,All Sciences,96,125,1.3,3.01,83,66.4,20221114
+2022,15,Montgomery,0125,Quince Orchard High,All World Languages & Cultures,37,42,1.1,3.93,39,92.9,20221114
+2022,15,Montgomery,0152,Poolesville High,All Subjects,241,1908,7.9,3.82,1657,86.8,20221114
+2022,15,Montgomery,0152,Poolesville High,All AP Capstone,46,66,1.4,3.56,61,92.4,20221114
+2022,15,Montgomery,0152,Poolesville High,All Arts,64,68,1.1,3.81,62,91.2,20221114
+2022,15,Montgomery,0152,Poolesville High,All English,187,267,1.4,3.98,248,92.9,20221114
+2022,15,Montgomery,0152,Poolesville High,All History & Social Science,237,753,3.2,3.75,627,83.3,20221114
+2022,15,Montgomery,0152,Poolesville High,All Math & Computer Science,193,458,2.4,3.81,392,85.6,20221114
+2022,15,Montgomery,0152,Poolesville High,All Sciences,137,255,1.9,3.91,229,89.8,20221114
+2022,15,Montgomery,0152,Poolesville High,All World Languages & Cultures,40,41,1,4.17,38,92.7,20221114
+2022,15,Montgomery,0201,Richard Montgomery High,All Subjects,418,2092,5,3.62,1691,80.8,20221114
+2022,15,Montgomery,0201,Richard Montgomery High,All Arts,43,43,1,3.79,35,81.4,20221114
+2022,15,Montgomery,0201,Richard Montgomery High,All English,234,278,1.2,3.37,208,74.8,20221114
+2022,15,Montgomery,0201,Richard Montgomery High,All History & Social Science,389,948,2.4,3.54,746,78.7,20221114
+2022,15,Montgomery,0201,Richard Montgomery High,All Math & Computer Science,239,453,1.9,3.89,397,87.6,20221114
+2022,15,Montgomery,0201,Richard Montgomery High,All Sciences,164,231,1.4,3.4,174,75.3,20221114
+2022,15,Montgomery,0201,Richard Montgomery High,All World Languages & Cultures,134,139,1,4.12,131,94.2,20221114
+2022,15,Montgomery,0230,Rockville High,All Subjects,186,621,3.3,2.63,322,51.9,20221114
+2022,15,Montgomery,0230,Rockville High,All Arts,*,*,*,*,*,*,20221114
+2022,15,Montgomery,0230,Rockville High,All English,93,130,1.4,2.53,58,44.6,20221114
+2022,15,Montgomery,0230,Rockville High,All History & Social Science,155,308,2,2.62,162,52.6,20221114
+2022,15,Montgomery,0230,Rockville High,All Math & Computer Science,73,115,1.6,2.63,59,51.3,20221114
+2022,15,Montgomery,0230,Rockville High,All Sciences,33,38,1.2,2.08,14,36.8,20221114
+2022,15,Montgomery,0230,Rockville High,All World Languages & Cultures,21,21,1,3.95,*,>= 95.0,20221114
+2022,15,Montgomery,0234,Thomas S. Wootton High,All Subjects,418,2683,6.4,3.61,2228,83,20221114
+2022,15,Montgomery,0234,Thomas S. Wootton High,All AP Capstone,63,115,1.8,3.85,*,>= 95.0,20221114
+2022,15,Montgomery,0234,Thomas S. Wootton High,All Arts,31,31,1,3.77,29,93.5,20221114
+2022,15,Montgomery,0234,Thomas S. Wootton High,All English,300,413,1.4,3.55,348,84.3,20221114
+2022,15,Montgomery,0234,Thomas S. Wootton High,All History & Social Science,392,1026,2.6,3.36,757,73.8,20221114
+2022,15,Montgomery,0234,Thomas S. Wootton High,All Math & Computer Science,281,627,2.2,3.87,563,89.8,20221114
+2022,15,Montgomery,0234,Thomas S. Wootton High,All Sciences,207,380,1.8,3.73,328,86.3,20221114
+2022,15,Montgomery,0234,Thomas S. Wootton High,All World Languages & Cultures,78,91,1.2,4.07,*,>= 95.0,20221114
+2022,15,Montgomery,0246,Northwest High,All Subjects,460,2107,4.6,3.06,1401,66.5,20221114
+2022,15,Montgomery,0246,Northwest High,All Arts,27,27,1,3.7,23,85.2,20221114
+2022,15,Montgomery,0246,Northwest High,All English,307,466,1.5,3,312,67,20221114
+2022,15,Montgomery,0246,Northwest High,All History & Social Science,414,1021,2.5,2.89,619,60.6,20221114
+2022,15,Montgomery,0246,Northwest High,All Math & Computer Science,174,280,1.6,3.6,224,80,20221114
+2022,15,Montgomery,0246,Northwest High,All Sciences,167,199,1.2,2.93,125,62.8,20221114
+2022,15,Montgomery,0246,Northwest High,All World Languages & Cultures,104,114,1.1,3.61,98,86,20221114
+2022,15,Montgomery,0249,Clarksburg High,All Subjects,378,1646,4.4,2.92,1015,61.7,20221114
+2022,15,Montgomery,0249,Clarksburg High,All Arts,27,27,1,2.93,22,81.5,20221114
+2022,15,Montgomery,0249,Clarksburg High,All English,168,206,1.2,2.96,131,63.6,20221114
+2022,15,Montgomery,0249,Clarksburg High,All History & Social Science,340,786,2.3,2.75,453,57.6,20221114
+2022,15,Montgomery,0249,Clarksburg High,All Math & Computer Science,197,344,1.7,3.2,231,67.2,20221114
+2022,15,Montgomery,0249,Clarksburg High,All Sciences,160,250,1.6,2.91,148,59.2,20221114
+2022,15,Montgomery,0249,Clarksburg High,All World Languages & Cultures,32,33,1,3.76,30,90.9,20221114
+2022,15,Montgomery,0315,Paint Branch High,All Subjects,211,668,3.2,2.58,333,49.9,20221114
+2022,15,Montgomery,0315,Paint Branch High,All Arts,*,*,*,*,*,*,20221114
+2022,15,Montgomery,0315,Paint Branch High,All English,73,81,1.1,2.67,45,55.6,20221114
+2022,15,Montgomery,0315,Paint Branch High,All History & Social Science,190,349,1.8,2.66,189,54.2,20221114
+2022,15,Montgomery,0315,Paint Branch High,All Math & Computer Science,81,100,1.2,2.15,31,31,20221114
+2022,15,Montgomery,0315,Paint Branch High,All Sciences,84,115,1.4,2.39,47,40.9,20221114
+2022,15,Montgomery,0315,Paint Branch High,All World Languages & Cultures,19,19,1,3.74,17,89.5,20221114
+2022,15,Montgomery,0321,James Hubert Blake High,All Subjects,238,924,3.9,2.73,507,54.9,20221114
+2022,15,Montgomery,0321,James Hubert Blake High,All AP Capstone,33,58,1.8,3.22,51,87.9,20221114
+2022,15,Montgomery,0321,James Hubert Blake High,All Arts,23,23,1,3.3,16,69.6,20221114
+2022,15,Montgomery,0321,James Hubert Blake High,All English,98,125,1.3,3.04,78,62.4,20221114
+2022,15,Montgomery,0321,James Hubert Blake High,All History & Social Science,216,519,2.4,2.62,261,50.3,20221114
+2022,15,Montgomery,0321,James Hubert Blake High,All Math & Computer Science,68,101,1.5,2.4,42,41.6,20221114
+2022,15,Montgomery,0321,James Hubert Blake High,All Sciences,64,75,1.2,2.65,39,52,20221114
+2022,15,Montgomery,0321,James Hubert Blake High,All World Languages & Cultures,21,23,1.1,3.57,20,87,20221114
+2022,15,Montgomery,0406,Bethesda-Chevy Chase High,All Subjects,435,1813,4.2,3.42,1399,77.2,20221114
+2022,15,Montgomery,0406,Bethesda-Chevy Chase High,All Arts,21,21,1,3.43,18,85.7,20221114
+2022,15,Montgomery,0406,Bethesda-Chevy Chase High,All English,205,277,1.4,3.28,205,74,20221114
+2022,15,Montgomery,0406,Bethesda-Chevy Chase High,All History & Social Science,406,878,2.2,3.38,671,76.4,20221114
+2022,15,Montgomery,0406,Bethesda-Chevy Chase High,All Math & Computer Science,199,313,1.6,3.39,239,76.4,20221114
+2022,15,Montgomery,0406,Bethesda-Chevy Chase High,All Sciences,175,238,1.4,3.47,182,76.5,20221114
+2022,15,Montgomery,0406,Bethesda-Chevy Chase High,All World Languages & Cultures,74,86,1.2,4.19,*,>= 95.0,20221114
+2022,15,Montgomery,0424,Walter Johnson High,All Subjects,505,2760,5.5,3.75,2329,84.4,20221114
+2022,15,Montgomery,0424,Walter Johnson High,All Arts,50,54,1.1,3.5,43,79.6,20221114
+2022,15,Montgomery,0424,Walter Johnson High,All English,309,406,1.3,3.59,340,83.7,20221114
+2022,15,Montgomery,0424,Walter Johnson High,All History & Social Science,476,1459,3.1,3.73,1207,82.7,20221114
+2022,15,Montgomery,0424,Walter Johnson High,All Math & Computer Science,246,407,1.7,3.88,359,88.2,20221114
+2022,15,Montgomery,0424,Walter Johnson High,All Sciences,182,320,1.8,3.78,269,84.1,20221114
+2022,15,Montgomery,0424,Walter Johnson High,All World Languages & Cultures,101,114,1.1,4.1,*,>= 95.0,20221114
+2022,15,Montgomery,0427,Walt Whitman High,All Subjects,428,2493,5.8,3.75,2125,85.2,20221114
+2022,15,Montgomery,0427,Walt Whitman High,All Arts,75,81,1.1,3.59,73,90.1,20221114
+2022,15,Montgomery,0427,Walt Whitman High,All English,289,420,1.5,3.93,393,93.6,20221114
+2022,15,Montgomery,0427,Walt Whitman High,All History & Social Science,413,1050,2.5,3.8,888,84.6,20221114
+2022,15,Montgomery,0427,Walt Whitman High,All Math & Computer Science,240,371,1.5,3.63,298,80.3,20221114
+2022,15,Montgomery,0427,Walt Whitman High,All Sciences,271,433,1.6,3.45,344,79.4,20221114
+2022,15,Montgomery,0427,Walt Whitman High,All World Languages & Cultures,114,138,1.2,4.15,129,93.5,20221114
+2022,15,Montgomery,0503,Sherwood High,All Subjects,280,1252,4.5,3.31,907,72.4,20221114
+2022,15,Montgomery,0503,Sherwood High,All Arts,17,21,1.2,3.24,15,71.4,20221114
+2022,15,Montgomery,0503,Sherwood High,All English,167,269,1.6,3.68,239,88.8,20221114
+2022,15,Montgomery,0503,Sherwood High,All History & Social Science,246,553,2.2,3.47,424,76.7,20221114
+2022,15,Montgomery,0503,Sherwood High,All Math & Computer Science,140,195,1.4,3,120,61.5,20221114
+2022,15,Montgomery,0503,Sherwood High,All Sciences,126,177,1.4,2.49,75,42.4,20221114
+2022,15,Montgomery,0503,Sherwood High,All World Languages & Cultures,37,37,1,3.78,34,91.9,20221114
+2022,15,Montgomery,0510,Col. Zadok Magruder High,All Subjects,161,517,3.2,2.67,264,51.1,20221114
+2022,15,Montgomery,0510,Col. Zadok Magruder High,All Arts,13,13,1,3.38,11,84.6,20221114
+2022,15,Montgomery,0510,Col. Zadok Magruder High,All English,86,122,1.4,2.91,72,59,20221114
+2022,15,Montgomery,0510,Col. Zadok Magruder High,All History & Social Science,137,241,1.8,2.53,116,48.1,20221114
+2022,15,Montgomery,0510,Col. Zadok Magruder High,All Math & Computer Science,56,63,1.1,2.3,23,36.5,20221114
+2022,15,Montgomery,0510,Col. Zadok Magruder High,All Sciences,52,56,1.1,2.38,22,39.3,20221114
+2022,15,Montgomery,0510,Col. Zadok Magruder High,All World Languages & Cultures,20,22,1.1,4.18,20,90.9,20221114
+2022,15,Montgomery,0545,Watkins Mill High,All Subjects,119,200,1.7,2.36,84,42,20221114
+2022,15,Montgomery,0545,Watkins Mill High,All English,*,*,*,*,*,*,20221114
+2022,15,Montgomery,0545,Watkins Mill High,All History & Social Science,80,114,1.4,2.21,41,36,20221114
+2022,15,Montgomery,0545,Watkins Mill High,All Math & Computer Science,36,50,1.4,1.8,11,22,20221114
+2022,15,Montgomery,0545,Watkins Mill High,All World Languages & Cultures,35,35,1,3.66,32,91.4,20221114
+2022,15,Montgomery,0551,Gaithersburg High,All Subjects,151,434,2.9,2.69,237,54.6,20221114
+2022,15,Montgomery,0551,Gaithersburg High,All Arts,*,*,*,*,*,*,20221114
+2022,15,Montgomery,0551,Gaithersburg High,All English,73,87,1.2,2.55,41,47.1,20221114
+2022,15,Montgomery,0551,Gaithersburg High,All History & Social Science,95,168,1.8,2.73,96,57.1,20221114
+2022,15,Montgomery,0551,Gaithersburg High,All Math & Computer Science,57,74,1.3,2.24,26,35.1,20221114
+2022,15,Montgomery,0551,Gaithersburg High,All Sciences,45,53,1.2,2.62,29,54.7,20221114
+2022,15,Montgomery,0551,Gaithersburg High,All World Languages & Cultures,40,50,1.3,3.5,43,86,20221114
+2022,15,Montgomery,0602,Winston Churchill High,All Subjects,475,3041,6.4,3.66,2504,82.3,20221114
+2022,15,Montgomery,0602,Winston Churchill High,All Arts,41,43,1,4,38,88.4,20221114
+2022,15,Montgomery,0602,Winston Churchill High,All English,346,392,1.1,3.49,312,79.6,20221114
+2022,15,Montgomery,0602,Winston Churchill High,All History & Social Science,456,1303,2.9,3.7,1058,81.2,20221114
+2022,15,Montgomery,0602,Winston Churchill High,All Math & Computer Science,347,694,2,3.63,575,82.9,20221114
+2022,15,Montgomery,0602,Winston Churchill High,All Sciences,265,477,1.8,3.61,396,83,20221114
+2022,15,Montgomery,0602,Winston Churchill High,All World Languages & Cultures,120,132,1.1,4.03,125,94.7,20221114
+2022,15,Montgomery,0701,Damascus High,All Subjects,188,796,4.2,2.98,508,63.8,20221114
+2022,15,Montgomery,0701,Damascus High,All AP Capstone,24,37,1.5,3.27,33,89.2,20221114
+2022,15,Montgomery,0701,Damascus High,All Arts,13,15,1.2,3.07,11,73.3,20221114
+2022,15,Montgomery,0701,Damascus High,All English,113,155,1.4,3.13,110,71,20221114
+2022,15,Montgomery,0701,Damascus High,All History & Social Science,169,369,2.2,2.8,212,57.5,20221114
+2022,15,Montgomery,0701,Damascus High,All Math & Computer Science,65,96,1.5,3.25,67,69.8,20221114
+2022,15,Montgomery,0701,Damascus High,All Sciences,89,110,1.2,2.85,61,55.5,20221114
+2022,15,Montgomery,0701,Damascus High,All World Languages & Cultures,14,14,1,4.21,*,>= 95.0,20221114
+2022,15,Montgomery,0757,Montgomery Blair High,All Subjects,432,2116,4.9,3.9,1817,85.9,20221114
+2022,15,Montgomery,0757,Montgomery Blair High,All Arts,23,23,1,3.35,17,73.9,20221114
+2022,15,Montgomery,0757,Montgomery Blair High,All English,274,355,1.3,3.91,312,87.9,20221114
+2022,15,Montgomery,0757,Montgomery Blair High,All History & Social Science,369,892,2.4,3.81,747,83.7,20221114
+2022,15,Montgomery,0757,Montgomery Blair High,All Math & Computer Science,234,474,2,4.01,410,86.5,20221114
+2022,15,Montgomery,0757,Montgomery Blair High,All Sciences,146,233,1.6,3.86,195,83.7,20221114
+2022,15,Montgomery,0757,Montgomery Blair High,All World Languages & Cultures,122,139,1.1,4.27,*,>= 95.0,20221114
+2022,15,Montgomery,0782,Wheaton High,All Subjects,289,1151,4,2.81,666,57.9,20221114
+2022,15,Montgomery,0782,Wheaton High,All Arts,*,*,*,*,*,*,20221114
+2022,15,Montgomery,0782,Wheaton High,All English,107,130,1.2,2.95,82,63.1,20221114
+2022,15,Montgomery,0782,Wheaton High,All History & Social Science,238,481,2,2.78,283,58.8,20221114
+2022,15,Montgomery,0782,Wheaton High,All Math & Computer Science,156,270,1.7,2.66,147,54.4,20221114
+2022,15,Montgomery,0782,Wheaton High,All Sciences,115,224,1.9,2.68,111,49.6,20221114
+2022,15,Montgomery,0782,Wheaton High,All World Languages & Cultures,44,44,1,4.09,41,93.2,20221114
+2022,15,Montgomery,0789,Albert Einstein High,All Subjects,243,717,3,2.88,429,59.8,20221114
+2022,15,Montgomery,0789,Albert Einstein High,All Arts,26,35,1.3,3.66,31,88.6,20221114
+2022,15,Montgomery,0789,Albert Einstein High,All English,108,140,1.3,2.77,82,58.6,20221114
+2022,15,Montgomery,0789,Albert Einstein High,All History & Social Science,210,365,1.7,2.82,205,56.2,20221114
+2022,15,Montgomery,0789,Albert Einstein High,All Math & Computer Science,74,98,1.3,2.82,58,59.2,20221114
+2022,15,Montgomery,0789,Albert Einstein High,All Sciences,31,31,1,1.81,7,22.6,20221114
+2022,15,Montgomery,0789,Albert Einstein High,All World Languages & Cultures,48,48,1,3.96,*,>= 95.0,20221114
+2022,15,Montgomery,0796,Northwood High School,All Subjects,191,645,3.4,2.89,387,60,20221114
+2022,15,Montgomery,0796,Northwood High School,All Arts,*,*,*,*,*,*,20221114
+2022,15,Montgomery,0796,Northwood High School,All English,115,144,1.3,2.81,89,61.8,20221114
+2022,15,Montgomery,0796,Northwood High School,All History & Social Science,145,334,2.3,3.01,207,62,20221114
+2022,15,Montgomery,0796,Northwood High School,All Math & Computer Science,48,58,1.2,1.88,14,24.1,20221114
+2022,15,Montgomery,0796,Northwood High School,All Sciences,47,48,1,2.67,24,50,20221114
+2022,15,Montgomery,0796,Northwood High School,All World Languages & Cultures,49,54,1.1,3.65,47,87,20221114
+2022,15,Montgomery,0798,Springbrook High,All Subjects,229,752,3.3,2.27,305,40.6,20221114
+2022,15,Montgomery,0798,Springbrook High,All Arts,*,*,*,*,*,*,20221114
+2022,15,Montgomery,0798,Springbrook High,All English,46,58,1.3,2.53,30,51.7,20221114
+2022,15,Montgomery,0798,Springbrook High,All History & Social Science,192,377,2,2.28,156,41.4,20221114
+2022,15,Montgomery,0798,Springbrook High,All Math & Computer Science,105,161,1.5,2.21,65,40.4,20221114
+2022,15,Montgomery,0798,Springbrook High,All Sciences,76,130,1.7,2.02,36,27.7,20221114
+2022,15,Montgomery,0798,Springbrook High,All World Languages & Cultures,24,24,1,3.42,18,75,20221114
+2022,15,Montgomery,0815,John F. Kennedy High,All Subjects,185,414,2.2,2.24,159,38.4,20221114
+2022,15,Montgomery,0815,John F. Kennedy High,All Arts,*,*,*,*,*,*,20221114
+2022,15,Montgomery,0815,John F. Kennedy High,All English,69,69,1,2.23,22,31.9,20221114
+2022,15,Montgomery,0815,John F. Kennedy High,All History & Social Science,142,240,1.7,2.06,82,34.2,20221114
+2022,15,Montgomery,0815,John F. Kennedy High,All Math & Computer Science,36,41,1.1,1.56,5,12.2,20221114
+2022,15,Montgomery,0815,John F. Kennedy High,All World Languages & Cultures,62,62,1,3.37,50,80.6,20221114
+2022,15,Montgomery,0965,John L Gildner Regional Inst for Children & Adol,All Subjects,*,*,*,*,*,*,20221114
+2022,15,Montgomery,0965,John L Gildner Regional Inst for Children & Adol,All History & Social Science,*,*,*,*,*,*,20221114
+2022,15,Montgomery,0965,John L Gildner Regional Inst for Children & Adol,All Sciences,*,*,*,*,*,*,20221114
+2022,15,Montgomery,A,All Montgomery Schools,All Subjects,7332,33700,4.6,3.33,24549,72.8,20221114
+2022,15,Montgomery,A,All Montgomery Schools,All AP Capstone,166,276,1.7,3.57,257,93.1,20221114
+2022,15,Montgomery,A,All Montgomery Schools,All Arts,569,612,1.1,3.54,510,83.3,20221114
+2022,15,Montgomery,A,All Montgomery Schools,All English,4036,5394,1.3,3.31,4006,74.3,20221114
+2022,15,Montgomery,A,All Montgomery Schools,All History & Social Science,6544,15576,2.4,3.24,10835,69.6,20221114
+2022,15,Montgomery,A,All Montgomery Schools,All Math & Computer Science,3522,6116,1.7,3.44,4583,74.9,20221114
+2022,15,Montgomery,A,All Montgomery Schools,All Sciences,2736,4202,1.5,3.26,2942,70,20221114
+2022,15,Montgomery,A,All Montgomery Schools,All World Languages & Cultures,1392,1524,1.1,3.96,1416,92.9,20221114
+2022,16,Prince George's,0102,High Point High,All Subjects,109,267,2.4,2.34,107,40.1,20221114
+2022,16,Prince George's,0102,High Point High,All Arts,*,*,*,*,*,*,20221114
+2022,16,Prince George's,0102,High Point High,All English,50,62,1.2,2.42,26,41.9,20221114
+2022,16,Prince George's,0102,High Point High,All History & Social Science,61,101,1.7,2.01,32,31.7,20221114
+2022,16,Prince George's,0102,High Point High,All Math & Computer Science,32,54,1.7,2.2,17,31.5,20221114
+2022,16,Prince George's,0102,High Point High,All Sciences,12,12,1,1.33,*,<= 5.0,20221114
+2022,16,Prince George's,0102,High Point High,All World Languages & Cultures,25,29,1.2,3.76,24,82.8,20221114
+2022,16,Prince George's,0208,Bladensburg High,All Subjects,53,68,1.3,1.75,10,14.7,20221114
+2022,16,Prince George's,0208,Bladensburg High,All Arts,*,*,*,*,*,*,20221114
+2022,16,Prince George's,0208,Bladensburg High,All English,29,30,1,2.03,6,20,20221114
+2022,16,Prince George's,0208,Bladensburg High,All History & Social Science,12,12,1,1.33,*,<= 5.0,20221114
+2022,16,Prince George's,0208,Bladensburg High,All Math & Computer Science,*,*,*,*,*,*,20221114
+2022,16,Prince George's,0208,Bladensburg High,All Sciences,17,17,1,1.29,1,5.9,20221114
+2022,16,Prince George's,0208,Bladensburg High,All World Languages & Cultures,*,*,*,*,*,*,20221114
+2022,16,Prince George's,0511,Friendly High,All Subjects,13,18,1.4,1.33,*,<= 5.0,20221114
+2022,16,Prince George's,0511,Friendly High,All English,*,*,*,*,*,*,20221114
+2022,16,Prince George's,0511,Friendly High,All History & Social Science,*,*,*,*,*,*,20221114
+2022,16,Prince George's,0511,Friendly High,All Sciences,*,*,*,*,*,*,20221114
+2022,16,Prince George's,0603,Suitland High,All Subjects,48,81,1.7,1.53,15,18.5,20221114
+2022,16,Prince George's,0603,Suitland High,All Arts,*,*,*,*,*,*,20221114
+2022,16,Prince George's,0603,Suitland High,All English,26,32,1.2,1.66,8,25,20221114
+2022,16,Prince George's,0603,Suitland High,All History & Social Science,29,34,1.2,1.26,3,8.8,20221114
+2022,16,Prince George's,0603,Suitland High,All Math & Computer Science,*,*,*,*,*,*,20221114
+2022,16,Prince George's,0908,Surrattsville High,All Subjects,*,*,*,*,*,*,20221114
+2022,16,Prince George's,0908,Surrattsville High,All English,*,*,*,*,*,*,20221114
+2022,16,Prince George's,0908,Surrattsville High,All Sciences,*,*,*,*,*,*,20221114
+2022,16,Prince George's,1008,Laurel High,All Subjects,103,171,1.7,1.92,47,27.5,20221114
+2022,16,Prince George's,1008,Laurel High,All Arts,*,*,*,*,*,*,20221114
+2022,16,Prince George's,1008,Laurel High,All English,24,26,1.1,2.15,8,30.8,20221114
+2022,16,Prince George's,1008,Laurel High,All History & Social Science,94,130,1.4,1.75,29,22.3,20221114
+2022,16,Prince George's,1008,Laurel High,All Math & Computer Science,*,*,*,*,*,*,20221114
+2022,16,Prince George's,1008,Laurel High,All World Languages & Cultures,*,*,*,*,*,*,20221114
+2022,16,Prince George's,1015,Chesapeake Math and IT Public Charter,All Subjects,64,118,1.8,2.6,61,51.7,20221114
+2022,16,Prince George's,1015,Chesapeake Math and IT Public Charter,All English,14,14,1,2.64,7,50,20221114
+2022,16,Prince George's,1015,Chesapeake Math and IT Public Charter,All History & Social Science,34,52,1.5,3,33,63.5,20221114
+2022,16,Prince George's,1015,Chesapeake Math and IT Public Charter,All Math & Computer Science,39,45,1.2,2.24,20,44.4,20221114
+2022,16,Prince George's,1015,Chesapeake Math and IT Public Charter,All Sciences,*,*,*,*,*,*,20221114
+2022,16,Prince George's,1103,Gwynn Park High,All Subjects,19,28,1.5,1.68,5,17.9,20221114
+2022,16,Prince George's,1103,Gwynn Park High,All Arts,*,*,*,*,*,*,20221114
+2022,16,Prince George's,1103,Gwynn Park High,All English,*,*,*,*,*,*,20221114
+2022,16,Prince George's,1103,Gwynn Park High,All History & Social Science,*,*,*,*,*,*,20221114
+2022,16,Prince George's,1103,Gwynn Park High,All Math & Computer Science,*,*,*,*,*,*,20221114
+2022,16,Prince George's,1103,Gwynn Park High,All World Languages & Cultures,*,*,*,*,*,*,20221114
+2022,16,Prince George's,1209,Oxon Hill High,All Subjects,113,307,2.7,2.23,115,37.5,20221114
+2022,16,Prince George's,1209,Oxon Hill High,All Arts,*,*,*,*,*,*,20221114
+2022,16,Prince George's,1209,Oxon Hill High,All English,22,25,1.1,3.16,19,76,20221114
+2022,16,Prince George's,1209,Oxon Hill High,All History & Social Science,93,146,1.6,2.35,57,39,20221114
+2022,16,Prince George's,1209,Oxon Hill High,All Math & Computer Science,38,52,1.4,2.06,18,34.6,20221114
+2022,16,Prince George's,1209,Oxon Hill High,All Sciences,60,71,1.2,1.65,11,15.5,20221114
+2022,16,Prince George's,1209,Oxon Hill High,All World Languages & Cultures,*,*,*,*,*,*,20221114
+2022,16,Prince George's,1217,Crossland High,All Subjects,*,*,*,*,*,*,20221114
+2022,16,Prince George's,1217,Crossland High,All English,*,*,*,*,*,*,20221114
+2022,16,Prince George's,1217,Crossland High,All History & Social Science,*,*,*,*,*,*,20221114
+2022,16,Prince George's,1220,Potomac High,All Subjects,28,38,1.4,1.79,4,10.5,20221114
+2022,16,Prince George's,1220,Potomac High,All Arts,*,*,*,*,*,*,20221114
+2022,16,Prince George's,1220,Potomac High,All English,27,36,1.3,1.78,4,11.1,20221114
+2022,16,Prince George's,1314,Largo High,All Subjects,34,71,2.1,1.77,14,19.7,20221114
+2022,16,Prince George's,1314,Largo High,All English,20,24,1.2,2.33,12,50,20221114
+2022,16,Prince George's,1314,Largo High,All History & Social Science,27,34,1.3,1.5,*,<= 5.0,20221114
+2022,16,Prince George's,1314,Largo High,All Math & Computer Science,*,*,*,*,*,*,20221114
+2022,16,Prince George's,1314,Largo High,All Sciences,*,*,*,*,*,*,20221114
+2022,16,Prince George's,1327,Charles Herbert Flowers High,All Subjects,123,296,2.4,2.25,118,39.9,20221114
+2022,16,Prince George's,1327,Charles Herbert Flowers High,All Arts,*,*,*,*,*,*,20221114
+2022,16,Prince George's,1327,Charles Herbert Flowers High,All English,48,50,1,2.46,24,48,20221114
+2022,16,Prince George's,1327,Charles Herbert Flowers High,All History & Social Science,74,110,1.5,2.2,42,38.2,20221114
+2022,16,Prince George's,1327,Charles Herbert Flowers High,All Math & Computer Science,51,62,1.2,2.31,26,41.9,20221114
+2022,16,Prince George's,1327,Charles Herbert Flowers High,All Sciences,47,67,1.4,2.03,20,29.9,20221114
+2022,16,Prince George's,1327,Charles Herbert Flowers High,All World Languages & Cultures,*,*,*,*,*,*,20221114
+2022,16,Prince George's,1351,Chesapeake Math and IT South Public Charter,All Subjects,19,34,1.8,1.5,5,14.7,20221114
+2022,16,Prince George's,1351,Chesapeake Math and IT South Public Charter,All English,*,*,*,*,*,*,20221114
+2022,16,Prince George's,1351,Chesapeake Math and IT South Public Charter,All Math & Computer Science,18,23,1.3,1.22,2,8.7,20221114
+2022,16,Prince George's,1351,Chesapeake Math and IT South Public Charter,All Sciences,*,*,*,*,*,*,20221114
+2022,16,Prince George's,1352,International High school @ Largo,All Subjects,25,49,2,1.88,12,24.5,20221114
+2022,16,Prince George's,1352,International High school @ Largo,All Arts,*,*,*,*,*,*,20221114
+2022,16,Prince George's,1352,International High school @ Largo,All English,17,24,1.4,1.29,*,<= 5.0,20221114
+2022,16,Prince George's,1352,International High school @ Largo,All History & Social Science,*,*,*,*,*,*,20221114
+2022,16,Prince George's,1352,International High school @ Largo,All World Languages & Cultures,11,11,1,2.73,6,54.5,20221114
+2022,16,Prince George's,1409,Duval High,All Subjects,73,122,1.7,2.02,42,34.4,20221114
+2022,16,Prince George's,1409,Duval High,All Arts,16,16,1,2.44,8,50,20221114
+2022,16,Prince George's,1409,Duval High,All English,13,14,1.1,2.29,7,50,20221114
+2022,16,Prince George's,1409,Duval High,All History & Social Science,47,56,1.2,1.91,17,30.4,20221114
+2022,16,Prince George's,1409,Duval High,All Math & Computer Science,19,25,1.3,1.88,7,28,20221114
+2022,16,Prince George's,1409,Duval High,All Sciences,*,*,*,*,*,*,20221114
+2022,16,Prince George's,1409,Duval High,All World Languages & Cultures,*,*,*,*,*,*,20221114
+2022,16,Prince George's,1423,Bowie High,All Subjects,189,506,2.7,2.22,189,37.4,20221114
+2022,16,Prince George's,1423,Bowie High,All AP Capstone,*,*,*,*,*,*,20221114
+2022,16,Prince George's,1423,Bowie High,All Arts,*,*,*,*,*,*,20221114
+2022,16,Prince George's,1423,Bowie High,All English,95,122,1.3,2.41,50,41,20221114
+2022,16,Prince George's,1423,Bowie High,All History & Social Science,168,320,1.9,2.1,105,32.8,20221114
+2022,16,Prince George's,1423,Bowie High,All Math & Computer Science,11,12,1.1,2.5,6,50,20221114
+2022,16,Prince George's,1423,Bowie High,All Sciences,25,29,1.2,2.24,12,41.4,20221114
+2022,16,Prince George's,1423,Bowie High,All World Languages & Cultures,*,*,*,*,*,*,20221114
+2022,16,Prince George's,1502,Frederick Douglass High,All Subjects,53,74,1.4,1.92,21,28.4,20221114
+2022,16,Prince George's,1502,Frederick Douglass High,All Arts,*,*,*,*,*,*,20221114
+2022,16,Prince George's,1502,Frederick Douglass High,All English,13,15,1.2,1.93,4,26.7,20221114
+2022,16,Prince George's,1502,Frederick Douglass High,All History & Social Science,46,51,1.1,2,16,31.4,20221114
+2022,16,Prince George's,1502,Frederick Douglass High,All Math & Computer Science,*,*,*,*,*,*,20221114
+2022,16,Prince George's,1502,Frederick Douglass High,All World Languages & Cultures,*,*,*,*,*,*,20221114
+2022,16,Prince George's,1519,"Dr. Henry A. Wise, Jr. High",All Subjects,48,106,2.2,1.98,32,30.2,20221114
+2022,16,Prince George's,1519,"Dr. Henry A. Wise, Jr. High",All Arts,*,*,*,*,*,*,20221114
+2022,16,Prince George's,1519,"Dr. Henry A. Wise, Jr. High",All English,19,22,1.2,2.5,11,50,20221114
+2022,16,Prince George's,1519,"Dr. Henry A. Wise, Jr. High",All History & Social Science,29,38,1.3,2,10,26.3,20221114
+2022,16,Prince George's,1519,"Dr. Henry A. Wise, Jr. High",All Math & Computer Science,19,22,1.2,1.64,5,22.7,20221114
+2022,16,Prince George's,1519,"Dr. Henry A. Wise, Jr. High",All Sciences,20,21,1.1,1.57,4,19,20221114
+2022,16,Prince George's,1708,Northwestern High,All Subjects,114,234,2.1,2.2,84,35.9,20221114
+2022,16,Prince George's,1708,Northwestern High,All Arts,14,15,1.1,3,8,53.3,20221114
+2022,16,Prince George's,1708,Northwestern High,All English,55,57,1,1.93,11,19.3,20221114
+2022,16,Prince George's,1708,Northwestern High,All History & Social Science,61,88,1.4,1.9,23,26.1,20221114
+2022,16,Prince George's,1708,Northwestern High,All Math & Computer Science,14,14,1,2,3,21.4,20221114
+2022,16,Prince George's,1708,Northwestern High,All Sciences,*,*,*,*,*,*,20221114
+2022,16,Prince George's,1708,Northwestern High,All World Languages & Cultures,44,54,1.2,2.87,39,72.2,20221114
+2022,16,Prince George's,1732,International High School @ Langley Park,All Subjects,24,48,2,1.52,5,10.4,20221114
+2022,16,Prince George's,1732,International High School @ Langley Park,All Arts,*,*,*,*,*,*,20221114
+2022,16,Prince George's,1732,International High School @ Langley Park,All English,13,13,1,1.46,1,7.7,20221114
+2022,16,Prince George's,1732,International High School @ Langley Park,All History & Social Science,23,28,1.2,1.25,*,<= 5.0,20221114
+2022,16,Prince George's,1732,International High School @ Langley Park,All Math & Computer Science,*,*,*,*,*,*,20221114
+2022,16,Prince George's,1732,International High School @ Langley Park,All World Languages & Cultures,*,*,*,*,*,*,20221114
+2022,16,Prince George's,1806,Fairmont Heights High,All Subjects,27,34,1.3,1.68,4,11.8,20221114
+2022,16,Prince George's,1806,Fairmont Heights High,All English,21,24,1.1,1.92,4,16.7,20221114
+2022,16,Prince George's,1806,Fairmont Heights High,All Math & Computer Science,10,10,1,1.1,*,<= 5.0,20221114
+2022,16,Prince George's,1810,Central High,All Subjects,*,*,*,*,*,*,20221114
+2022,16,Prince George's,1810,Central High,All English,*,*,*,*,*,*,20221114
+2022,16,Prince George's,1810,Central High,All History & Social Science,*,*,*,*,*,*,20221114
+2022,16,Prince George's,1810,Central High,All Sciences,*,*,*,*,*,*,20221114
+2022,16,Prince George's,1810,Central High,All World Languages & Cultures,*,*,*,*,*,*,20221114
+2022,16,Prince George's,1909,Parkdale High,All Subjects,80,163,2,2.04,41,25.2,20221114
+2022,16,Prince George's,1909,Parkdale High,All Arts,*,*,*,*,*,*,20221114
+2022,16,Prince George's,1909,Parkdale High,All English,50,68,1.4,2.03,16,23.5,20221114
+2022,16,Prince George's,1909,Parkdale High,All History & Social Science,43,51,1.2,2.08,12,23.5,20221114
+2022,16,Prince George's,1909,Parkdale High,All Math & Computer Science,24,25,1,1.24,*,<= 5.0,20221114
+2022,16,Prince George's,1909,Parkdale High,All Sciences,*,*,*,*,*,*,20221114
+2022,16,Prince George's,1909,Parkdale High,All World Languages & Cultures,*,*,*,*,*,*,20221114
+2022,16,Prince George's,2114,Eleanor Roosevelt High,All Subjects,284,1140,4,2.93,709,62.2,20221114
+2022,16,Prince George's,2114,Eleanor Roosevelt High,All AP Capstone,55,81,1.5,3.04,64,79,20221114
+2022,16,Prince George's,2114,Eleanor Roosevelt High,All Arts,*,*,*,*,*,*,20221114
+2022,16,Prince George's,2114,Eleanor Roosevelt High,All English,161,229,1.4,3.39,185,80.8,20221114
+2022,16,Prince George's,2114,Eleanor Roosevelt High,All History & Social Science,151,204,1.4,3.14,138,67.6,20221114
+2022,16,Prince George's,2114,Eleanor Roosevelt High,All Math & Computer Science,159,242,1.5,2.49,103,42.6,20221114
+2022,16,Prince George's,2114,Eleanor Roosevelt High,All Sciences,208,324,1.6,2.71,176,54.3,20221114
+2022,16,Prince George's,2114,Eleanor Roosevelt High,All World Languages & Cultures,49,51,1,3.14,34,66.7,20221114
+2022,16,Prince George's,2142,College Park Academy,All Subjects,38,145,3.8,2.12,47,32.4,20221114
+2022,16,Prince George's,2142,College Park Academy,All AP Capstone,31,39,1.3,2.72,25,64.1,20221114
+2022,16,Prince George's,2142,College Park Academy,All Arts,*,*,*,*,*,*,20221114
+2022,16,Prince George's,2142,College Park Academy,All English,34,42,1.2,2.05,11,26.2,20221114
+2022,16,Prince George's,2142,College Park Academy,All History & Social Science,23,34,1.5,1.76,5,14.7,20221114
+2022,16,Prince George's,2142,College Park Academy,All Math & Computer Science,12,14,1.2,2,4,28.6,20221114
+2022,16,Prince George's,2142,College Park Academy,All Sciences,*,*,*,*,*,*,20221114
+2022,16,Prince George's,2220,Community Based Classrooms,All Subjects,*,*,*,*,*,*,20221114
+2022,16,Prince George's,2220,Community Based Classrooms,All History & Social Science,*,*,*,*,*,*,20221114
+2022,16,Prince George's,A,All Prince George's Schools,All Subjects,1700,4141,2.4,2.33,1688,40.8,20221114
+2022,16,Prince George's,A,All Prince George's Schools,All AP Capstone,92,131,1.4,2.92,96,73.3,20221114
+2022,16,Prince George's,A,All Prince George's Schools,All Arts,105,110,1,2.91,72,65.5,20221114
+2022,16,Prince George's,A,All Prince George's Schools,All English,786,966,1.2,2.44,419,43.4,20221114
+2022,16,Prince George's,A,All Prince George's Schools,All History & Social Science,1041,1518,1.5,2.17,528,34.8,20221114
+2022,16,Prince George's,A,All Prince George's Schools,All Math & Computer Science,485,643,1.3,2.14,216,33.6,20221114
+2022,16,Prince George's,A,All Prince George's Schools,All Sciences,442,595,1.3,2.28,228,38.3,20221114
+2022,16,Prince George's,A,All Prince George's Schools,All World Languages & Cultures,162,178,1.1,3.16,129,72.5,20221114
+2022,17,Queen Anne's,0301,Queen Anne's County High School,All Subjects,103,299,2.9,2.96,199,66.6,20221114
+2022,17,Queen Anne's,0301,Queen Anne's County High School,All English,18,23,1.3,3.43,18,78.3,20221114
+2022,17,Queen Anne's,0301,Queen Anne's County High School,All History & Social Science,91,175,1.9,2.88,117,66.9,20221114
+2022,17,Queen Anne's,0301,Queen Anne's County High School,All Math & Computer Science,27,48,1.8,3.33,36,75,20221114
+2022,17,Queen Anne's,0301,Queen Anne's County High School,All Sciences,33,42,1.3,2.64,22,52.4,20221114
+2022,17,Queen Anne's,0301,Queen Anne's County High School,All World Languages & Cultures,11,11,1,2.82,6,54.5,20221114
+2022,17,Queen Anne's,0405,Kent Island High School,All Subjects,136,445,3.3,3.33,330,74.2,20221114
+2022,17,Queen Anne's,0405,Kent Island High School,All Arts,*,*,*,*,*,*,20221114
+2022,17,Queen Anne's,0405,Kent Island High School,All English,27,32,1.2,3.25,25,78.1,20221114
+2022,17,Queen Anne's,0405,Kent Island High School,All History & Social Science,120,228,1.9,3.03,145,63.6,20221114
+2022,17,Queen Anne's,0405,Kent Island High School,All Math & Computer Science,50,104,2.1,3.92,98,94.2,20221114
+2022,17,Queen Anne's,0405,Kent Island High School,All Sciences,56,67,1.2,3.45,49,73.1,20221114
+2022,17,Queen Anne's,0405,Kent Island High School,All World Languages & Cultures,*,*,*,*,*,*,20221114
+2022,17,Queen Anne's,A,All Queen Anne's Schools,All Subjects,239,744,3.1,3.18,529,71.1,20221114
+2022,17,Queen Anne's,A,All Queen Anne's Schools,All Arts,*,*,*,*,*,*,20221114
+2022,17,Queen Anne's,A,All Queen Anne's Schools,All English,45,55,1.2,3.33,43,78.2,20221114
+2022,17,Queen Anne's,A,All Queen Anne's Schools,All History & Social Science,211,403,1.9,2.96,262,65,20221114
+2022,17,Queen Anne's,A,All Queen Anne's Schools,All Math & Computer Science,77,152,2,3.74,134,88.2,20221114
+2022,17,Queen Anne's,A,All Queen Anne's Schools,All Sciences,89,109,1.2,3.14,71,65.1,20221114
+2022,17,Queen Anne's,A,All Queen Anne's Schools,All World Languages & Cultures,20,20,1,3.15,14,70,20221114
+2022,18,Saint Mary's,0303,Chopticon High,All Subjects,140,417,3,2.87,256,61.4,20221114
+2022,18,Saint Mary's,0303,Chopticon High,All AP Capstone,14,17,1.2,3,16,94.1,20221114
+2022,18,Saint Mary's,0303,Chopticon High,All Arts,10,17,1.7,3.59,16,94.1,20221114
+2022,18,Saint Mary's,0303,Chopticon High,All English,69,91,1.3,3.1,61,67,20221114
+2022,18,Saint Mary's,0303,Chopticon High,All History & Social Science,117,180,1.5,2.71,97,53.9,20221114
+2022,18,Saint Mary's,0303,Chopticon High,All Math & Computer Science,44,65,1.5,2.78,41,63.1,20221114
+2022,18,Saint Mary's,0303,Chopticon High,All Sciences,38,46,1.2,2.83,24,52.2,20221114
+2022,18,Saint Mary's,0303,Chopticon High,All World Languages & Cultures,*,*,*,*,*,*,20221114
+2022,18,Saint Mary's,0306,Leonardtown High,All Subjects,164,732,4.5,2.99,478,65.3,20221114
+2022,18,Saint Mary's,0306,Leonardtown High,All AP Capstone,30,48,1.6,3.08,42,87.5,20221114
+2022,18,Saint Mary's,0306,Leonardtown High,All Arts,*,*,*,*,*,*,20221114
+2022,18,Saint Mary's,0306,Leonardtown High,All English,109,152,1.4,3.09,103,67.8,20221114
+2022,18,Saint Mary's,0306,Leonardtown High,All History & Social Science,123,279,2.3,2.97,182,65.2,20221114
+2022,18,Saint Mary's,0306,Leonardtown High,All Math & Computer Science,94,152,1.6,2.87,89,58.6,20221114
+2022,18,Saint Mary's,0306,Leonardtown High,All Sciences,67,91,1.4,2.93,54,59.3,20221114
+2022,18,Saint Mary's,0306,Leonardtown High,All World Languages & Cultures,*,*,*,*,*,*,20221114
+2022,18,Saint Mary's,0801,Great Mills High,All Subjects,104,485,4.7,3.11,332,68.5,20221114
+2022,18,Saint Mary's,0801,Great Mills High,All AP Capstone,26,36,1.4,3.58,34,94.4,20221114
+2022,18,Saint Mary's,0801,Great Mills High,All Arts,*,*,*,*,*,*,20221114
+2022,18,Saint Mary's,0801,Great Mills High,All English,56,77,1.4,3.38,62,80.5,20221114
+2022,18,Saint Mary's,0801,Great Mills High,All History & Social Science,89,156,1.8,2.55,77,49.4,20221114
+2022,18,Saint Mary's,0801,Great Mills High,All Math & Computer Science,55,113,2.1,3.25,80,70.8,20221114
+2022,18,Saint Mary's,0801,Great Mills High,All Sciences,48,90,1.9,3.42,66,73.3,20221114
+2022,18,Saint Mary's,0801,Great Mills High,All World Languages & Cultures,*,*,*,*,*,*,20221114
+2022,18,Saint Mary's,A,All Saint Mary's Schools,All Subjects,408,1634,4,2.99,1066,65.2,20221114
+2022,18,Saint Mary's,A,All Saint Mary's Schools,All AP Capstone,70,101,1.4,3.25,92,91.1,20221114
+2022,18,Saint Mary's,A,All Saint Mary's Schools,All Arts,19,26,1.4,3.5,24,92.3,20221114
+2022,18,Saint Mary's,A,All Saint Mary's Schools,All English,234,320,1.4,3.16,226,70.6,20221114
+2022,18,Saint Mary's,A,All Saint Mary's Schools,All History & Social Science,329,615,1.9,2.79,356,57.9,20221114
+2022,18,Saint Mary's,A,All Saint Mary's Schools,All Math & Computer Science,193,330,1.7,2.98,210,63.6,20221114
+2022,18,Saint Mary's,A,All Saint Mary's Schools,All Sciences,153,227,1.5,3.11,144,63.4,20221114
+2022,18,Saint Mary's,A,All Saint Mary's Schools,All World Languages & Cultures,15,15,1,3.73,14,93.3,20221114
+2022,19,Somerset,0102,Washington Academy and High School,All Subjects,21,33,1.6,2.27,12,36.4,20221114
+2022,19,Somerset,0102,Washington Academy and High School,All Arts,*,*,*,*,*,*,20221114
+2022,19,Somerset,0102,Washington Academy and High School,All English,*,*,*,*,*,*,20221114
+2022,19,Somerset,0102,Washington Academy and High School,All Math & Computer Science,*,*,*,*,*,*,20221114
+2022,19,Somerset,0102,Washington Academy and High School,All Sciences,18,18,1,2.11,6,33.3,20221114
+2022,19,Somerset,0702,Crisfield Academy and High School,All Subjects,20,26,1.3,1.73,6,23.1,20221114
+2022,19,Somerset,0702,Crisfield Academy and High School,All English,14,14,1,1.79,3,21.4,20221114
+2022,19,Somerset,0702,Crisfield Academy and High School,All History & Social Science,12,12,1,1.67,3,25,20221114
+2022,19,Somerset,A,All Somerset Schools,All Subjects,41,59,1.4,2.03,18,30.5,20221114
+2022,19,Somerset,A,All Somerset Schools,All Arts,*,*,*,*,*,*,20221114
+2022,19,Somerset,A,All Somerset Schools,All English,23,23,1,1.83,4,17.4,20221114
+2022,19,Somerset,A,All Somerset Schools,All History & Social Science,12,12,1,1.67,3,25,20221114
+2022,19,Somerset,A,All Somerset Schools,All Math & Computer Science,*,*,*,*,*,*,20221114
+2022,19,Somerset,A,All Somerset Schools,All Sciences,18,18,1,2.11,6,33.3,20221114
+2022,20,Talbot,0101,Easton High,All Subjects,139,438,3.2,2.68,235,53.7,20221114
+2022,20,Talbot,0101,Easton High,All Arts,*,*,*,*,*,*,20221114
+2022,20,Talbot,0101,Easton High,All English,77,100,1.3,2.92,58,58,20221114
+2022,20,Talbot,0101,Easton High,All History & Social Science,102,163,1.6,2.61,87,53.4,20221114
+2022,20,Talbot,0101,Easton High,All Math & Computer Science,73,104,1.4,2.23,36,34.6,20221114
+2022,20,Talbot,0101,Easton High,All Sciences,27,33,1.2,3.03,23,69.7,20221114
+2022,20,Talbot,0101,Easton High,All World Languages & Cultures,33,33,1,3.15,26,78.8,20221114
+2022,20,Talbot,0202,St. Michaels Middle/High School,All Subjects,33,101,3.1,3.04,66,65.3,20221114
+2022,20,Talbot,0202,St. Michaels Middle/High School,All Arts,*,*,*,*,*,*,20221114
+2022,20,Talbot,0202,St. Michaels Middle/High School,All English,16,20,1.3,2.8,12,60,20221114
+2022,20,Talbot,0202,St. Michaels Middle/High School,All History & Social Science,29,61,2.1,3.3,46,75.4,20221114
+2022,20,Talbot,0202,St. Michaels Middle/High School,All Math & Computer Science,*,*,*,*,*,*,20221114
+2022,20,Talbot,0202,St. Michaels Middle/High School,All Sciences,*,*,*,*,*,*,20221114
+2022,20,Talbot,0202,St. Michaels Middle/High School,All World Languages & Cultures,*,*,*,*,*,*,20221114
+2022,20,Talbot,A,All Talbot Schools,All Subjects,172,539,3.1,2.75,301,55.8,20221114
+2022,20,Talbot,A,All Talbot Schools,All Arts,*,*,*,*,*,*,20221114
+2022,20,Talbot,A,All Talbot Schools,All English,93,120,1.3,2.9,70,58.3,20221114
+2022,20,Talbot,A,All Talbot Schools,All History & Social Science,131,224,1.7,2.8,133,59.4,20221114
+2022,20,Talbot,A,All Talbot Schools,All Math & Computer Science,81,114,1.4,2.19,37,32.5,20221114
+2022,20,Talbot,A,All Talbot Schools,All Sciences,33,39,1.2,3,26,66.7,20221114
+2022,20,Talbot,A,All Talbot Schools,All World Languages & Cultures,34,34,1,3.15,27,79.4,20221114
+2022,21,Washington,0040,Barbara Ingram School for the Arts,All Subjects,42,92,2.2,3.13,62,67.4,20221114
+2022,21,Washington,0040,Barbara Ingram School for the Arts,All Arts,13,13,1,4.23,*,>= 95.0,20221114
+2022,21,Washington,0040,Barbara Ingram School for the Arts,All English,28,33,1.2,2.79,18,54.5,20221114
+2022,21,Washington,0040,Barbara Ingram School for the Arts,All History & Social Science,30,35,1.2,2.94,22,62.9,20221114
+2022,21,Washington,0040,Barbara Ingram School for the Arts,All Math & Computer Science,*,*,*,*,*,*,20221114
+2022,21,Washington,0040,Barbara Ingram School for the Arts,All Sciences,*,*,*,*,*,*,20221114
+2022,21,Washington,0040,Barbara Ingram School for the Arts,All World Languages & Cultures,*,*,*,*,*,*,20221114
+2022,21,Washington,0204,Williamsport High,All Subjects,76,218,2.9,2.54,111,50.9,20221114
+2022,21,Washington,0204,Williamsport High,All Arts,*,*,*,*,*,*,20221114
+2022,21,Washington,0204,Williamsport High,All English,32,44,1.4,2.75,25,56.8,20221114
+2022,21,Washington,0204,Williamsport High,All History & Social Science,63,114,1.8,2.46,56,49.1,20221114
+2022,21,Washington,0204,Williamsport High,All Math & Computer Science,17,19,1.1,3.05,13,68.4,20221114
+2022,21,Washington,0204,Williamsport High,All Sciences,26,29,1.1,1.97,7,24.1,20221114
+2022,21,Washington,0204,Williamsport High,All World Languages & Cultures,11,11,1,3,9,81.8,20221114
+2022,21,Washington,0301,South Hagerstown High,All Subjects,48,230,4.8,2.77,124,53.9,20221114
+2022,21,Washington,0301,South Hagerstown High,All English,38,54,1.4,2.8,32,59.3,20221114
+2022,21,Washington,0301,South Hagerstown High,All History & Social Science,45,104,2.3,2.51,47,45.2,20221114
+2022,21,Washington,0301,South Hagerstown High,All Math & Computer Science,20,27,1.4,3.15,18,66.7,20221114
+2022,21,Washington,0301,South Hagerstown High,All Sciences,24,39,1.6,3.08,23,59,20221114
+2022,21,Washington,0301,South Hagerstown High,All World Languages & Cultures,*,*,*,*,*,*,20221114
+2022,21,Washington,0305,Washington County Technical High,All Subjects,78,213,2.7,2.4,86,40.4,20221114
+2022,21,Washington,0305,Washington County Technical High,All English,41,58,1.4,2.66,28,48.3,20221114
+2022,21,Washington,0305,Washington County Technical High,All History & Social Science,65,106,1.6,2.44,46,43.4,20221114
+2022,21,Washington,0305,Washington County Technical High,All Math & Computer Science,17,20,1.2,2.5,9,45,20221114
+2022,21,Washington,0305,Washington County Technical High,All Sciences,23,27,1.2,1.48,*,<= 5.0,20221114
+2022,21,Washington,0305,Washington County Technical High,All World Languages & Cultures,*,*,*,*,*,*,20221114
+2022,21,Washington,0403,Clear Spring High,All Subjects,40,170,4.3,2.72,103,60.6,20221114
+2022,21,Washington,0403,Clear Spring High,All AP Capstone,*,*,*,*,*,*,20221114
+2022,21,Washington,0403,Clear Spring High,All Arts,*,*,*,*,*,*,20221114
+2022,21,Washington,0403,Clear Spring High,All English,25,30,1.2,2.8,22,73.3,20221114
+2022,21,Washington,0403,Clear Spring High,All History & Social Science,37,88,2.4,2.68,49,55.7,20221114
+2022,21,Washington,0403,Clear Spring High,All Math & Computer Science,17,19,1.1,2.37,9,47.4,20221114
+2022,21,Washington,0403,Clear Spring High,All Sciences,14,14,1,2.71,8,57.1,20221114
+2022,21,Washington,0403,Clear Spring High,All World Languages & Cultures,*,*,*,*,*,*,20221114
+2022,21,Washington,0501,Hancock Middle Senior High,All Subjects,*,*,*,*,*,*,20221114
+2022,21,Washington,0501,Hancock Middle Senior High,All English,*,*,*,*,*,*,20221114
+2022,21,Washington,0501,Hancock Middle Senior High,All History & Social Science,*,*,*,*,*,*,20221114
+2022,21,Washington,0501,Hancock Middle Senior High,All Sciences,*,*,*,*,*,*,20221114
+2022,21,Washington,0601,Boonsboro High,All Subjects,89,304,3.4,3,202,66.4,20221114
+2022,21,Washington,0601,Boonsboro High,All English,34,48,1.4,3.38,38,79.2,20221114
+2022,21,Washington,0601,Boonsboro High,All History & Social Science,61,90,1.5,3.16,69,76.7,20221114
+2022,21,Washington,0601,Boonsboro High,All Math & Computer Science,53,76,1.4,2.89,46,60.5,20221114
+2022,21,Washington,0601,Boonsboro High,All Sciences,40,68,1.7,2.65,33,48.5,20221114
+2022,21,Washington,0601,Boonsboro High,All World Languages & Cultures,22,22,1,2.95,16,72.7,20221114
+2022,21,Washington,0701,Smithsburg High,All Subjects,56,165,2.9,2.76,86,52.1,20221114
+2022,21,Washington,0701,Smithsburg High,All English,20,31,1.6,3.71,29,93.5,20221114
+2022,21,Washington,0701,Smithsburg High,All History & Social Science,44,74,1.7,2.88,38,51.4,20221114
+2022,21,Washington,0701,Smithsburg High,All Math & Computer Science,26,27,1,1.7,5,18.5,20221114
+2022,21,Washington,0701,Smithsburg High,All Sciences,21,27,1.3,2.37,11,40.7,20221114
+2022,21,Washington,0701,Smithsburg High,All World Languages & Cultures,*,*,*,*,*,*,20221114
+2022,21,Washington,2101,North Hagerstown High,All Subjects,128,410,3.2,2.75,230,56.1,20221114
+2022,21,Washington,2101,North Hagerstown High,All English,77,96,1.2,2.89,60,62.5,20221114
+2022,21,Washington,2101,North Hagerstown High,All History & Social Science,117,209,1.8,2.62,105,50.2,20221114
+2022,21,Washington,2101,North Hagerstown High,All Math & Computer Science,67,92,1.4,2.83,54,58.7,20221114
+2022,21,Washington,2101,North Hagerstown High,All Sciences,*,*,*,*,*,*,20221114
+2022,21,Washington,2101,North Hagerstown High,All World Languages & Cultures,*,*,*,*,*,*,20221114
+2022,21,Washington,A,All Washington Schools,All Subjects,563,1824,3.2,2.74,1013,55.5,20221114
+2022,21,Washington,A,All Washington Schools,All AP Capstone,*,*,*,*,*,*,20221114
+2022,21,Washington,A,All Washington Schools,All Arts,17,19,1.1,3.95,*,>= 95.0,20221114
+2022,21,Washington,A,All Washington Schools,All English,299,401,1.3,2.93,257,64.1,20221114
+2022,21,Washington,A,All Washington Schools,All History & Social Science,466,827,1.8,2.66,433,52.4,20221114
+2022,21,Washington,A,All Washington Schools,All Math & Computer Science,222,285,1.3,2.75,159,55.8,20221114
+2022,21,Washington,A,All Washington Schools,All Sciences,165,224,1.4,2.48,95,42.4,20221114
+2022,21,Washington,A,All Washington Schools,All World Languages & Cultures,56,56,1,3.07,41,73.2,20221114
+2022,22,Wicomico,0102,Mardela Middle & High,All Subjects,45,123,2.7,2.44,53,43.1,20221114
+2022,22,Wicomico,0102,Mardela Middle & High,All English,22,27,1.2,2.96,17,63,20221114
+2022,22,Wicomico,0102,Mardela Middle & High,All History & Social Science,35,58,1.7,2.48,27,46.6,20221114
+2022,22,Wicomico,0102,Mardela Middle & High,All Math & Computer Science,19,26,1.4,1.81,4,15.4,20221114
+2022,22,Wicomico,0102,Mardela Middle & High,All Sciences,*,*,*,*,*,*,20221114
+2022,22,Wicomico,0513,Wicomico High,All Subjects,37,124,3.4,2.48,58,46.8,20221114
+2022,22,Wicomico,0513,Wicomico High,All Arts,*,*,*,*,*,*,20221114
+2022,22,Wicomico,0513,Wicomico High,All English,18,21,1.2,2.76,13,61.9,20221114
+2022,22,Wicomico,0513,Wicomico High,All History & Social Science,27,58,2.1,2.48,27,46.6,20221114
+2022,22,Wicomico,0513,Wicomico High,All Math & Computer Science,12,18,1.5,1.94,5,27.8,20221114
+2022,22,Wicomico,0513,Wicomico High,All Sciences,20,22,1.1,2.45,9,40.9,20221114
+2022,22,Wicomico,0513,Wicomico High,All World Languages & Cultures,*,*,*,*,*,*,20221114
+2022,22,Wicomico,1307,James M. Bennett High,All Subjects,84,269,3.2,2.86,156,58,20221114
+2022,22,Wicomico,1307,James M. Bennett High,All Arts,*,*,*,*,*,*,20221114
+2022,22,Wicomico,1307,James M. Bennett High,All English,59,65,1.1,2.94,41,63.1,20221114
+2022,22,Wicomico,1307,James M. Bennett High,All History & Social Science,62,132,2.1,2.94,76,57.6,20221114
+2022,22,Wicomico,1307,James M. Bennett High,All Math & Computer Science,22,35,1.6,2.89,25,71.4,20221114
+2022,22,Wicomico,1307,James M. Bennett High,All Sciences,29,35,1.2,2.37,13,37.1,20221114
+2022,22,Wicomico,1307,James M. Bennett High,All World Languages & Cultures,*,*,*,*,*,*,20221114
+2022,22,Wicomico,1309,Parkside High,All Subjects,73,184,2.5,2.46,85,46.2,20221114
+2022,22,Wicomico,1309,Parkside High,All Arts,*,*,*,*,*,*,20221114
+2022,22,Wicomico,1309,Parkside High,All English,37,46,1.2,2.67,26,56.5,20221114
+2022,22,Wicomico,1309,Parkside High,All History & Social Science,63,102,1.6,2.46,47,46.1,20221114
+2022,22,Wicomico,1309,Parkside High,All Math & Computer Science,*,*,*,*,*,*,20221114
+2022,22,Wicomico,1309,Parkside High,All Sciences,15,16,1.1,1.75,3,18.8,20221114
+2022,22,Wicomico,1309,Parkside High,All World Languages & Cultures,*,*,*,*,*,*,20221114
+2022,22,Wicomico,A,All Wicomico Schools,All Subjects,239,700,2.9,2.61,352,50.3,20221114
+2022,22,Wicomico,A,All Wicomico Schools,All Arts,12,15,1.3,2.8,9,60,20221114
+2022,22,Wicomico,A,All Wicomico Schools,All English,136,159,1.2,2.84,97,61,20221114
+2022,22,Wicomico,A,All Wicomico Schools,All History & Social Science,187,350,1.9,2.65,177,50.6,20221114
+2022,22,Wicomico,A,All Wicomico Schools,All Math & Computer Science,58,86,1.5,2.31,36,41.9,20221114
+2022,22,Wicomico,A,All Wicomico Schools,All Sciences,73,85,1.2,2.28,30,35.3,20221114
+2022,22,Wicomico,A,All Wicomico Schools,All World Languages & Cultures,*,*,*,*,*,*,20221114
+2022,23,Worcester,0107,Pocomoke High,All Subjects,22,46,2.1,2.2,18,39.1,20221114
+2022,23,Worcester,0107,Pocomoke High,All Arts,*,*,*,*,*,*,20221114
+2022,23,Worcester,0107,Pocomoke High,All History & Social Science,14,20,1.4,2.2,7,35,20221114
+2022,23,Worcester,0107,Pocomoke High,All Math & Computer Science,12,17,1.4,2.24,8,47.1,20221114
+2022,23,Worcester,0107,Pocomoke High,All Sciences,*,*,*,*,*,*,20221114
+2022,23,Worcester,0207,Snow Hill High,All Subjects,30,73,2.4,2.77,42,57.5,20221114
+2022,23,Worcester,0207,Snow Hill High,All Arts,*,*,*,*,*,*,20221114
+2022,23,Worcester,0207,Snow Hill High,All English,12,13,1.1,2.85,8,61.5,20221114
+2022,23,Worcester,0207,Snow Hill High,All History & Social Science,13,16,1.2,2.56,7,43.8,20221114
+2022,23,Worcester,0207,Snow Hill High,All Math & Computer Science,15,30,2,2.93,21,70,20221114
+2022,23,Worcester,0207,Snow Hill High,All Sciences,*,*,*,*,*,*,20221114
+2022,23,Worcester,0207,Snow Hill High,All World Languages & Cultures,*,*,*,*,*,*,20221114
+2022,23,Worcester,0310,Stephen Decatur High,All Subjects,108,231,2.1,2.98,154,66.7,20221114
+2022,23,Worcester,0310,Stephen Decatur High,All Arts,*,*,*,*,*,*,20221114
+2022,23,Worcester,0310,Stephen Decatur High,All English,*,*,*,*,*,*,20221114
+2022,23,Worcester,0310,Stephen Decatur High,All History & Social Science,73,95,1.3,2.75,53,55.8,20221114
+2022,23,Worcester,0310,Stephen Decatur High,All Math & Computer Science,47,82,1.7,3.11,59,72,20221114
+2022,23,Worcester,0310,Stephen Decatur High,All Sciences,31,33,1.1,2.97,22,66.7,20221114
+2022,23,Worcester,0310,Stephen Decatur High,All World Languages & Cultures,*,*,*,*,*,*,20221114
+2022,23,Worcester,A,All Worcester Schools,All Subjects,160,350,2.2,2.83,214,61.1,20221114
+2022,23,Worcester,A,All Worcester Schools,All Arts,*,*,*,*,*,*,20221114
+2022,23,Worcester,A,All Worcester Schools,All English,19,21,1.1,3.05,15,71.4,20221114
+2022,23,Worcester,A,All Worcester Schools,All History & Social Science,100,131,1.3,2.64,67,51.1,20221114
+2022,23,Worcester,A,All Worcester Schools,All Math & Computer Science,74,129,1.7,2.95,88,68.2,20221114
+2022,23,Worcester,A,All Worcester Schools,All Sciences,47,50,1.1,2.7,27,54,20221114
+2022,23,Worcester,A,All Worcester Schools,All World Languages & Cultures,10,10,1,3.2,8,80,20221114
+2022,30,Baltimore City,0239,Benjamin Franklin High School at Masonville Cove,All Subjects,18,36,2,1.89,8,22.2,20221114
+2022,30,Baltimore City,0239,Benjamin Franklin High School at Masonville Cove,All AP Capstone,*,*,*,*,*,*,20221114
+2022,30,Baltimore City,0239,Benjamin Franklin High School at Masonville Cove,All English,10,16,1.6,1.31,1,6.3,20221114
+2022,30,Baltimore City,0239,Benjamin Franklin High School at Masonville Cove,All History & Social Science,*,*,*,*,*,*,20221114
+2022,30,Baltimore City,0239,Benjamin Franklin High School at Masonville Cove,All World Languages & Cultures,10,10,1,2.6,5,50,20221114
+2022,30,Baltimore City,0325,ConneXions: A Community Based Arts School,All Subjects,17,35,2.1,1.09,*,<= 5.0,20221114
+2022,30,Baltimore City,0325,ConneXions: A Community Based Arts School,All English,12,20,1.7,1.15,*,<= 5.0,20221114
+2022,30,Baltimore City,0325,ConneXions: A Community Based Arts School,All Math & Computer Science,15,15,1,1,*,<= 5.0,20221114
+2022,30,Baltimore City,0341,The Reach! Partnership School,All Subjects,19,25,1.3,1.04,*,<= 5.0,20221114
+2022,30,Baltimore City,0341,The Reach! Partnership School,All AP Capstone,10,10,1,1,*,<= 5.0,20221114
+2022,30,Baltimore City,0341,The Reach! Partnership School,All English,12,12,1,1.08,*,<= 5.0,20221114
+2022,30,Baltimore City,0341,The Reach! Partnership School,All History & Social Science,*,*,*,*,*,*,20221114
+2022,30,Baltimore City,0348,Baltimore Leadership School for Young Women,All Subjects,30,45,1.5,2.02,16,35.6,20221114
+2022,30,Baltimore City,0348,Baltimore Leadership School for Young Women,All AP Capstone,17,25,1.5,2.72,16,64,20221114
+2022,30,Baltimore City,0348,Baltimore Leadership School for Young Women,All English,*,*,*,*,*,*,20221114
+2022,30,Baltimore City,0348,Baltimore Leadership School for Young Women,All History & Social Science,15,15,1,1.13,*,<= 5.0,20221114
+2022,30,Baltimore City,0348,Baltimore Leadership School for Young Women,All Sciences,*,*,*,*,*,*,20221114
+2022,30,Baltimore City,0362,Bard High School Early College,All Subjects,*,*,*,*,*,*,20221114
+2022,30,Baltimore City,0362,Bard High School Early College,All History & Social Science,*,*,*,*,*,*,20221114
+2022,30,Baltimore City,0364,Bluford Drew Jemison STEM Academy West,All Subjects,*,*,*,*,*,*,20221114
+2022,30,Baltimore City,0364,Bluford Drew Jemison STEM Academy West,All Math & Computer Science,*,*,*,*,*,*,20221114
+2022,30,Baltimore City,0376,City Neighbors High,All Subjects,22,48,2.2,1.38,3,6.3,20221114
+2022,30,Baltimore City,0376,City Neighbors High,All AP Capstone,14,14,1,1.5,2,14.3,20221114
+2022,30,Baltimore City,0376,City Neighbors High,All English,20,33,1.7,1.3,*,<= 5.0,20221114
+2022,30,Baltimore City,0376,City Neighbors High,All History & Social Science,*,*,*,*,*,*,20221114
+2022,30,Baltimore City,0377,Green Street Academy,All Subjects,29,64,2.2,1.36,*,<= 5.0,20221114
+2022,30,Baltimore City,0377,Green Street Academy,All AP Capstone,*,*,*,*,*,*,20221114
+2022,30,Baltimore City,0377,Green Street Academy,All English,20,36,1.8,1.33,*,<= 5.0,20221114
+2022,30,Baltimore City,0377,Green Street Academy,All History & Social Science,14,14,1,1,*,<= 5.0,20221114
+2022,30,Baltimore City,0382,Baltimore Design School,All Subjects,59,159,2.7,1.81,41,25.8,20221114
+2022,30,Baltimore City,0382,Baltimore Design School,All Arts,38,49,1.3,2.65,27,55.1,20221114
+2022,30,Baltimore City,0382,Baltimore Design School,All English,22,42,1.9,2.1,14,33.3,20221114
+2022,30,Baltimore City,0382,Baltimore Design School,All History & Social Science,56,56,1,1.02,*,<= 5.0,20221114
+2022,30,Baltimore City,0382,Baltimore Design School,All Math & Computer Science,12,12,1,1,*,<= 5.0,20221114
+2022,30,Baltimore City,0400,Edmondson-Westside High,All Subjects,34,55,1.6,1.51,7,12.7,20221114
+2022,30,Baltimore City,0400,Edmondson-Westside High,All AP Capstone,*,*,*,*,*,*,20221114
+2022,30,Baltimore City,0400,Edmondson-Westside High,All English,17,27,1.6,1.63,3,11.1,20221114
+2022,30,Baltimore City,0400,Edmondson-Westside High,All History & Social Science,*,*,*,*,*,*,20221114
+2022,30,Baltimore City,0400,Edmondson-Westside High,All Sciences,17,18,1.1,1.22,1,5.6,20221114
+2022,30,Baltimore City,0403,Baltimore Polytechnic Institute,All Subjects,280,1032,3.7,2.42,465,45.1,20221114
+2022,30,Baltimore City,0403,Baltimore Polytechnic Institute,All AP Capstone,27,45,1.7,2.67,30,66.7,20221114
+2022,30,Baltimore City,0403,Baltimore Polytechnic Institute,All Arts,21,22,1,3,18,81.8,20221114
+2022,30,Baltimore City,0403,Baltimore Polytechnic Institute,All English,129,180,1.4,2.91,116,64.4,20221114
+2022,30,Baltimore City,0403,Baltimore Polytechnic Institute,All History & Social Science,175,316,1.8,2.36,136,43,20221114
+2022,30,Baltimore City,0403,Baltimore Polytechnic Institute,All Math & Computer Science,206,339,1.6,2.06,99,29.2,20221114
+2022,30,Baltimore City,0403,Baltimore Polytechnic Institute,All Sciences,106,125,1.2,2.62,61,48.8,20221114
+2022,30,Baltimore City,0403,Baltimore Polytechnic Institute,All World Languages & Cultures,*,*,*,*,*,*,20221114
+2022,30,Baltimore City,0405,Patterson High,All Subjects,22,34,1.5,1.53,6,17.6,20221114
+2022,30,Baltimore City,0405,Patterson High,All AP Capstone,*,*,*,*,*,*,20221114
+2022,30,Baltimore City,0405,Patterson High,All Arts,*,*,*,*,*,*,20221114
+2022,30,Baltimore City,0405,Patterson High,All English,17,20,1.2,1.35,2,10,20221114
+2022,30,Baltimore City,0405,Patterson High,All History & Social Science,*,*,*,*,*,*,20221114
+2022,30,Baltimore City,0405,Patterson High,All Math & Computer Science,*,*,*,*,*,*,20221114
+2022,30,Baltimore City,0406,Forest Park High,All Subjects,30,47,1.6,1.43,5,10.6,20221114
+2022,30,Baltimore City,0406,Forest Park High,All AP Capstone,*,*,*,*,*,*,20221114
+2022,30,Baltimore City,0406,Forest Park High,All English,10,11,1.1,1.64,1,9.1,20221114
+2022,30,Baltimore City,0406,Forest Park High,All History & Social Science,*,*,*,*,*,*,20221114
+2022,30,Baltimore City,0406,Forest Park High,All Math & Computer Science,26,30,1.2,1.07,*,<= 5.0,20221114
+2022,30,Baltimore City,0406,Forest Park High,All World Languages & Cultures,*,*,*,*,*,*,20221114
+2022,30,Baltimore City,0407,Western High,All Subjects,139,306,2.2,1.58,37,12.1,20221114
+2022,30,Baltimore City,0407,Western High,All AP Capstone,16,21,1.3,2.19,7,33.3,20221114
+2022,30,Baltimore City,0407,Western High,All Arts,*,*,*,*,*,*,20221114
+2022,30,Baltimore City,0407,Western High,All English,70,101,1.4,1.84,17,16.8,20221114
+2022,30,Baltimore City,0407,Western High,All History & Social Science,75,102,1.4,1.39,8,7.8,20221114
+2022,30,Baltimore City,0407,Western High,All Math & Computer Science,27,32,1.2,1.31,*,<= 5.0,20221114
+2022,30,Baltimore City,0407,Western High,All Sciences,43,44,1,1.23,*,<= 5.0,20221114
+2022,30,Baltimore City,0410,Mergenthaler Vocational-Technical High,All Subjects,90,146,1.6,1.45,10,6.8,20221114
+2022,30,Baltimore City,0410,Mergenthaler Vocational-Technical High,All AP Capstone,19,20,1.1,1.9,5,25,20221114
+2022,30,Baltimore City,0410,Mergenthaler Vocational-Technical High,All English,34,56,1.6,1.66,4,7.1,20221114
+2022,30,Baltimore City,0410,Mergenthaler Vocational-Technical High,All History & Social Science,*,*,*,*,*,*,20221114
+2022,30,Baltimore City,0410,Mergenthaler Vocational-Technical High,All Math & Computer Science,25,29,1.2,1.07,*,<= 5.0,20221114
+2022,30,Baltimore City,0410,Mergenthaler Vocational-Technical High,All Sciences,39,39,1,1.21,*,<= 5.0,20221114
+2022,30,Baltimore City,0413,Achievement Academy at Harbor City High,All Subjects,*,*,*,*,*,*,20221114
+2022,30,Baltimore City,0413,Achievement Academy at Harbor City High,All History & Social Science,*,*,*,*,*,*,20221114
+2022,30,Baltimore City,0414,Paul Laurence Dunbar High,All Subjects,64,95,1.5,1.64,15,15.8,20221114
+2022,30,Baltimore City,0414,Paul Laurence Dunbar High,All AP Capstone,17,17,1,1.76,3,17.6,20221114
+2022,30,Baltimore City,0414,Paul Laurence Dunbar High,All English,25,38,1.5,2,11,28.9,20221114
+2022,30,Baltimore City,0414,Paul Laurence Dunbar High,All History & Social Science,11,12,1.1,1.08,*,<= 5.0,20221114
+2022,30,Baltimore City,0414,Paul Laurence Dunbar High,All Math & Computer Science,*,*,*,*,*,*,20221114
+2022,30,Baltimore City,0414,Paul Laurence Dunbar High,All Sciences,22,22,1,1.41,*,<= 5.0,20221114
+2022,30,Baltimore City,0415,Baltimore School for the Arts,All Subjects,62,161,2.6,2.83,96,59.6,20221114
+2022,30,Baltimore City,0415,Baltimore School for the Arts,All English,56,98,1.8,3.1,67,68.4,20221114
+2022,30,Baltimore City,0415,Baltimore School for the Arts,All History & Social Science,18,19,1.1,2.89,14,73.7,20221114
+2022,30,Baltimore City,0415,Baltimore School for the Arts,All Math & Computer Science,28,29,1,1.62,3,10.3,20221114
+2022,30,Baltimore City,0415,Baltimore School for the Arts,All World Languages & Cultures,15,15,1,3.33,12,80,20221114
+2022,30,Baltimore City,0416,Digital Harbor High School,All Subjects,52,76,1.5,1.49,10,13.2,20221114
+2022,30,Baltimore City,0416,Digital Harbor High School,All AP Capstone,12,14,1.2,1.64,2,14.3,20221114
+2022,30,Baltimore City,0416,Digital Harbor High School,All English,17,25,1.5,1.44,2,8,20221114
+2022,30,Baltimore City,0416,Digital Harbor High School,All History & Social Science,12,12,1,1.08,*,<= 5.0,20221114
+2022,30,Baltimore City,0416,Digital Harbor High School,All Math & Computer Science,*,*,*,*,*,*,20221114
+2022,30,Baltimore City,0416,Digital Harbor High School,All Sciences,12,12,1,1,*,<= 5.0,20221114
+2022,30,Baltimore City,0416,Digital Harbor High School,All World Languages & Cultures,*,*,*,*,*,*,20221114
+2022,30,Baltimore City,0419,Reginald F. Lewis High,All Subjects,*,*,*,*,*,*,20221114
+2022,30,Baltimore City,0419,Reginald F. Lewis High,All English,*,*,*,*,*,*,20221114
+2022,30,Baltimore City,0421,National Academy Foundation,All Subjects,18,43,2.4,1.14,*,<= 5.0,20221114
+2022,30,Baltimore City,0421,National Academy Foundation,All English,18,28,1.6,1.21,*,<= 5.0,20221114
+2022,30,Baltimore City,0421,National Academy Foundation,All History & Social Science,*,*,*,*,*,*,20221114
+2022,30,Baltimore City,0421,National Academy Foundation,All Math & Computer Science,13,14,1.1,1,*,<= 5.0,20221114
+2022,30,Baltimore City,0422,New Era Academy,All Subjects,*,*,*,*,*,*,20221114
+2022,30,Baltimore City,0422,New Era Academy,All AP Capstone,*,*,*,*,*,*,20221114
+2022,30,Baltimore City,0422,New Era Academy,All Arts,*,*,*,*,*,*,20221114
+2022,30,Baltimore City,0422,New Era Academy,All English,*,*,*,*,*,*,20221114
+2022,30,Baltimore City,0427,Academy for College and Career Exploration,All Subjects,34,87,2.6,1.34,*,<= 5.0,20221114
+2022,30,Baltimore City,0427,Academy for College and Career Exploration,All AP Capstone,19,23,1.2,1.26,*,<= 5.0,20221114
+2022,30,Baltimore City,0427,Academy for College and Career Exploration,All English,31,41,1.3,1.37,*,<= 5.0,20221114
+2022,30,Baltimore City,0427,Academy for College and Career Exploration,All History & Social Science,14,14,1,1.57,1,7.1,20221114
+2022,30,Baltimore City,0427,Academy for College and Career Exploration,All Math & Computer Science,*,*,*,*,*,*,20221114
+2022,30,Baltimore City,0429,Vivien T. Thomas Medical Arts Academy,All Subjects,*,*,*,*,*,*,20221114
+2022,30,Baltimore City,0429,Vivien T. Thomas Medical Arts Academy,All AP Capstone,*,*,*,*,*,*,20221114
+2022,30,Baltimore City,0429,Vivien T. Thomas Medical Arts Academy,All English,*,*,*,*,*,*,20221114
+2022,30,Baltimore City,0429,Vivien T. Thomas Medical Arts Academy,All History & Social Science,*,*,*,*,*,*,20221114
+2022,30,Baltimore City,0430,Augusta Fells Savage Institute of Visual Arts,All Subjects,*,*,*,*,*,*,20221114
+2022,30,Baltimore City,0430,Augusta Fells Savage Institute of Visual Arts,All Arts,*,*,*,*,*,*,20221114
+2022,30,Baltimore City,0430,Augusta Fells Savage Institute of Visual Arts,All English,*,*,*,*,*,*,20221114
+2022,30,Baltimore City,0432,Coppin Academy,All Subjects,*,*,*,*,*,*,20221114
+2022,30,Baltimore City,0432,Coppin Academy,All History & Social Science,*,*,*,*,*,*,20221114
+2022,30,Baltimore City,0433,Renaissance Academy,All Subjects,*,*,*,*,*,*,20221114
+2022,30,Baltimore City,0433,Renaissance Academy,All History & Social Science,*,*,*,*,*,*,20221114
+2022,30,Baltimore City,0450,Frederick Douglass High,All Subjects,*,*,*,*,*,*,20221114
+2022,30,Baltimore City,0450,Frederick Douglass High,All English,*,*,*,*,*,*,20221114
+2022,30,Baltimore City,0454,Carver Vocational-Technical High,All Subjects,28,86,3.1,1.47,5,5.8,20221114
+2022,30,Baltimore City,0454,Carver Vocational-Technical High,All AP Capstone,22,28,1.3,1.89,4,14.3,20221114
+2022,30,Baltimore City,0454,Carver Vocational-Technical High,All English,24,37,1.5,1.32,*,<= 5.0,20221114
+2022,30,Baltimore City,0454,Carver Vocational-Technical High,All History & Social Science,21,21,1,1.14,*,<= 5.0,20221114
+2022,30,Baltimore City,0480,Baltimore City College,All Subjects,243,440,1.8,2.16,154,35,20221114
+2022,30,Baltimore City,0480,Baltimore City College,All English,235,235,1,2.3,92,39.1,20221114
+2022,30,Baltimore City,0480,Baltimore City College,All History & Social Science,128,128,1,2.23,51,39.8,20221114
+2022,30,Baltimore City,0480,Baltimore City College,All Math & Computer Science,71,73,1,1.58,9,12.3,20221114
+2022,30,Baltimore City,0480,Baltimore City College,All Sciences,*,*,*,*,*,*,20221114
+2022,30,Baltimore City,0480,Baltimore City College,All World Languages & Cultures,*,*,*,*,*,*,20221114
+2022,30,Baltimore City,A,All Baltimore City Schools,All Subjects,1338,3084,2.3,1.98,886,28.7,20221114
+2022,30,Baltimore City,A,All Baltimore City Schools,All AP Capstone,212,263,1.2,1.99,80,30.4,20221114
+2022,30,Baltimore City,A,All Baltimore City Schools,All Arts,71,84,1.2,2.75,53,63.1,20221114
+2022,30,Baltimore City,A,All Baltimore City Schools,All English,809,1092,1.3,2.07,335,30.7,20221114
+2022,30,Baltimore City,A,All Baltimore City Schools,All History & Social Science,567,737,1.3,1.93,210,28.5,20221114
+2022,30,Baltimore City,A,All Baltimore City Schools,All Math & Computer Science,451,601,1.3,1.72,113,18.8,20221114
+2022,30,Baltimore City,A,All Baltimore City Schools,All Sciences,245,266,1.1,1.88,64,24.1,20221114
+2022,30,Baltimore City,A,All Baltimore City Schools,All World Languages & Cultures,41,41,1,3.2,31,75.6,20221114
+2022,32,SEED,1000,The Seed School of Maryland,All Subjects,14,24,1.7,1.21,*,<= 5.0,20221114
+2022,32,SEED,1000,The Seed School of Maryland,All History & Social Science,13,18,1.4,1.22,*,<= 5.0,20221114
+2022,32,SEED,1000,The Seed School of Maryland,All Sciences,*,*,*,*,*,*,20221114
+2022,32,SEED,A,All SEED Schools,All Subjects,14,24,1.7,1.21,*,<= 5.0,20221114
+2022,32,SEED,A,All SEED Schools,All History & Social Science,13,18,1.4,1.22,*,<= 5.0,20221114
+2022,32,SEED,A,All SEED Schools,All Sciences,*,*,*,*,*,*,20221114
+2022,A,State,A,All Maryland Schools,All Subjects,24417,91134,3.7,3.07,59399,65.2,20221114
+2022,A,State,A,All Maryland Schools,All AP Capstone,840,1217,1.4,3.05,923,75.8,20221114
+2022,A,State,A,All Maryland Schools,All Arts,1589,1726,1.1,3.41,1393,80.7,20221114
+2022,A,State,A,All Maryland Schools,All English,12452,16584,1.3,3.08,11064,66.7,20221114
+2022,A,State,A,All Maryland Schools,All History & Social Science,19024,38797,2,3.01,24403,62.9,20221114
+2022,A,State,A,All Maryland Schools,All Math & Computer Science,10694,17985,1.7,3.16,12015,66.8,20221114
+2022,A,State,A,All Maryland Schools,All Sciences,8307,11818,1.4,2.95,7086,60,20221114
+2022,A,State,A,All Maryland Schools,All World Languages & Cultures,2835,3007,1.1,3.59,2515,83.6,20221114

@@ -1,0 +1,1419 @@
+School,School Name,Percent
+0301,Flintstone Elementary,0.943127962085308
+0401,South Penn Elementary,0.724
+0402,John Humbird Elementary,0.6962025316455697
+0405,Fort Hill High,0.8429003021148036
+0406,Washington Middle,0.8429752066115702
+0502,Northeast Elementary,0.8381294964028777
+0504,Braddock Middle,0.8162251655629139
+0601,Center for Career & Technical Education,0.9338842975206612
+0603,West Side Elementary,0.7722772277227723
+0606,Allegany High,0.8344640434192673
+0701,Cresaptown Elementary,0.8657243816254417
+0702,Bel Air Elementary,0.9521531100478469
+0801,Westernport Elementary,0.9264705882352942
+0802,Westmar Middle,0.9439655172413793
+1001,George's Creek Elementary,0.9767441860465116
+1101,Frost Elementary,0.9210526315789473
+1301,Mount Savage Middle,0.924812030075188
+1302,Mt. Savage Elementary,0.949748743718593
+2404,Mountain Ridge High School,0.929427430093209
+2801,Beall Elementary,0.8595744680851064
+2901,Cash Valley Elementary,0.8035087719298246
+2902,Parkside Elementary,0.7951219512195122
+A,All Allegany Schools,0.8594441711756026
+1023,Brooklyn Park Middle,0.38968824940047964
+1033,Glen Burnie High,0.35020519835841313
+1043,Corkran Middle School,0.3338607594936709
+1053,Lindale Middle,0.3991561181434599
+1063,Marley Middle,0.32872340425531915
+1082,Belle Grove Elementary,0.35294117647058826
+1092,Brooklyn Park Elementary,0.34328358208955223
+1102,Ferndale Early Education Center,0.32038834951456313
+1112,George T. Cromwell Elementary,0.44936708860759494
+1122,Freetown Elementary,0.25918762088974856
+1132,Glendale Elementary,0.39948453608247425
+1142,Hilltop Elementary,0.22645290581162325
+1152,Linthicum Elementary,0.6855203619909502
+1162,Marley Elementary,0.2565789473684211
+1172,North Glen Elementary,0.2692307692307692
+1182,Oakwood Elementary,0.37047353760445684
+1192,Overlook Elementary,0.4984709480122324
+1202,Park Elementary,0.2900763358778626
+1212,Point Pleasant Elementary,0.5599128540305011
+1232,Quarterfield Elementary,0.2895927601809955
+1242,Richard Henry Lee Elementary,0.36134453781512604
+1262,Woodside Elementary,0.32727272727272727
+1274,Marley Glen School,0.5130434782608696
+1323,North County High,0.39165985282093213
+2013,Severna Park High,0.7988133764832794
+2023,Northeast High,0.7022350396539293
+2033,Northeast Middle,0.6533018867924528
+2043,Severna Park Middle,0.8013888888888889
+2052,Arnold Elementary,0.7490421455938697
+2062,Belvedere Elementary,0.7300970873786408
+2072,Benfield Elementary,0.8292682926829268
+2082,Bodkin Elementary,0.8694779116465864
+2092,Cape St. Claire Elementary,0.7558922558922558
+2102,Folger Mckinsey Elementary,0.8367003367003367
+2112,Fort Smallwood Elementary,0.8972162740899358
+2132,High Point Elementary,0.6509863429438544
+2142,Jacobsville Elementary,0.7724770642201835
+2152,Jones Elementary,0.7440273037542662
+2162,Lake Shore Elementary,0.8584905660377359
+2172,Oak Hill Elementary,0.810064935064935
+2182,Pasadena Elementary,0.7705382436260623
+2192,Riviera Beach Elementary,0.8074074074074075
+2202,Severna Park Elementary,0.7946666666666666
+2212,Solley Elementary,0.5816901408450704
+2222,Sunset Elementary,0.79
+2233,Anne Arundel Evening High,0.41284403669724773
+2243,Magothy River Middle,0.7567954220314735
+2273,Chesapeake High,0.8451008645533141
+2322,Broadneck Elementary,0.7303206997084548
+2363,Broadneck High,0.728551974580118
+2372,Windsor Farm Elementary,0.6565656565656566
+2413,Severn River Middle,0.7041499330655957
+2423,Chesapeake Bay Middle,0.8371877890841813
+2432,Shipley's Choice Elementary,0.8876404494382022
+3013,Arundel High,0.43912290825158684
+3023,Arundel Middle,0.4306020066889632
+3033,MacArthur Middle,0.20385050962627407
+3062,Brock Bridge Elementary,0.05197505197505198
+3063,Crofton High School,0.5640828856485035
+3072,Crofton Elementary,0.6435185185185185
+3082,Crofton Woods Elementary,0.6509433962264151
+3092,Seven Oaks Elementary,0.10728744939271255
+3102,Hebron - Harman Elementary,0.1432791728212703
+3112,Jessup Elementary,0.2844677137870855
+3122,Manor View Elementary,0.4163424124513619
+3132,Maryland City Elementary,0.04645476772616137
+3142,Meade Heights Elementary,0.14560439560439561
+3152,Van Bokkelen Elementary,0.04450261780104712
+3162,Millersville Elementary,0.7479224376731302
+3172,Odenton Elementary,0.33707865168539325
+3182,Pershing Hill Elementary,0.46060606060606063
+3192,Ridgeway Elementary,0.45229681978798586
+3202,Severn Elementary,0.22138836772983114
+3212,South Shore Elementary,0.63
+3222,Waugh Chapel Elementary,0.4671163575042159
+3232,West Meade Early Education Center,0.5307017543859649
+3242,Piney Orchard Elementary,0.44314558979808716
+3263,Crofton Middle,0.5529775715390565
+3272,Four Seasons Elementary,0.5052631578947369
+3282,Nantucket Elementary,0.42857142857142855
+3323,Meade High,0.1077928138124125
+3333,Old Mill Middle North,0.3094758064516129
+3343,Old Mill Middle South,0.475103734439834
+3353,Old Mill High,0.3567251461988304
+3362,Crofton Meadows Elementary,0.5206766917293233
+3372,Glen Burnie Park Elementary,0.2693877551020408
+3382,Southgate Elementary,0.3028169014084507
+3392,Rippling Woods Elementary,0.31287128712871287
+3414,Ruth Parker Eason School,0.3356164383561644
+3423,Meade Middle,0.08827085852478839
+4013,Annapolis High,0.28300138953219084
+4023,Southern High,0.6912621359223301
+4033,Annapolis Middle,0.13278008298755187
+4043,Wiley H. Bates Middle,0.3742857142857143
+4053,Southern Middle,0.6293888166449935
+4054,AACPS Virtual Academy,0.298932384341637
+4064,Mary Moss at Adams Academy,0.0
+4074,Phoenix Academy,0.3494809688581315
+4092,Annapolis Elementary,0.16666666666666666
+4102,Carrie Weedon Early Education Center,0.5079365079365079
+4112,Central Elementary,0.8129496402877698
+4122,Davidsonville Elementary,0.7737104825291181
+4132,Deale Elementary,0.8368421052631579
+4142,Eastport Elementary,0.10661764705882353
+4152,Edgewater Elementary,0.6695205479452054
+4162,Georgetown East Elementary,0.05818181818181818
+4182,Germantown Elementary,0.204
+4192,Hillsmere Elementary,0.5934343434343434
+4202,Lothian Elementary,0.49445676274944567
+4212,Mayo Elementary,0.8189910979228486
+4222,Walter S. Mills - Parole Elementary,0.026833631484794274
+4232,Rolling Knolls Elementary,0.4626038781163435
+4242,Shady Side Elementary,0.8325123152709359
+4252,Traceys Elementary,0.5294117647058824
+4262,Tyler Heights Elementary,0.0
+4272,West Annapolis Elementary,0.6079295154185022
+4283,Central Middle,0.7298985167837627
+4293,South River High,0.7252378287632905
+4304,Central Special School,0.5126050420168067
+6113,Monarch Global Academy PCS Laurel Campus,0.10462287104622871
+6123,Monarch Academy Annapolis ES,0.18028534370946822
+6223,Chesapeake Science Point,0.248
+6233,Monarch Academy,0.41237113402061853
+A,All Anne Arundel Schools,0.4869352957445018
+0051,Northwest EDLP at Milford Mill Academy,0.0
+0052,Southwest EDLP at Woodlawn High School,0.0
+0053,Northeast EDLP at Parkville High School,0.0
+0055,Southeast EDLP at Dundalk High School,0.0
+0058,Home Assignments-Secondary,0.0
+0062,Campfield Early Childhood Center,0.04774535809018567
+0069,Catonsville Center for Alternative Studies,0.0
+0070,Meadowood Education Center,0.0
+0072,Rosedale Center,0.0
+0075,Crossroads Center,0.46405228758169936
+0077,BCDC Educational Center,0.0
+0101,Catonsville Elementary,0.44494047619047616
+0102,Westchester Elementary,0.6099397590361446
+0103,Westowne Elementary,0.3094512195121951
+0104,Edmondson Heights Elementary,0.07532956685499058
+0105,Johnnycake Elementary,0.07020872865275142
+0111,Maiden Choice School,0.20155038759689922
+0112,Dogwood Elementary,0.01953125
+0113,Chadwick Elementary,0.058919803600654665
+0115,Hillcrest Elementary,0.5792592592592593
+0116,Woodbridge Elementary,0.07534246575342465
+0151,Catonsville Middle,0.5486486486486486
+0155,Southwest Academy,0.03571428571428571
+0172,Woodlawn High,0.029960429621254947
+0174,Catonsville High,0.5135135135135135
+0175,Western School of Technology,0.14621131270010673
+0202,Randallstown Elementary,0.0
+0204,Featherbed Lane Elementary,0.018214936247723135
+0205,Woodmoor Elementary,0.018115942028985508
+0206,Scotts Branch Elementary,0.023504273504273504
+0207,Church Lane Elementary,0.0
+0209,Hebbville Elementary,0.0
+0210,Powhatan Elementary,0.0
+0211,Winfield Elementary,0.02702702702702703
+0213,Winand Elementary,0.023696682464454975
+0214,Hernwood Elementary,0.0
+0216,Deer Park Elementary,0.0
+0217,New Town Elementary,0.03571428571428571
+0219,Watershed Public Charter,0.22053231939163498
+0252,Northwest Academy of Health Sciences,0.024193548387096774
+0253,Woodlawn Middle,0.017830609212481426
+0254,Deer Park Middle Magnet School,0.024088541666666668
+0256,Windsor Mill Middle,0.0
+0271,Milford Mill Academy,0.01313755795981453
+0272,Randallstown High,0.017497812773403325
+0303,Bedford Elementary,0.0
+0304,Wellwood International School,0.1257995735607676
+0307,Milbrook Elementary,0.0728862973760933
+0308,Fort Garrison Elementary,0.6783216783216783
+0310,Summit Park Elementary,0.7021276595744681
+0311,Woodholme Elementary,0.06774668630338733
+0352,Pikesville Middle,0.14690451206715635
+0353,Sudbrook Magnet Middle,0.1184346035015448
+0371,Pikesville High,0.30621468926553674
+0402,Owings Mills Elementary,0.04666666666666667
+0403,Franklin Elementary,0.48223350253807107
+0404,Chatsworth School,0.24758842443729903
+0405,Timber Grove Elementary,0.0817490494296578
+0406,Reisterstown Elementary,0.11823647294589178
+0407,Glyndon Elementary,0.14035087719298245
+0408,Cedarmere Elementary,0.14444444444444443
+0410,Lyons Mill Elementary,0.01676829268292683
+0451,Franklin Middle,0.1945392491467577
+0452,Owings Mills High,0.045495093666369314
+0472,Franklin High,0.26377410468319556
+0473,New Town High,0.01711309523809524
+0501,Fifth District Elementary,0.8762886597938144
+0601,Prettyboy Elementary,0.9303482587064676
+0701,Seventh District Elementary,0.8723404255319149
+0772,Hereford High,0.8541341653666147
+0801,Sparks Elementary,0.8259958071278826
+0803,Lutherville Laboratory,0.46956521739130436
+0805,Timonium Elementary,0.6487695749440716
+0808,Pot Spring Elementary,0.3945578231292517
+0809,Riderwood Elementary,0.7611548556430446
+0810,Padonia International Elementary,0.08752327746741155
+0811,Pinewood Elementary,0.6068840579710145
+0813,Warren Elementary,0.29581151832460734
+0814,Mays Chapel Elementary,0.42567567567567566
+0852,Ridgely Middle,0.5885714285714285
+0853,Cockeysville Middle,0.40336134453781514
+0855,Hereford Middle,0.8529088913282108
+0872,Dulaney High,0.4938403856454205
+0903,Baltimore County Home & Hospital,0.0
+0905,Stoneleigh Elementary,0.6891679748822606
+0907,Rodgers Forge Elementary,0.75
+0908,Villa Cresta Elementary,0.470125786163522
+0909,Pleasant Plains Elementary,0.13602941176470587
+0910,Oakleigh Elementary,0.14343434343434344
+0911,Hampton Elementary,0.487627365356623
+0912,Halstead Academy,0.02594810379241517
+0915,Harford Hills Elementary,0.3787878787878788
+0916,Cromwell Valley Elementary Regional Magnet,0.3394736842105263
+0921,Pine Grove Elementary,0.5155393053016454
+0922,Ridge/Ruxton School,0.29245283018867924
+0923,White Oak School,0.37735849056603776
+0925,West Towson Elementary,0.6356382978723404
+0953,Dumbarton Middle,0.5444444444444444
+0954,Loch Raven Technical Academy,0.16666666666666666
+0957,Pine Grove Middle,0.39045553145336226
+0971,Towson High,0.5935637663885578
+0972,Parkville High,0.19330855018587362
+0973,Loch Raven High,0.36310904872389793
+0975,George W. Carver Center for Arts & Technology,0.43469591226321036
+1001,Carroll Manor Elementary,0.864406779661017
+1002,Jacksonville Elementary,0.8360995850622407
+1104,Kingsville Elementary,0.840531561461794
+1105,Perry Hall Elementary,0.40293040293040294
+1106,Carney Elementary,0.26136363636363635
+1107,Chapel Hill Elementary,0.49326599326599324
+1109,Joppa View Elementary,0.3362962962962963
+1110,Seven Oaks Elementary,0.10728744939271255
+1111,Gunpowder Elementary,0.58
+1113,Honeygo Elementary,0.48917748917748916
+1151,Perry Hall Middle,0.4556473829201102
+1171,Perry Hall High,0.4356929212362911
+1202,Dundalk Elementary,0.2714468629961588
+1205,Berkshire Elementary,0.40274599542334094
+1206,Bear Creek Elementary,0.5746421267893661
+1207,Norwood Elementary,0.33191489361702126
+1210,Grange Elementary,0.5770925110132159
+1212,Charlesmont Elementary,0.5344352617079889
+1215,Battle Monument School,0.45614035087719296
+1216,Sandy Plains Elementary,0.46108949416342415
+1217,Logan Elementary,0.3988212180746562
+1251,Dundalk Middle,0.220763723150358
+1253,Holabird Middle,0.43597883597883597
+1255,General John Stricker Middle,0.5534825870646766
+1272,Patapsco High and Center for Arts,0.5428571428571428
+1273,Dundalk High,0.3371571072319202
+1302,Arbutus Elementary,0.44919786096256686
+1307,Baltimore Highlands Elementary,0.19960474308300397
+1308,Riverview Elementary,0.18411552346570398
+1310,Relay Elementary,0.4584717607973422
+1311,Lansdowne Elementary,0.2920353982300885
+1313,Halethorpe Elementary,0.36531365313653136
+1351,Lansdowne Middle,0.2311212814645309
+1356,Arbutus Middle,0.4825174825174825
+1371,Lansdowne High,0.32110778443113774
+1403,McCormick Elementary,0.06109324758842444
+1404,Fullerton Elementary,0.35892857142857143
+1405,Elmwood Elementary,0.18929254302103252
+1406,Red House Run Elementary,0.2956521739130435
+1409,Shady Spring Elementary,0.06796116504854369
+1451,Golden Ring Middle,0.1746031746031746
+1452,Parkville Middle,0.35877862595419846
+1473,Overlea High,0.15396578538102643
+1502,Edgemere Elementary,0.8222222222222222
+1503,Colgate Elementary,0.2316831683168317
+1505,Victory Villa Elementary,0.18580060422960726
+1506,Martin Boulevard Elementary,0.18076923076923077
+1507,Chase Elementary,0.47802197802197804
+1508,Essex Elementary,0.4845814977973568
+1511,Chesapeake Terrace Elementary,0.8878205128205128
+1512,Mars Estates Elementary,0.1488095238095238
+1513,Sussex Elementary,0.3310810810810811
+1514,Middlesex Elementary,0.32051282051282054
+1515,Hawthorne Elementary,0.2172043010752688
+1517,Battle Grove Elementary,0.45121951219512196
+1518,Glenmar Elementary,0.09154929577464789
+1519,Orems Elementary,0.45429362880886426
+1520,Middleborough Elementary,0.598159509202454
+1525,Deep Creek Elementary,0.1011764705882353
+1527,Sandalwood Elementary,0.06623931623931624
+1531,Seneca Elementary,0.4383561643835616
+1533,Vincent Farm Elementary,0.30278884462151395
+1534,Oliver Beach Elementary,0.9178082191780822
+1554,Stemmers Run Middle,0.436046511627907
+1556,Middle River Middle,0.31138287864534336
+1557,Deep Creek Middle,0.20930232558139536
+1559,Sparrows Point Middle,0.775
+1572,Kenwood High,0.34376716090060405
+1573,Sparrows Point High,0.7953941541186891
+1574,Chesapeake High,0.8451008645533141
+1575,Eastern Technical High School,0.46502057613168724
+A,All Baltimore County Schools,0.3279766778538587
+0101,Patuxent Appeal Elementary Campus,0.5657708628005658
+0110,Mutual Elementary,0.7596685082872928
+0111,Southern Middle,0.6293888166449935
+0113,Patuxent High,0.6426540284360189
+0114,St Leonard Elementary,0.572961373390558
+0115,Dowell Elementary,0.6983842010771992
+0116,Mill Creek Middle,0.6573275862068966
+0201,Calvert Middle,0.5640243902439024
+0206,Calvert Country School,0.6666666666666666
+0207,Calvert Elementary,0.6296296296296297
+0208,Barstow Elementary,0.5852187028657617
+0209,Huntingtown Elementary,0.7538167938931297
+0213,Calvert High,0.590134529147982
+0215,Plum Point Elementary,0.7137931034482758
+0216,Plum Point Middle,0.7363344051446945
+0217,Huntingtown High School,0.7452135493372607
+0302,Beach Elementary,0.6504065040650406
+0312,Mount Harmony Elementary,0.6924342105263158
+0314,Northern High,0.7273320287018917
+0315,Northern Middle,0.7549668874172185
+0316,Sunderland Elementary,0.7254290171606864
+0317,Windy Hill Elementary,0.7087827426810478
+0318,Windy Hill Middle,0.6706036745406824
+0500,Calvert County Alternative School,0.0
+A,All Calvert Schools,0.6724216265333939
+0201,Greensboro Elementary School,0.43573264781491
+0301,Denton Elementary School,0.5840266222961731
+0302,Lockerman Middle School,0.5776536312849162
+0401,Preston Elementary School,0.7566909975669099
+0501,Federalsburg Elementary School,0.3628808864265928
+0701,Ridgely Elementary School,0.7020785219399538
+0703,North Caroline High School,0.6093220338983051
+0801,Colonel Richardson High School,0.6018867924528302
+0802,Colonel Richardson Middle School,0.574585635359116
+A,All Caroline Schools,0.5762925598991173
+0103,Taneytown Elementary,0.7549019607843137
+0105,Northwest Middle,0.8354838709677419
+0202,Francis Scott Key High,0.8398268398268398
+0204,Runnymede Elementary,0.8424778761061947
+0404,Sandymount Elementary,0.8213592233009709
+0406,Mechanicsville Elementary,0.8609958506224067
+0501,Eldersburg Elementary,0.7586206896551724
+0503,Linton Springs Elementary,0.8744588744588745
+0504,Sykesville Middle,0.7756410256410257
+0505,Freedom District Elementary,0.8497495826377296
+0506,Carrolltowne Elementary,0.7849117174959872
+0507,Liberty High,0.811377245508982
+0508,Oklahoma Road Middle,0.7614942528735632
+0509,Piney Ridge Elementary,0.7051282051282052
+0510,Century High,0.8035087719298246
+0601,Manchester Elementary,0.867601246105919
+0602,Manchester Valley High,0.8703427719821163
+0603,Ebb Valley Elementary,0.8910133843212237
+0701,Westminster East Middle,0.7450462351387054
+0703,Westminster West Middle,0.7390804597701149
+0704,Winters Mill High,0.6841620626151013
+0705,William Winchester Elementary,0.684931506849315
+0707,Westminster High,0.8031767955801105
+0710,Westminster Elementary,0.7150735294117647
+0711,Robert Moton Elementary,0.5935162094763092
+0712,Carroll Springs School,0.8333333333333334
+0714,Friendship Valley Elementary,0.8050847457627118
+0715,Cranberry Station Elementary,0.7419928825622776
+0716,Gateway School,0.8260869565217391
+0717,Post Secondary Program,0.717391304347826
+0718,PRIDE School,0.0
+0726,Crossroads Middle School,0.0
+0801,North Carroll Middle,0.8741830065359477
+0804,Hampstead Elementary,0.8455696202531645
+0806,Spring Garden Elementary,0.8250591016548463
+0807,Shiloh Middle,0.8119935170178282
+0903,Flexible Student Support,0.8148148148148148
+0906,Winfield Elementary,0.02702702702702703
+1201,Elmer A. Wolfe Elementary,0.9
+1304,Parr's Ridge Elementary,0.7645687645687645
+1305,Mount Airy Elementary,0.7517241379310344
+1306,Mount Airy Middle,0.8021978021978022
+1401,South Carroll High,0.8362255965292842
+A,All Carroll Schools,0.8011894308294085
+0104,Cecilton Elementary,0.723404255319149
+0204,Bohemia Manor High,0.8174846625766872
+0205,Chesapeake City Elementary,0.8539325842696629
+0206,Bohemia Manor Middle,0.7772511848341233
+0302,Elkton High,0.46458923512747874
+0303,Elkton Middle,0.3867595818815331
+0310,Gilpin Manor Elementary,0.3911007025761124
+0311,Holly Hall Elementary,0.4878048780487805
+0313,Cherry Hill Middle,0.6727272727272727
+0315,Leeds Elementary,0.8463855421686747
+0316,Thomson Estates Elementary,0.4945770065075922
+0317,Kenmore Elementary,0.7804878048780488
+0401,Cecil Manor Elementary,0.4166666666666667
+0504,North East Middle,0.7801778907242694
+0506,North East Elementary,0.6346863468634686
+0510,Bay View Elementary,0.7246049661399548
+0513,Charlestown Elementary,0.7169117647058824
+0514,North East High,0.8033106134371957
+0515,Elk Neck Elementary,0.8655256723716381
+0606,Rising Sun Middle School,0.9061538461538462
+0607,Rising Sun Elementary,0.896
+0701,Perryville Middle,0.7837370242214533
+0703,Perryville Elementary,0.7714987714987716
+0704,Bainbridge Elementary,0.8395904436860068
+0705,Perryville High,0.8187274909963985
+0801,Conowingo Elementary,0.907928388746803
+0904,Calvert Elementary,0.6296296296296297
+0905,Rising Sun High,0.8997240110395585
+A,All Cecil Schools,0.7303788903924222
+0104,Milton M. Somers Middle School,0.3508771929824561
+0105,Walter J. Mitchell Elementary School,0.6039603960396039
+0106,La Plata High School,0.5770171149144254
+0108,Maurice J. McDonough High School,0.2753195673549656
+0109,Mary H. Matula Elementary School,0.4301675977653631
+0302,Mt Hope/Nanjemoy Elementary School,0.6415094339622641
+0501,Dr. Thomas L. Higdon Elementary School,0.708994708994709
+0503,Piccowaxen Middle School,0.6909492273730684
+0604,Dr. Samuel A. Mudd Elementary School,0.05405405405405406
+0605,Thomas Stone High School,0.11659574468085106
+0606,J. P. Ryon Elementary School,0.07807308970099668
+0608,John Hanson Middle School,0.13885647607934656
+0609,Dr. James Craik Elementary School,0.3816326530612245
+0611,Dr. Gustavus Brown Elementary,0.05804749340369393
+0612,Arthur Middleton Elementary School,0.07
+0613,Benjamin Stoddert Middle School,0.05119047619047619
+0616,Eva Turner Elementary School,0.06451612903225806
+0617,Daniel of St. Thomas Jenifer Elementary School,0.03924914675767918
+0618,William B. Wade Elementary School,0.09950248756218906
+0619,Westlake High School,0.05303030303030303
+0620,C. Paul Barnhart Elementary School,0.030456852791878174
+0621,Mattawoman Middle School,0.028066528066528068
+0622,Berry Elementary School,0.07779349363507779
+0623,North Point High School,0.135656836461126
+0624,William A. Diggs Elementary School,0.0901015228426396
+0625,Theodore G. Davis Middle School,0.07810650887573964
+0626,Mary B. Neal Elementary School,0.05581395348837209
+0627,Billingsley Elementary School,0.09062980030721966
+0701,Matthew Henson Middle School,0.08781127129750983
+0703,J. C. Parks Elementary School,0.07742998352553541
+0705,General Smallwood Middle School,0.31072210065645517
+0710,Indian Head Elementary School,0.19331742243436753
+0801,T. C. Martin Elementary School,0.4935064935064935
+0802,St. Charles High School,0.08945260347129506
+0902,Malcolm Elementary School,0.28125
+1001,Gale-Bailey Elementary School,0.43859649122807015
+1002,Henry E. Lackey High School,0.24533856722276742
+A,All Charles Schools,0.1978046511627907
+0205,Warwick Elementary School,0.877742946708464
+0207,North Dorchester High School,0.6227758007117438
+0208,North Dorchester Middle School,0.562929061784897
+0302,Vienna Elementary School,0.7044025157232704
+0508,South Dorchester School,0.883495145631068
+0707,Mace's Lane Middle School,0.16878402903811252
+0710,Sandy Hill Elementary,0.1932367149758454
+0711,Maple Elementary School,0.21079691516709512
+0713,Cambridge-South Dorchester High School,0.2930817610062893
+0716,Choptank Elementary School,0.06266318537859007
+1503,Hurlock Elementary School,0.4106145251396648
+A,All Dorchester Schools,0.3999562650338946
+0108,Carroll Manor Elementary,0.864406779661017
+0109,Tuscarora Elementary,0.2661290322580645
+0201,Parkway Elementary,0.5057471264367817
+0204,Lincoln Elementary,0.16775244299674266
+0208,Heather Ridge,0.41379310344827586
+0209,Frederick High,0.244122965641953
+0210,North Frederick Elementary,0.39052287581699346
+0211,West Frederick Middle,0.22722159730033745
+0213,Gov. Thomas Johnson High,0.30472569255839216
+0219,Monocacy Middle,0.2302839116719243
+0222,Monocacy Elementary,0.23747680890538034
+0223,Ballenger Creek Elementary,0.2828125
+0225,Gov. Thomas Johnson Middle,0.3921901528013582
+0226,Monocacy Valley Montessori,0.5892255892255892
+0227,Crestwood Middle,0.23088455772113944
+0228,Carroll Creek Montessori Public Charter,0.5849056603773585
+0303,Middletown Elementary,0.771889400921659
+0311,Middletown Middle,0.8141263940520446
+0313,Middletown High,0.8312043795620438
+0314,Middletown Primary,0.7678571428571429
+0503,Emmitsburg Elementary,0.8357487922705314
+0603,Wolfsville Elementary,0.8714285714285714
+0702,Urbana Elementary,0.46248085758039814
+0713,Urbana High,0.5334370139968896
+0714,Windsor Knolls Middle,0.6453407510431154
+0715,Centerville Elementary,0.4004474272930649
+0716,Urbana Middle,0.4709864603481625
+0717,Sugarloaf Elementary,0.3989071038251366
+0801,Liberty Elementary,0.8416666666666667
+0903,New Market Elementary,0.7979094076655052
+0912,Linganore High,0.7873601053324556
+0913,Green Valley Elementary,0.5145348837209303
+0914,New Market Middle,0.7912254160363086
+0915,Kemptown Elementary,0.7112299465240641
+0916,Spring Ridge Elementary,0.5162866449511401
+0917,Deer Crossing Elementary,0.8060344827586207
+0918,Oakdale Middle,0.6253934942287513
+0919,Oakdale Elementary,0.504875406283857
+0920,Oakdale High,0.6791808873720137
+1001,Sabillasville Elementary,0.927536231884058
+1105,New Midway/Woodsboro Elementary,0.8215488215488216
+1301,Frederick Classical Charter,0.3870967741935484
+1302,Blue Heron Elementary,0.7089430894308943
+1406,Valley Elementary,0.7009708737864078
+1503,Thurmont Elementary,0.863013698630137
+1509,Catoctin High,0.8697986577181208
+1510,Thurmont Middle,0.856637168141593
+1511,Thurmont Primary,0.8536585365853658
+1604,Myersville Elementary,0.8191214470284238
+1801,Twin Ridge Elementary,0.7825421133231241
+2001,Lewistown Elementary,0.6785714285714286
+2103,Yellow Springs Elementary,0.4767857142857143
+2107,Whittier Elementary,0.4201101928374656
+2302,Hillcrest Elementary,0.5792592592592593
+2305,Ballenger Creek Middle,0.40759493670886077
+2306,Orchard Grove Elementary,0.23164763458401305
+2307,Tuscarora High,0.3870392390011891
+2308,Butterfly Ridge Elementary,0.1935483870967742
+2403,Waverley Elementary,0.055350553505535055
+2503,Brunswick High,0.7122641509433962
+2504,Brunswick Elementary,0.6662162162162162
+2525,Brunswick Middle,0.6844660194174758
+2606,Walkersville Middle,0.6167664670658682
+2607,Walkersville Elementary,0.43884892086330934
+2610,Walkersville High,0.6012810248198559
+2611,Glade Elementary,0.740072202166065
+2613,Rock Creek,0.5211267605633803
+A,All Frederick Schools,0.5255417956656346
+1202,Friendsville Elementary,0.9323308270676691
+1301,Grantsville Elementary,0.9819277108433735
+1408,Crellin Elementary,0.9318181818181818
+1501,Accident Elementary,0.9220183486238532
+1707,Broad Ford Elementary,0.9576923076923077
+1710,Yough Glades Elementary,0.948339483394834
+1812,Swan Meadow School,0.9772727272727273
+1904,Route 40 Elementary,0.9918032786885246
+2511,Northern Middle School,0.9693251533742331
+2708,Southern Middle School,0.9587852494577006
+3512,Northern Garrett High School,0.9441964285714286
+3709,Southern Garrett High School,0.9636913767019667
+A,All Garrett Schools,0.9560251284980011
+0113,William S. James Elementary,0.6957446808510638
+0115,Edgewood Elementary,0.25133689839572193
+0120,Deerfield Elementary,0.22237380627557982
+0121,Emmorton Elementary,0.575091575091575
+0123,Abingdon Elementary,0.5080385852090032
+0125,Church Creek Elementary,0.33431516936671574
+0131,Magnolia Elementary,0.10505836575875487
+0137,Joppatowne Elementary,0.5088408644400786
+0140,William Paca/Old Post Road Elementary,0.23172242874845106
+0143,Riverside Elementary,0.38613861386138615
+0176,Edgewood High,0.2822349570200573
+0177,Edgewood Middle,0.2828379674017258
+0181,Joppatowne High,0.2506361323155216
+0184,Magnolia Middle,0.273841961852861
+0187,Patterson Mill High School,0.699501246882793
+0188,Patterson Mill Middle School,0.7005277044854882
+0211,G. Lisby Elementary at Hillsdale,0.32210526315789473
+0212,Bakerfield Elementary,0.33966745843230406
+0230,Halls Cross Roads Elementary,0.228310502283105
+0265,Aberdeen Middle,0.33302238805970147
+0270,Aberdeen High,0.32402995234853643
+0292,Center for Educational Opportunity,0.0
+0296,Swan Creek School,0.36026200873362446
+0304,Harford Technical High,0.6915322580645161
+0314,Bel Air Elementary,0.9521531100478469
+0316,Churchville Elementary,0.8419452887537994
+0326,Forest Hill Elementary,0.8201284796573876
+0327,Fountain Green Elementary,0.795045045045045
+0328,Forest Lakes Elementary,0.841991341991342
+0329,Prospect Mill Elementary,0.6880570409982175
+0333,Hickory Elementary,0.754746835443038
+0335,Homestead/Wakefield Elementary,0.711556829035339
+0345,Ring Factory Elementary,0.7858508604206501
+0348,Youths Benefit Elementary,0.8549410698096102
+0349,Red Pump Elementary School,0.833112582781457
+0372,Bel Air Middle,0.7326440177252584
+0373,Bel Air High,0.7266754270696452
+0374,Southampton Middle,0.7878521126760564
+0382,Fallston High,0.8553971486761711
+0385,C. Milton Wright High,0.7670924117205109
+0386,Fallston Middle School,0.8489932885906041
+0391,John Archer School,0.4696969696969697
+0436,Jarrettsville Elementary,0.8795454545454545
+0441,Norrisville Elementary,0.9178743961352657
+0447,North Bend Elementary,0.8913043478260869
+0518,Darlington Elementary,0.82
+0522,Dublin Elementary,0.8925233644859814
+0544,North Harford Elementary,0.9281609195402298
+0580,North Harford High,0.9107289107289107
+0583,North Harford Middle,0.9206703910614525
+0632,Havre de Grace Elementary,0.5166112956810631
+0638,Meadowvale Elementary,0.660377358490566
+0639,Roye-Williams Elementary,0.4069767441860465
+0678,Havre de Grace High,0.5810635538261998
+0679,Havre de Grace Middle,0.576
+A,All Harford Schools,0.5979694092827004
+0080,Homewood School,0.313953488372093
+0101,Elkridge Elementary,0.33495145631067963
+0103,Deep Run Elementary,0.19690576652601968
+0104,Mayfield Woods Middle,0.21635883905013192
+0105,Rockburn Elementary,0.4308176100628931
+0106,Elkridge Landing Middle,0.38427947598253276
+0107,Ilchester Elementary,0.46875
+0108,Bonnie Branch Middle,0.38461538461538464
+0109,Ducketts Lane,0.15806451612903225
+0110,Thomas Viaduct,0.11785297549591599
+0111,Hanover Hills,0.11421628189550426
+0202,Ellicott Mills Middle,0.3503448275862069
+0203,Howard High,0.4135044642857143
+0204,St. Johns Lane Elementary,0.3717357910906298
+0207,Mount Hebron High,0.4228187919463087
+0208,Northfield Elementary,0.4428969359331476
+0209,Patapsco Middle,0.38763197586727
+0210,Centennial Lane Elementary,0.3161094224924012
+0211,Dunloggin Middle,0.30818619582664525
+0213,Worthington Elementary,0.42152466367713004
+0214,Centennial High,0.38925199709513436
+0215,Waverly Elementary,0.26905829596412556
+0216,Burleigh Manor Middle School,0.3363057324840764
+0217,Hollifield Station Elementary,0.21733333333333332
+0218,Bellows Spring Elementary,0.20615796519410978
+0219,Veterans Elementary,0.22469410456062291
+0302,West Friendship Elementary,0.599476439790576
+0304,Mount View Middle,0.3891454965357968
+0305,Manor Woods Elementary,0.3802008608321377
+0306,Triadelphia Ridge Elementary,0.4412811387900356
+0307,Folly Quarter Middle,0.4623493975903614
+0308,Marriotts Ridge High,0.38868832731648617
+0404,Glenelg High,0.6710323574730355
+0405,Glenwood Middle,0.6979591836734694
+0406,Bushy Park Elementary,0.6774193548387096
+0407,Lisbon Elementary,0.7562189054726368
+0505,Clarksville Elementary,0.2764378478664193
+0509,Atholton High,0.31456043956043955
+0510,Bryant Woods Elementary,0.2735562310030395
+0512,Wilde Lake Middle,0.2779552715654952
+0514,Longfellow Elementary,0.2193158953722334
+0515,Running Brook Elementary,0.1566265060240964
+0516,Wilde Lake High,0.23455882352941176
+0517,Swansfield Elementary,0.283203125
+0518,Harpers Choice Middle,0.16831683168316833
+0520,Clemens Crossing Elementary,0.3960923623445826
+0521,Clarksville Middle,0.3443609022556391
+0522,Cedar Lane Special Center,0.20353982300884957
+0523,Pointers Run Elementary,0.3693467336683417
+0524,River Hill High,0.4078249336870027
+0525,Fulton Elementary,0.358294930875576
+0526,Lime Kiln Middle,0.41518578352180935
+0527,Reservoir High,0.23539140022050717
+0528,Dayton Oaks,0.5123287671232877
+0602,Guilford Elementary,0.1529175050301811
+0603,Atholton Elementary,0.47890295358649787
+0604,Waterloo Elementary,0.3250825082508251
+0605,Thunder Hill Elementary,0.22061855670103092
+0606,Hammond Elementary,0.4533762057877814
+0607,Hammond Middle School,0.3910806174957118
+0608,Stevens Forest Elementary,0.17210682492581603
+0609,Talbott Springs Elementary,0.1927437641723356
+0610,Oakland Mills Middle,0.22058823529411764
+0611,Oakland Mills High,0.18937125748502995
+0612,Phelps Luck Elementary,0.25504322766570603
+0613,Jeffers Hill Elementary,0.1878048780487805
+0616,Cradlerock Elementary,0.20350109409190373
+0617,Lake Elkhorn Middle,0.13764510779436154
+0618,Laurel Woods Elementary,0.07097791798107256
+0619,Hammond High,0.23889739663093415
+0620,Bollman Bridge Elementary,0.22531293463143254
+0621,Patuxent Valley Middle,0.1575
+0622,Forest Ridge Elementary,0.16920731707317074
+0623,Long Reach High,0.22818791946308725
+0624,Murray Hill Middle,0.11514195583596215
+0625,Gorman Crossing Elementary,0.18877551020408162
+A,All Howard Schools,0.3194941125163541
+0105,Galena Elementary School,0.6305084745762712
+0301,Kent County High,0.6146953405017921
+0402,Kent County Middle School,0.5357142857142857
+0403,H. H. Garnett Elementary,0.375
+0504,Rock Hall Elementary,0.6040609137055838
+A,All Kent Schools,0.5526315789473685
+0051,Laytonsville Elementary,0.31988472622478387
+0100,Clopper Mill Elementary,0.05909090909090909
+0101,Clarksburg Elementary,0.11154345006485085
+0102,Germantown Elementary,0.204
+0104,Seneca Valley High,0.12794117647058822
+0105,Ridgeview Middle,0.3704663212435233
+0106,Fox Chapel Elementary,0.1012216404886562
+0107,Martin Luther King Jr. Middle,0.1270718232044199
+0108,Lake Seneca Elementary,0.10309278350515463
+0109,Waters Landing Elementary,0.11666666666666667
+0110,S. Christa McAuliffe Elementary,0.11218568665377177
+0111,Captain James E. Daly Elementary,0.05182341650671785
+0115,Neelsville Middle,0.08333333333333333
+0125,Quince Orchard High,0.3678105364910585
+0152,Poolesville High,0.42452830188679247
+0153,Poolesville Elementary,0.6171003717472119
+0155,Rosa M. Parks Middle,0.534688995215311
+0156,Lois P. Rockwell Elementary,0.3804573804573805
+0157,Roberto W. Clemente Middle,0.12407211028632026
+0158,Dr. Ronald E. McNair Elementary,0.17981888745148772
+0159,Rachel Carson Elementary,0.4574780058651026
+0201,Richard Montgomery High,0.30077120822622105
+0204,Garrett Park Elementary,0.3940298507462687
+0206,Twinbrook Elementary,0.12301587301587301
+0207,Beall Elementary,0.8595744680851064
+0209,Lakewood Elementary,0.18446601941747573
+0210,Maryvale Elementary,0.20689655172413793
+0211,Julius West Middle,0.3158284023668639
+0212,Meadow Hall Elementary,0.18961038961038962
+0215,Carl Sandburg Center,0.12121212121212122
+0216,Travilah Elementary,0.31054131054131057
+0219,Farmland Elementary,0.44136191677175285
+0220,Luxmanor Elementary,0.30895522388059704
+0226,Beverly Farms Elementary,0.44403669724770645
+0227,Ritchie Park Elementary,0.49476439790575916
+0228,Herbert Hoover Middle,0.3782435129740519
+0229,College Gardens Elementary,0.27413127413127414
+0230,Rockville High,0.2622601279317697
+0232,Tilden Middle School,0.40019569471624267
+0233,Fallsmead Elementary,0.3676190476190476
+0234,Thomas S. Wootton High,0.4004117344312918
+0235,Wayside Elementary,0.36444444444444446
+0237,Robert Frost Middle School,0.3168724279835391
+0238,Cold Spring Elementary,0.42024539877300615
+0239,Alternative Programs,0.0
+0241,DuFief Elementary,0.2835249042145594
+0242,Dr. Sally K. Ride Elementary,0.10805084745762712
+0244,Thurgood Marshall Elementary,0.3147482014388489
+0246,Northwest High,0.24136562127828504
+0247,John H. Poole Middle,0.6159250585480094
+0248,Forest Oak Middle,0.0752453653217012
+0249,Clarksburg High,0.15803108808290156
+0302,Burtonsville Elementary,0.04809286898839138
+0303,Fairland Elementary,0.043151969981238276
+0304,JoAnn Leleck at Broad Acres Elementary,0.0
+0305,Jackson Road Elementary,0.04696969696969697
+0307,Roscoe R Nix Elementary,0.02553191489361702
+0308,Cloverly Elementary,0.2539325842696629
+0309,Burnt Mills Elementary,0.0738255033557047
+0310,Cannon Road Elementary,0.04603580562659847
+0311,Francis Scott Key Middle,0.024793388429752067
+0312,William Tyler Page Elementary,0.13570274636510501
+0313,Galway Elementary,0.033045977011494254
+0315,Paint Branch High,0.037360504609412905
+0316,Stonegate Elementary,0.18421052631578946
+0321,James Hubert Blake High,0.14563106796116504
+0333,Benjamin Banneker Middle,0.029205607476635514
+0334,Greencastle Elementary,0.024390243902439025
+0335,Briggs Chaney Middle,0.06468716861081654
+0336,Little Bennett Elementary,0.20404984423676012
+0337,"William B. Gibbs, Jr. Elementary",0.15891472868217055
+0340,Great Seneca Creek Elementary,0.1765834932821497
+0341,Wilson Wims Elementary School,0.18896321070234115
+0345,Hallie Wells Middle School,0.19361483007209063
+0346,Bayard Rustin Elementary,0.25377229080932784
+0347,Snowden Farm Elementary,0.15363881401617252
+0351,Darnestown Elementary,0.6210191082802548
+0360,Jones Lane Elementary,0.3952941176470588
+0401,Bethesda Elementary,0.4375
+0403,Chevy Chase Elementary,0.5131578947368421
+0405,Somerset Elementary,0.5645161290322581
+0406,Bethesda-Chevy Chase High,0.5347313237221494
+0408,Westbrook Elementary,0.6947368421052632
+0410,Bradley Hills Elementary,0.6263048016701461
+0412,Westland Middle,0.5399002493765586
+0413,North Bethesda Middle,0.5390625
+0415,North Chevy Chase Elementary,0.481981981981982
+0417,Wood Acres Elementary,0.6591760299625468
+0419,Burning Tree Elementary,0.5111111111111111
+0420,Bannockburn Elementary,0.6009501187648456
+0422,Wyngate Elementary,0.5606276747503567
+0424,Walter Johnson High,0.5034843205574913
+0425,Ashburton Elementary,0.3764988009592326
+0427,Walt Whitman High,0.629866929521932
+0428,Thomas W. Pyle Middle School,0.6105182926829268
+0501,Sherwood Elementary,0.41260162601626016
+0502,Olney Elementary,0.5065573770491804
+0503,Sherwood High,0.48671565856416055
+0504,Westover Elementary,0.18339100346020762
+0505,Lucy V. Barnsley Elementary,0.3076923076923077
+0506,Flower Valley Elementary,0.3912175648702595
+0507,William H. Farquhar Middle,0.35846153846153844
+0508,Candlewood Elementary,0.412568306010929
+0510,Col. Zadok Magruder High,0.22277227722772278
+0511,Cashell Elementary,0.4174454828660436
+0512,Greenwood Elementary,0.6062271062271062
+0513,Belmont Elementary,0.6153846153846154
+0514,Judith A. Resnik Elementary,0.13953488372093023
+0517,Sligo Creek Elementary,0.5046439628482973
+0518,Brooke Grove Elementary,0.34841628959276016
+0521,Shady Grove Middle,0.20610687022900764
+0522,Lakelands Park Middle,0.34916201117318435
+0523,Spark M. Matsunaga Elementary School,0.14897260273972604
+0545,Watkins Mill High,0.05332496863237139
+0546,Goshen Elementary,0.14313346228239845
+0549,Flower Hill Elementary,0.06323185011709602
+0551,Gaithersburg High,0.10897155361050329
+0552,Washington Grove Elementary,0.08060453400503778
+0553,Gaithersburg Elementary,0.027131782945736434
+0554,Gaithersburg Middle,0.12471395881006865
+0555,Rosemont Elementary,0.0907563025210084
+0556,Mill Creek Towne Elementary,0.15766738660907129
+0557,Montgomery Village Middle School,0.04370860927152318
+0558,Whetstone Elementary,0.07342143906020558
+0559,Brown Station Elementary,0.0728476821192053
+0561,Watkins Mill Elementary,0.02389937106918239
+0562,Redland Middle,0.20846905537459284
+0563,Summit Hall Elementary,0.02666666666666667
+0564,South Lake Elementary,0.0
+0565,Sequoyah Elementary,0.26912181303116145
+0566,Fields Road Elementary,0.24078091106290672
+0568,Stedwick Elementary,0.08249496981891348
+0569,Strawberry Knoll Elementary,0.09866220735785954
+0570,Diamond Elementary,0.22950819672131148
+0587,PEP - Itinerant,0.325
+0601,Potomac Elementary,0.40298507462686567
+0602,Winston Churchill High,0.4475587703435805
+0603,Seven Locks Elementary,0.46923076923076923
+0604,Carderock Springs Elementary,0.514018691588785
+0606,Cabin John Middle School,0.3718446601941748
+0607,Bells Mill Elementary,0.4075993091537133
+0647,Silver Spring International Middle,0.2696629213483146
+0652,Monocacy Elementary,0.23747680890538034
+0653,Stone Mill Elementary,0.2158671586715867
+0701,Damascus High,0.43229543808834175
+0702,Damascus Elementary,0.37119113573407203
+0703,Cedar Grove Elementary,0.23298429319371727
+0704,Woodfield Elementary,0.4970414201183432
+0705,John T. Baker Middle School,0.4230769230769231
+0706,Clearspring Elementary,0.34767025089605735
+0707,Rocky Hill Middle,0.12512512512512514
+0708,Kingsview Middle,0.22759315206445116
+0747,Dr. Charles R. Drew Elementary,0.0989247311827957
+0749,Piney Branch Elementary,0.3983606557377049
+0754,Takoma Park Elementary,0.4542124542124542
+0755,Takoma Park Middle School,0.312666076173605
+0756,East Silver Spring Elementary,0.19381443298969073
+0757,Montgomery Blair High,0.23394206549118388
+0761,Pine Crest Elementary,0.2505399568034557
+0764,Woodlin Elementary,0.3533697632058288
+0766,Oak View Elementary,0.16290726817042606
+0767,Glen Haven Elementary,0.1454183266932271
+0769,Oakland Terrace Elementary,0.3509127789046653
+0770,Flora M. Singer Elementary School,0.33117932148626816
+0771,Rolling Terrace Elementary,0.054317548746518104
+0772,Viers Mill Elementary,0.10975609756097561
+0773,Rock Creek Forest Elementary,0.30824891461649784
+0774,Highland Elementary,0.06525911708253358
+0775,Eastern Middle School,0.1864594894561598
+0776,Montgomery Knolls Elementary,0.20809248554913296
+0777,Weller Road Elementary,0.03197674418604651
+0778,Sligo Middle,0.27019498607242337
+0779,Sargent Shriver Elementary,0.02837837837837838
+0780,Bel Pre Elementary,0.06826568265682657
+0782,Wheaton High,0.10273684210526315
+0783,Kensington Parkwood Elementary,0.5577889447236181
+0784,Highland View Elementary,0.3504043126684636
+0786,Georgian Forest Elementary,0.039711191335740074
+0787,A. Mario Loiederman Middle,0.13689839572192514
+0788,Wheaton Woods Elementary,0.04008016032064128
+0789,Albert Einstein High,0.23713527851458885
+0790,Arcola Elementary,0.04120443740095087
+0791,New Hampshire Estates Elem,0.04215456674473068
+0792,Newport Mill Middle,0.1777434312210201
+0794,Rosemary Hills Elementary,0.39926062846580407
+0795,Rock View Elementary,0.23202614379084968
+0796,Northwood High School,0.12724215246636772
+0797,Harmony Hills Elementary,0.017569546120058566
+0798,Springbrook High,0.05651397977394408
+0799,Stephen Knolls School,0.26785714285714285
+0803,Forest Knolls Elementary,0.3064182194616977
+0805,Kemp Mill Elementary,0.02877697841726619
+0807,Brookhaven Elementary,0.07109004739336493
+0808,Cresthaven Elementary,0.02795698924731183
+0811,White Oak Middle,0.04294478527607362
+0812,Parkland Middle,0.08124459809853068
+0815,John F. Kennedy High,0.050112612612612614
+0817,Glenallan Elementary,0.10740203193033382
+0818,Odessa Shannon Middle,0.05394736842105263
+0819,Rock Creek Valley Elementary,0.32
+0820,Earle B. Wood Middle,0.2577220077220077
+0822,Strathmore Elementary,0.07578947368421053
+0823,Argyle Middle,0.07024793388429752
+0835,Silver Creek Middle,0.4880503144654088
+0916,Rock Terrace School,0.2692307692307692
+0951,Longview School,0.27692307692307694
+0965,John L Gildner Regional Inst for Children & Adol,0.29411764705882354
+A,All Montgomery Schools,0.2531867965190133
+0102,High Point High,0.01865245527217358
+0104,Beltsville Academy,0.04770318021201413
+0105,Calverton Elementary,0.026054590570719603
+0107,Frances Fuchs Early Childhood Center,0.0
+0108,James E. Duckworth Regional Center,0.0
+0109,James H. Harrison Elementary,0.03908794788273615
+0110,Martin Luther King Jr. Middle,0.1270718232044199
+0111,Vansville Elementary,0.04630969609261939
+0203,Judith P. Hoyer Montessori,0.06593406593406594
+0205,Bladensburg Elementary,0.020028612303290415
+0208,Bladensburg High,0.013231552162849873
+0210,Rogers Heights Elementary,0.0
+0211,Gladys Noon Spellman Elementary,0.07421875
+0213,Cooper Lane Elementary,0.0
+0214,Templeton Elementary,0.05669481302774427
+0216,Annapolis Road Academy,0.0
+0217,Port Towns Elementary,0.0
+0303,Croom High,0.0
+0304,Perrywood Elementary,0.0
+0305,Patuxent Elementary,0.0
+0504,Fort Washington Forest Elementary,0.04735376044568245
+0507,Rose Valley Elementary,0.0
+0509,Accokeek Academy,0.029210689869484153
+0510,Potomac Landing Elementary,0.04871794871794872
+0511,Friendly High,0.02527075812274368
+0603,Suitland High,0.013657056145675266
+0606,Bradbury Heights Elementary,0.0
+0607,Hillcrest Heights Elementary,0.0
+0608,Green Valley Academy at Edgar Allan Poe,0.0
+0610,North Forestville Elementary,0.03496503496503497
+0613,District Heights Elementary,0.0
+0615,Benjamin Stoddert Middle,0.0
+0617,Francis Scott Key Elementary,0.0
+0618,Longfields Elementary,0.0
+0619,Princeton Elementary,0.0
+0622,Thurgood Marshall Middle School,0.0
+0632,Allenwood Elementary,0.0
+0633,Overlook Elementary,0.4984709480122324
+0636,William Beanes Elementary,0.0
+0638,Benjamin D. Foulois Academy,0.0
+0639,Maya Angelou French Immersion,0.0
+0640,Arrowhead Elementary,0.034759358288770054
+0645,Andrew Jackson Academy,0.0
+0647,Concord Elementary,0.0
+0648,Samuel P. Massie Academy,0.0
+0656,Panorama Elementary,0.0
+0660,Drew Freeman Middle,0.0
+0661,Suitland Elementary,0.0
+0662,Imagine Lincoln Public Charter,0.0
+0705,Tall Oaks High,0.0
+0706,Woodmore Elementary,0.0
+0708,Kenilworth Elementary,0.25
+0711,Tulip Grove Elementary,0.26975476839237056
+0712,Heather Hills Elementary,0.07006369426751592
+0714,Benjamin Tasker Middle School,0.11352885525070956
+0716,Northview Elementary,0.05944055944055944
+0718,Pointer Ridge Elementary,0.0798611111111111
+0723,C. Elizabeth Rieg Regional Center,0.10434782608695652
+0729,Kingsford Elementary,0.0
+0802,Baden Elementary,0.18357487922705315
+0905,Tayac Elementary,0.03529411764705882
+0906,Clinton Grove Elementary,0.0
+0908,Surrattsville High,0.016877637130801686
+0909,James Ryder Randall Elementary,0.0
+0912,Isaac J. Gourdine Middle,0.0
+0914,Waldon Woods Elementary,0.0
+0915,Stephen Decatur Middle,0.029525032092426188
+0916,Francis T. Evans Elementary,0.11797752808988764
+0917,Imagine Andrews Public Charter,0.1882640586797066
+0918,James Ryder Randall Early Childhood Center,0.0
+1001,Laurel Elementary,0.04151624548736462
+1008,Laurel High,0.036210317460317464
+1009,Oaklands Elementary,0.0
+1010,Dwight D. Eisenhower Middle,0.03038674033149171
+1011,Bond Mill Elementary,0.17819706498951782
+1014,Scotchtown Hills Elementary,0.041666666666666664
+1015,Chesapeake Math and IT Public Charter,0.027810650887573965
+1101,Brandywine Elementary,0.02553191489361702
+1102,Mattaponi Elementary,0.06567164179104477
+1103,Gwynn Park High,0.0463768115942029
+1104,Gwynn Park Middle,0.030303030303030304
+1105,Rosaryville Elementary,0.0389908256880734
+1201,Oxon Hill Elementary,0.07174887892376682
+1204,Forest Heights Elementary,0.0
+1206,John Hanson Montessori,0.0
+1208,Flintstone Elementary,0.943127962085308
+1209,Oxon Hill High,0.030040053404539385
+1213,Fort Foote Elementary,0.06896551724137931
+1214,Glassmanor Elementary,0.0
+1216,Samuel Chase Elementary,0.0
+1217,Crossland High,0.01195219123505976
+1218,Valley View Elementary,0.0
+1219,Barnaby Manor Elementary,0.0
+1220,Potomac High,0.009868421052631578
+1221,Avalon Elementary,0.0
+1229,Apple Grove Elementary,0.031180400890868598
+1231,J. Frank Dent Elementary,0.0
+1233,Indian Queen Elementary,0.046263345195729534
+1234,Oxon Hill Middle,0.01818181818181818
+1302,Columbia Park Elementary,0.0419047619047619
+1307,Highland Park Elementary,0.0
+1309,William Paca Elementary,0.05555555555555555
+1310,Dodge Park Elementary,0.03732809430255403
+1313,Kenmoor Early Childhood Center,0.0
+1314,Largo High,0.0
+1320,G. James Gholson Middle,0.0
+1322,Phyllis E. Williams Elementary,0.0398936170212766
+1324,Kettering Elementary,0.0
+1326,Kettering Middle,0.0
+1327,Charles Herbert Flowers High,0.008547008547008548
+1330,Kenmoor Middle,0.050473186119873815
+1333,Judge Sylvania W. Woods Sr. Elementary,0.020588235294117647
+1346,Lake Arbor Elementary,0.0
+1347,Cora L. Rice Elementary,0.0
+1348,Ernest Everett Just Middle,0.0
+1350,Academy of Health Sciences at PGCC,0.04216867469879518
+1351,Chesapeake Math and IT South Public Charter,0.01003584229390681
+1352,International High school @ Largo,0.0
+1408,Glenn Dale Elementary,0.03278688524590164
+1409,Duval High,0.024401064773735583
+1411,Gaywood Elementary,0.0
+1412,High Bridge Elementary,0.058997050147492625
+1414,Catherine T. Reed Elementary,0.042735042735042736
+1416,Dora Kennedy French Immersion,0.1398176291793313
+1417,Robert Goddard Montessori,0.21224489795918366
+1423,Bowie High,0.0949978982765868
+1424,Montpelier Elementary,0.06854130052724078
+1427,Yorktown Elementary,0.2047244094488189
+1428,Samuel Ogle Middle,0.11615487316421896
+1432,Rockledge Elementary,0.16905444126074498
+1433,Chapel Forge Early Childhood Center,0.06363636363636363
+1435,Deerfield Run Elementary,0.05186385737439222
+1438,Whitehall Elementary,0.23529411764705882
+1442,Excel Academy Public Charter,0.0
+1502,Frederick Douglass High,0.017226528854435832
+1504,Melwood Elementary,0.04337899543378995
+1510,James Madison Middle,0.02244668911335578
+1511,Marlton Elementary,0.0
+1518,Barack Obama Elementary,0.013908205841446454
+1519,"Dr. Henry A. Wise, Jr. High",0.019021739130434784
+1521,Imagine Foundations at Leeland PCS,0.0
+1522,Imagine Foundations at Morningside PCS,0.0
+1601,Hyattsville Elementary,0.16136363636363638
+1602,Hyattsville Middle,0.0723055934515689
+1604,Edward M. Felegy ES,0.042212518195050945
+1703,Mt Rainier Elementary,0.08841463414634146
+1706,Thomas S. Stone Elementary,0.03547671840354767
+1708,Northwestern High,0.027489860297431275
+1709,Chillum Elementary,0.0
+1710,Ridgecrest Elementary,0.0
+1711,Carole Highlands Elementary,0.0
+1712,Lewisdale Elementary,0.0
+1713,Cesar Chavez Elementary,0.12222222222222222
+1714,Adelphi Elementary,0.02674591381872214
+1718,Nicholas Orem Middle,0.020572450805008944
+1719,Langley Park/McCormick Elementary,0.0
+1725,Cool Spring Elementary,0.0
+1730,Mary Harris,0.0
+1731,Rosa L. Parks Elementary,0.016129032258064516
+1732,International High School @ Langley Park,0.0
+1802,Seat Pleasant Elementary,0.0
+1806,Fairmont Heights High,0.01607717041800643
+1808,Doswell E. Brooks Elementary,0.0
+1810,Central High,0.014666666666666666
+1811,Carmody Hills Elementary,0.0
+1812,Capitol Heights Elementary,0.09448818897637795
+1814,Thomas G. Pullen School,0.037396121883656507
+1816,John H. Bayne Elementary,0.0
+1819,Walker Mill Middle,0.013831258644536652
+1822,H. W. Wheatley Early Childhood Center,0.0
+1828,Robert R. Gray Elementary,0.0
+1830,William W. Hall Academy,0.027726432532347505
+1901,Riverdale Elementary,0.03622047244094488
+1902,University Park Elementary,0.28205128205128205
+1907,Beacon Heights Elementary,0.027093596059113302
+1908,William Wirt Middle,0.014162077104642014
+1909,Parkdale High,0.030894308943089432
+2003,Seabrook Elementary,0.0
+2005,Carrollton Elementary,0.023809523809523808
+2006,Glenridge Elementary,0.04267425320056899
+2007,Woodridge Elementary,0.0
+2008,Ardmore Elementary,0.0
+2009,Thomas Johnson Middle,0.025297619047619048
+2010,Glenarden Woods Elementary,0.10309278350515463
+2011,Charles Carroll Middle,0.015447154471544716
+2012,Margaret Brent Regional Center,0.0
+2013,James McHenry Elementary,0.025745257452574527
+2014,Lamont Elementary,0.08966861598440545
+2016,Robert Frost Elementary,0.04887218045112782
+2023,Legend Public Charter School,0.0
+2106,Greenbelt Elementary,0.16134751773049646
+2107,Hollywood Elementary,0.08368200836820083
+2108,Buck Lodge Middle,0.0
+2109,Berwyn Heights Elementary,0.10321100917431193
+2113,Springhill Lake Elementary,0.014360313315926894
+2114,Eleanor Roosevelt High,0.10454545454545454
+2121,Cherokee Lane Elementary,0.031423290203327174
+2122,Magnolia Elementary,0.10505836575875487
+2123,Paint Branch Elementary,0.09065934065934066
+2141,Greenbelt Middle,0.07786589762076424
+2142,College Park Academy,0.1019202363367799
+2217,Incarcerated Youth Center (JACS),0.0
+2220,Community Based Classrooms,0.0
+2300,Prekindergarten Offsites,0.0
+A,All Prince George's Schools,0.038896697391614964
+0101,Sudlersville Middle School,0.6666666666666666
+0106,Sudlersville Elementary School,0.49560117302052786
+0202,Church Hill Elementary School,0.7257383966244726
+0301,Queen Anne's County High School,0.7600334448160535
+0302,Kennard Elementary School,0.7870563674321504
+0303,Centreville Middle School,0.8003913894324853
+0308,Centreville Elementary School,0.7495621716287215
+0402,Kent Island Elementary School,0.7759433962264151
+0403,Bayside Elementary School,0.7574123989218329
+0404,Stevensville Middle School,0.7718940936863544
+0405,Kent Island High School,0.8077586206896552
+0406,Matapeake Elementary School,0.8484107579462102
+0407,Matapeake Middle School,0.8238341968911918
+0503,Grasonville Elementary School,0.6644591611479028
+A,All Queen Anne's Schools,0.7567204301075269
+0101,Spring Ridge Middle,0.4077294685990338
+0104,Ridge Elementary,0.6748768472906403
+0201,Piney Point Elementary,0.7472035794183445
+0301,Leonardtown Elementary,0.7130801687763713
+0302,Benjamin Banneker Elementary,0.7689713322091062
+0303,Chopticon High,0.8078524687685901
+0305,Leonardtown Middle,0.7515151515151515
+0306,Leonardtown High,0.7321156773211568
+0308,Captain Walter Francis Duke Elementary,0.7449908925318761
+0404,Margaret Brent Middle,0.7977178423236515
+0501,Lettie Marshall Dent Elem,0.8462998102466793
+0503,White Marsh Elementary,0.7955555555555556
+0504,Mechanicsville Elementary,0.8609958506224067
+0602,Oakville Elementary,0.7638376383763837
+0604,Hollywood Elementary,0.08368200836820083
+0606,Evergreen Elementary School,0.6388508891928865
+0702,Dynard Elementary,0.7884615384615384
+0801,Great Mills High,0.37471264367816093
+0803,Green Holly Elementary School,0.4129979035639413
+0804,Lexington Park Elementary,0.22790697674418606
+0805,George Washington Carver Elementary,0.15853658536585366
+0806,Town Creek Elementary,0.5603448275862069
+0807,Esperanza Middle,0.5410404624277456
+0808,Park Hall Elementary,0.35496957403651114
+0810,Greenview Knolls Elementary,0.2936893203883495
+0813,Chesapeake Charter School,0.7076612903225806
+A,All Saint Mary's Schools,0.6216819221967963
+0102,Washington Academy and High School,0.2915194346289753
+0107,Greenwood Elementary School,0.1572052401746725
+0108,Princess Anne Elementary School,0.19148936170212766
+0702,Crisfield Academy and High School,0.5672823218997362
+0705,Carter G Woodson Elementary,0.5142276422764228
+1003,Ewell School,0.0
+1303,Somerset 6/7 Intermediate School,0.341645885286783
+1401,Deal Island School,0.7207207207207207
+A,All Somerset Schools,0.36118205034658885
+0101,Easton High,0.5341296928327645
+0104,Easton Elementary,0.2866541353383459
+0106,Easton Middle,0.48225214198286415
+0202,St. Michaels Middle/High School,0.7441860465116279
+0204,St. Michaels Elementary,0.6574923547400612
+0302,White Marsh Elementary,0.7955555555555556
+0401,Chapel District Elementary,0.8034682080924855
+0501,Tilghman Elementary,0.9042553191489362
+A,All Talbot Schools,0.5298919038164571
+0040,Barbara Ingram School for the Arts,0.7048192771084337
+0101,Sharpsburg Elementary,0.926605504587156
+0190,Jonathan Hager Elementary,0.30403800475059384
+0201,Springfield Middle,0.6755674232309746
+0202,Williamsport Elementary,0.7170172084130019
+0204,Williamsport High,0.6966873706004141
+0301,South Hagerstown High,0.392378263937897
+0302,Emma K. Doub Elementary,0.5917808219178082
+0304,E. Russell Hicks Middle,0.4100119189511323
+0305,Washington County Technical High,0.7641681901279708
+0325,Rockland Woods Elementary,0.5081168831168831
+0328,Ruth Ann Monroe Primary,0.32166666666666666
+0401,Clear Spring Middle,0.8853503184713376
+0402,Clear Spring Elementary,0.9584415584415584
+0403,Clear Spring High,0.9054945054945055
+0501,Hancock Middle Senior High,0.96875
+0502,Hancock Elementary,0.9473684210526315
+0601,Boonsboro High,0.8513189448441247
+0602,Boonsboro Middle,0.8638573743922204
+0603,Boonsboro Elementary,0.8686274509803922
+0701,Smithsburg High,0.8013605442176871
+0702,Smithsburg Elementary,0.813953488372093
+0704,Smithsburg Middle,0.7457627118644068
+0705,Washington County Job Development Center,0.6756756756756757
+0902,Paramount Elementary,0.6
+0903,Old Forge Elementary,0.888235294117647
+1002,Eastern Elementary,0.3372365339578454
+1101,Pleasant Valley Elementary,0.8807339449541285
+1301,Maugansville Elementary,0.5469448584202683
+1401,Cascade Elementary,0.8561151079136691
+1602,Greenbrier Elementary,0.7606837606837606
+1701,Bester Elementary,0.34923664122137404
+1802,Pangborn Elementary,0.3795620437956204
+1805,Potomac Heights Elementary,0.46920821114369504
+2002,Fountain Rock Elementary,0.8113879003558719
+2101,North Hagerstown High,0.47895500725689405
+2102,Northern Middle,0.7549668874172185
+2501,Western Heights Middle,0.4278131634819533
+2503,Salem Avenue Elementary,0.35294117647058826
+2505,Marshall Street School,0.5434782608695652
+2601,Lincolnshire Elementary,0.5821205821205822
+2602,Hickory Elementary,0.754746835443038
+2701,Fountaindale Elementary,0.5179063360881543
+A,All Washington Schools,0.6029497992873574
+0102,Mardela Middle & High,0.771978021978022
+0106,Northwestern Elementary,0.7801204819277109
+0406,Pittsville Elementary & Middle,0.8107344632768362
+0510,Wicomico Middle,0.2332928311057108
+0512,East Salisbury Elementary,0.19095477386934673
+0513,Wicomico High,0.2240829346092504
+0514,Beaver Run School,0.21684867394695787
+0515,Glen Avenue School,0.2176039119804401
+0520,Wicomico County Evening High,0.2459016393442623
+0905,North Salisbury Elementary,0.29936305732484075
+0906,Pemberton Elementary,0.23274161735700197
+0907,Charles H. Chipman Elementary,0.13095238095238096
+0909,West Salisbury,0.13564668769716087
+0910,Salisbury Middle,0.25
+1103,Delmar Elementary,0.5738255033557047
+1305,Pinehurst Elementary,0.25052192066805845
+1306,Prince Street School,0.13171355498721227
+1307,James M. Bennett High,0.4111027756939235
+1308,Bennett Middle,0.3865546218487395
+1309,Parkside High,0.5158450704225352
+1404,Willards Elementary,0.7898550724637681
+1501,Westside Primary,0.6310160427807486
+1502,Westside Intermediate,0.6294117647058823
+1601,Fruitland Primary,0.4634703196347032
+1602,Fruitland Intermediate,0.445
+A,All Wicomico Schools,0.38386524822695034
+0102,Pocomoke Elementary,0.4298850574712644
+0107,Pocomoke High,0.39039039039039036
+0108,Pocomoke Middle,0.3972911963882618
+0205,Snow Hill Elementary,0.5774647887323944
+0207,Snow Hill High,0.6530612244897959
+0208,Snow Hill Middle,0.5813333333333334
+0308,Stephen Decatur Middle,0.029525032092426188
+0310,Stephen Decatur High,0.752770083102493
+0311,Berlin Intermediate,0.6866566716641679
+0312,Showell Elementary,0.8287878787878787
+0401,Cedar Chapel Special School,0.5652173913043478
+0901,Buckingham Elementary,0.5532786885245902
+1001,Ocean City Elementary,0.7486238532110092
+A,All Worcester Schools,0.6500073496986624
+0004,Steuart Hill Academic Academy,0.06217616580310881
+0007,Cecil Elementary,0.0
+0008,City Springs Elementary/Middle,0.0
+0010,James McHenry Elementary/Middle,0.03656821378340366
+0011,Eutaw-Marshburn Elementary,0.0
+0012,Lakeland Elementary/Middle,0.03180914512922465
+0013,Tench Tilghman Elementary/Middle,0.0
+0015,Stadium School,0.0
+0016,Johnston Square Elementary,0.0
+0021,Hilton Elementary,0.0
+0022,George Washington Elementary,0.05747126436781609
+0023,Wolfe Street Academy,0.04743083003952569
+0027,Commodore John Rodgers Elementary/Middle,0.060879368658399095
+0028,Sandtown-Winchester Achievement Academy,0.0
+0029,Matthew A. Henson Elementary,0.0
+0034,Charles Carroll Barrister Elementary,0.14634146341463414
+0035,Harlem Park Elementary/Middle,0.0
+0037,Harford Heights Elementary,0.0
+0039,"Dallas F. Nicholas, Sr., Elementary",0.0
+0044,Montebello Elementary/Middle,0.0
+0045,Federal Hill Preparatory Academy,0.26795580110497236
+0047,Hampstead Hill Academy,0.3822525597269625
+0050,Abbottston Elementary,0.0
+0051,Waverly Elementary/Middle,0.024691358024691357
+0053,Margaret Brent Elementary/Middle,0.11428571428571428
+0054,Barclay Elementary/Middle,0.0
+0055,Hampden Elementary/Middle,0.4326086956521739
+0058,Dr. Nathan A. Pitts-Ashburton Elementary/Middle,0.0
+0060,Gwynns Falls Elementary,0.0
+0061,Dorothy I. Height Elementary,0.0
+0062,Park Heights Academy,0.0
+0063,Rosemont Elementary/Middle,0.0
+0064,Liberty Elementary,0.8416666666666667
+0066,Mount Royal Elementary/Middle,0.09846547314578005
+0067,Edgewood Elementary,0.25133689839572193
+0075,Katherine Johnson Global Academy,0.0
+0076,Francis Scott Key Elementary/Middle,0.4083044982698962
+0081,North Bend Elementary/Middle,0.0
+0083,William Paca Elementary,0.05555555555555555
+0084,Thomas Johnson Elementary/Middle,0.6537678207739308
+0085,Fort Worthington Elementary/Middle,0.016973125884016973
+0086,Lakewood Elementary,0.18446601941747573
+0087,Windsor Hills Elementary/Middle,0.0
+0088,Wildwood Elementary/Middle,0.0
+0095,Franklin Square Elementary/Middle,0.0
+0097,Collington Square Elementary/Middle,0.0
+0105,Moravia Park Elementary,0.019174041297935103
+0122,The Historic Samuel Coleridge-Taylor Elementary,0.0
+0124,Bay-Brook Elementary/Middle,0.096045197740113
+0125,Furman Templeton Preparatory Academy,0.0
+0130,Booker T. Washington Middle,0.0
+0134,Walter P. Carter Elementary/Middle,0.0
+0142,Robert W. Coleman Elementary,0.0
+0144,Billie Holiday Elementary,0.0
+0150,Mary Ann Winterling Elementary at Bentalou,0.0
+0159,The Historic Cherry Hill Elementary/Middle,0.0
+0164,Arundel Elementary,0.0
+0177,George W. F. McMechen High,0.0
+0178,Excel Academy at Francis M. Wood High,0.0
+0201,Dickey Hill Elementary/Middle,0.0
+0203,Maree Garnett Farring Elementary/Middle,0.1812778603268945
+0204,Mary E. Rodman Elementary,0.0
+0205,Woodhome Elementary/Middle,0.06345733041575492
+0206,Furley Elementary,0.029082774049217
+0207,Curtis Bay Elementary,0.23317307692307693
+0210,Hazelwood Elementary/Middle,0.02109704641350211
+0211,Gardenville Elementary,0.0
+0212,Garrett Heights Elementary/Middle,0.09090909090909091
+0213,Govans Elementary,0.0
+0215,Highlandtown Elementary/Middle #215,0.021367521367521368
+0217,Belmont Elementary,0.6153846153846154
+0219,Yorkwood Elementary,0.0
+0220,Morrell Park Elementary/Middle,0.33256880733944955
+0221,The Mount Washington School,0.26591760299625467
+0223,Pimlico Elementary/Middle,0.0
+0225,Westport Academy,0.0
+0226,Violetville Elementary/Middle,0.2478134110787172
+0228,John Ruhrah Elementary/Middle,0.0712719298245614
+0229,Holabird Academy,0.04703476482617587
+0231,The Belair-Edison School,0.013461538461538462
+0232,Thomas Jefferson Elementary/Middle,0.0
+0233,Roland Park Elementary/Middle,0.3487179487179487
+0234,Arlington Elementary,0.0
+0235,Glenmount Elementary/Middle,0.026392961876832845
+0236,Hamilton Elementary/Middle,0.0976470588235294
+0237,Highlandtown Elementary/Middle #237,0.022193211488250653
+0239,Benjamin Franklin High School at Masonville Cove,0.2020057306590258
+0240,Graceland Park/O'Donnell Heights Elementary/Middle,0.05803571428571429
+0241,Fallstaff Elementary/Middle,0.0
+0242,Northwood Elementary,0.0
+0243,Armistead Gardens Elementary/Middle,0.17362045760430686
+0245,Leith Walk Elementary/Middle,0.0
+0246,Beechfield Elementary/Middle,0.027906976744186046
+0247,Cross Country Elementary/Middle,0.03412462908011869
+0248,Sinclair Lane Elementary,0.0
+0249,Medfield Heights Elementary,0.3952380952380952
+0250,"Dr. Bernard Harris, Sr., Elementary",0.0
+0251,Callaway Elementary,0.0
+0256,Calvin M. Rodwell Elementary/Middle,0.0
+0260,Frederick Elementary,0.03735632183908046
+0262,Empowerment Academy,0.0
+0301,William S. Baer School,0.0
+0307,Claremont School,0.0
+0313,Lois T. Murray Elementary/Middle,0.0
+0314,Sharp-Leadenhall Elementary/Middle,0.0
+0321,Midtown Academy,0.06565656565656566
+0322,New Song Academy,0.0
+0323,The Crossroads School,0.0
+0325,ConneXions: A Community Based Arts School,0.0
+0326,City Neighbors Charter School,0.3261802575107296
+0327,Patterson Park Public Charter School,0.16049382716049382
+0328,Southwest Baltimore Charter School,0.07177033492822966
+0332,The Green School of Baltimore,0.4050632911392405
+0333,Independence School Local I,0.11920529801324503
+0335,Baltimore International Academy,0.039318479685452164
+0336,Baltimore Montessori Public Charter School,0.23933209647495363
+0341,The Reach! Partnership School,0.0
+0345,Joseph C. Briscoe Academy,0.0
+0346,City Neighbors Hamilton,0.3463203463203463
+0347,KIPP Harmony Academy,0.0
+0348,Baltimore Leadership School for Young Women,0.0
+0362,Bard High School Early College,0.08071748878923767
+0364,Bluford Drew Jemison STEM Academy West,0.0
+0368,Elmer A. Henderson: A Johns Hopkins Partnership,0.0
+0371,Lillie May Carroll Jackson School,0.0
+0373,Tunbridge Public Charter School,0.12317327766179541
+0374,Vanguard Collegiate Middle,0.0
+0375,Baltimore Collegiate School for Boys,0.0
+0376,City Neighbors High,0.06235011990407674
+0377,Green Street Academy,0.018497109826589597
+0382,Baltimore Design School,0.042801556420233464
+0384,Creative City Public Charter School,0.06666666666666667
+0385,Baltimore International Academy West,0.0
+0386,Clay Hill Public Charter School,0.08108108108108109
+0400,Edmondson-Westside High,0.01366742596810934
+0403,Baltimore Polytechnic Institute,0.18176139912554654
+0405,Patterson High,0.061823802163833076
+0406,Forest Park High,0.0
+0407,Western High,0.03013481363996828
+0410,Mergenthaler Vocational-Technical High,0.024017467248908297
+0413,Achievement Academy at Harbor City High,0.0
+0414,Paul Laurence Dunbar High,0.017085427135678392
+0415,Baltimore School for the Arts,0.36705882352941177
+0416,Digital Harbor High School,0.06217995610826628
+0419,Reginald F. Lewis High,0.019762845849802372
+0421,National Academy Foundation,0.019753086419753086
+0422,New Era Academy,0.028795811518324606
+0427,Academy for College and Career Exploration,0.06709677419354838
+0429,Vivien T. Thomas Medical Arts Academy,0.02850877192982456
+0430,Augusta Fells Savage Institute of Visual Arts,0.0
+0432,Coppin Academy,0.0
+0433,Renaissance Academy,0.0
+0450,Frederick Douglass High,0.017226528854435832
+0454,Carver Vocational-Technical High,0.017163504968383016
+0480,Baltimore City College,0.1746987951807229
+0884,Eager Street Academy,0.0
+A,All Baltimore City Schools,0.07310396236842444
+1000,The Seed School of Maryland,0.0
+A,All SEED Schools,0.0
+A,All Maryland Schools,0.3388290709507176

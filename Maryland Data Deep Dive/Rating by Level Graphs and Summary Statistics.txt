@@ -1,0 +1,26 @@
+High School
+Mean: 42.50
+Standard Deviation: 7.87
+Minimum: 24.45
+First Quartile: 36.74
+Median: 41.38
+Third Quartile: 46.16
+Maximum: 71.45
+
+Middle School
+Mean: 50.73
+Standard Deviation: 11.48
+Minimum: 26.71
+First Quartile: 42.00
+Median: 50.55
+Third Quartile: 59.77
+Maximum: 81.86
+
+Elementary School
+Mean: 55.46
+Standard Deviation: 13.10
+Minimum: 26.31
+First Quartile: 44.88
+Median: 55.04
+Third Quartile: 65.79
+Maximum: 90.69
